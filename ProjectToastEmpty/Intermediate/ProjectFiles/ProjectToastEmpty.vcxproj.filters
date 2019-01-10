@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectToastEmpty.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0FE1B13B-593B-43B2-8C04-6534E5EC1545}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectToastEmpty.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectToastEmptyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{83CE71FF-54D5-4323-A65A-F550AB847F22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectToastEmpty">
+      <UniqueIdentifier>{00534E8A-4C9B-4999-987F-18AB6916318E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectToastEmpty\Debug.cpp">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToastEmpty\Debug.h">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToastEmpty\FPSCharacter.cpp">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToastEmpty\FPSCharacter.h">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToastEmpty\Projectile.cpp">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToastEmpty\Projectile.h">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectToastEmpty\ProjectToastEmpty.Build.cs">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectToastEmpty\ProjectToastEmpty.cpp">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToastEmpty\ProjectToastEmpty.h">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToastEmpty\ProjectToastEmptyGameModeBase.cpp">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToastEmpty\ProjectToastEmptyGameModeBase.h">
+      <Filter>Source\ProjectToastEmpty</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

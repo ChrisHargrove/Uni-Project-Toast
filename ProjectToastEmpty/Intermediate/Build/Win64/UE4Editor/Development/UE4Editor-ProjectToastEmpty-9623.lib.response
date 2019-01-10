@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectToastEmpty-9623.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\Bullet.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\FPSCharacter.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\ProjectToastEmpty.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\ProjectToastEmptyGameModeBase.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\Bullet.gen.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\FPSCharacter.gen.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\ProjectToastEmpty.init.gen.cpp.obj"
+"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\ProjectToastEmptyGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ProjectToastEmpty\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Kimmy\Desktop\Prototype Dev - Unreal Engine - Manfredo\v1.0 12th Oct\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectToastEmpty-9623.lib"
