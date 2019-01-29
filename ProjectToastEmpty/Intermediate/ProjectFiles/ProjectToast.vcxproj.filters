@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectToast.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5921B09A-6AD2-4485-8B58-22DA4A761C0B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectToast.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectToastEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E354A7CE-C4F2-4365-B56C-5D407B6F94D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectToast">
+      <UniqueIdentifier>{C8AE8A65-0117-4720-9B18-05B66BCAD5FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectToast\Debug.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\Debug.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\FPSCharacter.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\FPSCharacter.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\InteractableActor.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\InteractableActor.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\Light_01.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\Light_01.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\MyActor.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\MyActor.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\Projectile.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\Projectile.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectToast\ProjectToast.Build.cs">
+      <Filter>Source\ProjectToast</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectToast\ProjectToast.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\ProjectToast.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectToast\ProjectToastEmpty.Build.cs">
+      <Filter>Source\ProjectToast</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectToast\ProjectToastGameModeBase.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\ProjectToastGameModeBase.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\SlidingDoor.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\SlidingDoor.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectToast\ToastHUD.cpp">
+      <Filter>Source\ProjectToast</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectToast\ToastHUD.h">
+      <Filter>Source\ProjectToast</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1201 @@
+﻿Log file open, 01/08/19 15:03:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectToast
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280322
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.064s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.08-15.03.49:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.08-15.03.49:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:237][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:239][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.08-15.03.49:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.08-15.03.49:240][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.08-15.03.49:240][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.08-15.03.49:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.08-15.03.49:248][  0]LogHAL: Display: Platform has ~ 8 GB [8445181952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.08-15.03.49:248][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.08-15.03.49:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.08-15.03.49:248][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:248][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.08-15.03.49:249][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.08-15.03.49:249][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.08-15.03.49:249][  0]LogInit: Computer: DESKTOP-NP50MTH
+[2019.01.08-15.03.49:249][  0]LogInit: User: batte
+[2019.01.08-15.03.49:249][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.08-15.03.49:249][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.01.08-15.03.49:249][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.08-15.03.49:249][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.08-15.03.49:250][  0]LogMemory: Process Physical Memory: 103.66 MB used, 103.66 MB peak
+[2019.01.08-15.03.49:250][  0]LogMemory: Process Virtual Memory: 89.96 MB used, 89.96 MB peak
+[2019.01.08-15.03.49:250][  0]LogMemory: Physical Memory: 5158.07 MB used,  2895.88 MB free, 8053.95 MB total
+[2019.01.08-15.03.49:250][  0]LogMemory: Virtual Memory: 4636.83 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.08-15.03.49:271][  0]LogInit: Using OS detected language (en-US).
+[2019.01.08-15.03.49:271][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.08-15.03.49:272][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.08-15.03.49:624][  0]LogStreaming: Display: Took  0.353s to InitEngineTextLocalization.
+[2019.01.08-15.03.49:624][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.08-15.03.49:662][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.08-15.03.49:662][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.08-15.03.49:925][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.08-15.03.49:926][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.08-15.03.50:441][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.01.08-15.03.50:442][  0]LogD3D11RHI:       4021/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.08-15.03.50:454][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.08-15.03.50:454][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.08-15.03.50:456][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.08-15.03.50:456][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.08-15.03.50:456][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.08-15.03.50:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.08-15.03.50:493][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.01.08-15.03.50:493][  0]LogWindows: EnumDisplayDevices:
+[2019.01.08-15.03.50:493][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.08-15.03.50:493][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.08-15.03.50:494][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.08-15.03.50:494][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.08-15.03.50:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.01.08-15.03.50:494][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.08-15.03.50:494][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.08-15.03.50:494][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.01.08-15.03.50:543][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.08-15.03.50:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.08-15.03.50:924][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.08-15.03.50:937][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.08-15.03.50:950][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.08-15.03.50:963][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.08-15.03.50:978][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.08-15.03.50:991][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.08-15.03.51:005][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.08-15.03.51:019][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.08-15.03.51:024][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.08-15.03.51:097][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:098][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.08-15.03.51:099][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.08-15.03.51:168][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.08-15.03.51:168][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.08-15.03.51:193][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.08-15.03.51:193][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.08-15.03.51:207][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.08-15.03.51:224][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.08-15.03.51:239][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.08-15.03.51:254][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.08-15.03.51:311][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.08-15.03.51:311][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.08-15.03.51:311][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.08-15.03.51:371][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../University Work/ProjectToast/Project-Toast 4.21/Intermediate/Shaders/WorkingDirectory/55444/).
+[2019.01.08-15.03.51:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batte/AppData/Local/Temp/UnrealShaderWorkingDir/66B254AA4532D8810C0D938F6B5BA8F3/'.
+[2019.01.08-15.03.51:373][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.08-15.03.51:373][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.08-15.03.51:373][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.08-15.03.51:948][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.08-15.03.52:008][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.08-15.03.52:008][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.08-15.03.52:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../University Work/ProjectToast/Project-Toast 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.08-15.03.52:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.08-15.03.52:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../University Work/ProjectToast/Project-Toast 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.08-15.03.52:009][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.08-15.03.52:022][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.08-15.03.52:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.08-15.03.52:022][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.08-15.03.52:035][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.08-15.03.52:035][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.08-15.03.52:035][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.08-15.03.52:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.08-15.03.52:062][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.08-15.03.52:062][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.08-15.03.52:162][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.01.08-15.03.52:502][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.08-15.03.52:679][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.08-15.03.52:683][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.08-15.03.52:683][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.08-15.03.52:683][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.08-15.03.52:683][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.08-15.03.52:700][  0]LogNetVersion: ProjectToast 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2449957701)
+[2019.01.08-15.03.53:249][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.072740 seconds
+[2019.01.08-15.03.53:255][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.08-15.03.53:255][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.01.08-15.03.53:255][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.08-15.03.54:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.08-15.03.54:290][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.08-15.03.55:184][  0]SourceControl: Source control is disabled
+[2019.01.08-15.03.55:184][  0]SourceControl: Source control is disabled
+[2019.01.08-15.03.55:185][  0]SourceControl: Source control is disabled
+[2019.01.08-15.03.55:186][  0]SourceControl: Source control is disabled
+[2019.01.08-15.03.55:350][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.08-15.03.55:408][  0]LogOcInput: OculusInput pre-init called
+[2019.01.08-15.03.55:541][  0]LogEngine: Initializing Engine...
+[2019.01.08-15.03.55:542][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.08-15.03.55:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.08-15.03.55:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.08-15.03.55:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.08-15.03.55:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.08-15.03.55:793][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.08-15.03.55:805][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.08-15.03.55:880][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-15.03.56:292][  0]LogInit: FAudioDevice initialized.
+[2019.01.08-15.03.56:292][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.08-15.03.56:438][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.08-15.03.56:444][  0]LogInit: Texture streaming: Enabled
+[2019.01.08-15.03.56:465][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.08-15.03.56:484][  0]LogInit: Transaction tracking system initialized
+[2019.01.08-15.03.56:507][  0]BlueprintLog: New page: Editor Load
+[2019.01.08-15.03.56:584][  0]LocalizationService: Localization service is disabled
+[2019.01.08-15.03.57:010][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.08-15.03.57:010][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.08-15.03.57:010][  0]LogFileCache: Scanning file cache for directory 'D:/University Work/ProjectToast/Project-Toast 4.21/Content/' took 0.02s
+[2019.01.08-15.03.57:010][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.08-15.03.57:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.08-15.03.57:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.08-15.03.57:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.08-15.03.57:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.08-15.03.57:140][  0]SourceControl: Source control is disabled
+[2019.01.08-15.03.57:140][  0]Cmd: MAP LOAD FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-15.03.57:141][  0]LightingResults: New page: Lighting Build
+[2019.01.08-15.03.57:143][  0]MapCheck: New page: Map Check
+[2019.01.08-15.03.57:143][  0]LightingResults: New page: Lighting Build
+[2019.01.08-15.03.57:458][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.08-15.03.57:468][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-15.03.57:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-15.03.57:494][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.01.08-15.03.57:494][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.354
+[2019.01.08-15.03.57:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-15.03.57:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-15.03.57:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-15.03.57:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-15.03.57:644][  0]LogCollectionManager: Loaded 0 collections in 0.001687 seconds
+[2019.01.08-15.03.57:672][  0]LogFileCache: Scanning file cache for directory 'D:/University Work/ProjectToast/Project-Toast 4.21/Saved/Collections/' took 0.01s
+[2019.01.08-15.03.57:672][  0]LogFileCache: Scanning file cache for directory 'D:/University Work/ProjectToast/Project-Toast 4.21/Content/Developers/batte/Collections/' took 0.01s
+[2019.01.08-15.03.57:672][  0]LogFileCache: Scanning file cache for directory 'D:/University Work/ProjectToast/Project-Toast 4.21/Content/Collections/' took 0.00s
+[2019.01.08-15.03.57:672][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.08-15.03.57:682][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2659 classes and 622 folders.
+[2019.01.08-15.03.57:688][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.08-15.03.57:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.08-15.03.57:768][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.08-15.03.57:774][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.01.08-15.03.57:790][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.08-15.03.57:794][  0]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.08-15.03.57:804][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.08-15.03.57:907][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-15.03.58:159][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.08-15.03.58:159][  0]LogLoad: (Engine Initialization) Total time: 11.01 seconds
+[2019.01.08-15.03.58:159][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.08-15.03.58:179][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.08-15.03.58:242][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.08-15.03.58:257][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.08-15.03.58:277][  1]LogAssetRegistry: Asset discovery search completed in 6.1369 seconds
+[2019.01.08-15.03.58:279][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.08-15.03.58:279][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.01.08-15.04.12:109][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.04.32:244][835]LogMaterial: Display: Missing cached shader map for material M_InteractHighlight, compiling. 
+[2019.01.08-15.04.32:421][835]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.08-15.13.49:725][376]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.08-15.13.59:636][403]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto1C77C52134DD16D300D2A55BF7CA9FD9C.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.01.08-15.13.59:710][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.190
+[2019.01.08-15.13.59:710][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.190
+[2019.01.08-15.21.44:914][137]AssetReimport: New page: Outstanding source content changes 15:21:44
+[2019.01.08-15.21.44:985][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.obj)
+[2019.01.08-15.21.45:197][138]LogFbx: Loading FBX Scene from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.obj
+[2019.01.08-15.21.45:352][138]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.08-15.21.51:360][138]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.08-15.21.54:134][138]LogStaticMesh: Building static mesh JunctionBox...
+[2019.01.08-15.21.55:043][138]LogStaticMesh: Built static mesh [0.91s] /Game/Models/Props/JunctionBox.JunctionBox
+[2019.01.08-15.21.55:781][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/JunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.uasset" SILENT=true
+[2019.01.08-15.21.55:829][140]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBoxB19AA2CA46430C744D8835857C27E9A4.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.uasset'
+[2019.01.08-15.21.58:842][371]AssetReimport: Importing new asset /Game/Models/Props/JunctionBox.
+[2019.01.08-15.21.59:589][439]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-15.21.59:597][439]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-15.22.04:336][622]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.08-15.22.09:645][881]LogActorFactory: Actor Factory created JunctionBox
+[2019.01.08-15.22.10:918][983]LogActorFactory: Actor Factory created JunctionBox
+[2019.01.08-15.22.12:467][ 21]LogSlate: Took 0.012088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.08-15.22.13:469][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.22.26:396][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.08-15.22.40:003][751]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.22.49:513][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.23.18:239][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.23.19:389][716]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.23.45:414][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.24.18:477][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.24.25:013][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.24.25:179][ 48]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto298555F0D4F73CBEC03BB94B4A245C9F2.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.01.08-15.24.25:181][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.150
+[2019.01.08-15.24.25:181][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2019.01.08-15.24.25:185][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/JunctionBox] ([1] browsable assets)...
+[2019.01.08-15.24.25:219][ 48]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/JunctionBox.JunctionBox]
+[2019.01.08-15.24.25:219][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/JunctionBox]
+[2019.01.08-15.24.25:232][ 48]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBox_Auto239F5A374413809B4B7546693F4DE2DF4.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Models/Props/JunctionBox_Auto2.uasset'
+[2019.01.08-15.24.25:233][ 48]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.01.08-15.24.35:419][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.25.55:153][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.25.59:689][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.26.05:797][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.26.09:208][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.27.45:448][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.27.46:416][ 97]AssetReimport: New page: Outstanding source content changes 15:27:46
+[2019.01.08-15.27.46:632][ 97]LogEditorFactories: Performing atomic reimport of [D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx]
+[2019.01.08-15.27.46:674][ 97]LogFbx: Loading FBX Scene from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx
+[2019.01.08-15.27.46:785][ 97]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.08-15.27.46:933][ 97]LogStaticMesh: Building static mesh JunctionBox...
+[2019.01.08-15.27.47:702][ 97]LogStaticMesh: Built static mesh [0.77s] /Game/Models/Props/JunctionBox.JunctionBox
+[2019.01.08-15.27.58:539][ 97]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2019.01.08-15.27.58:581][ 97]LogEditorFactories: -- imported successfully
+[2019.01.08-15.28.01:625][361]AssetReimport: Reimported asset JunctionBox from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx.
+[2019.01.08-15.28.10:029][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.28.12:370][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.28.17:757][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.28.21:564][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.28.54:512][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.34.25:891][927]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto351283F96414093876DF6C689F4BEEA56.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2019.01.08-15.34.25:893][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.439
+[2019.01.08-15.34.25:893][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2019.01.08-15.34.25:895][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/JunctionBox] ([1] browsable assets)...
+[2019.01.08-15.34.25:933][927]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/JunctionBox.JunctionBox]
+[2019.01.08-15.34.25:933][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/JunctionBox]
+[2019.01.08-15.34.25:945][927]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBox_Auto355E4A02B42EA31741A1EECAF85D34431.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Models/Props/JunctionBox_Auto3.uasset'
+[2019.01.08-15.34.25:945][927]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.01.08-15.35.33:910][307]AssetReimport: New page: Outstanding source content changes 15:35:33
+[2019.01.08-15.35.33:911][307]LogEditorFactories: Performing atomic reimport of [D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx]
+[2019.01.08-15.35.33:920][307]LogFbx: Loading FBX Scene from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx
+[2019.01.08-15.35.33:945][307]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.08-15.35.34:035][307]LogStaticMesh: Building static mesh JunctionBox...
+[2019.01.08-15.35.34:239][307]LogStaticMesh: Built static mesh [0.20s] /Game/Models/Props/JunctionBox.JunctionBox
+[2019.01.08-15.35.34:276][307]LogEditorFactories: -- imported successfully
+[2019.01.08-15.35.37:373][583]AssetReimport: Reimported asset JunctionBox from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBox.fbx.
+[2019.01.08-15.35.45:377][410]Cmd: TRANSACTION UNDO
+[2019.01.08-15.35.45:377][410]LogEditorTransaction: Undo Move Actors
+[2019.01.08-15.35.49:041][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.36.21:988][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.36.33:527][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.36.44:620][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.36.51:216][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.36.54:856][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.37.45:156][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.37.46:155][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.38.05:953][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.38.06:637][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.38.07:220][710]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.08-15.38.09:505][944]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.08-15.38.18:378][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.40.17:120][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.40.18:756][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.40.20:727][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.40.20:814][804]AssetReimport: New page: Outstanding source content changes 15:40:20
+[2019.01.08-15.40.20:816][804]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxDoor.fbx)
+[2019.01.08-15.40.20:825][804]LogFbx: Loading FBX Scene from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxDoor.fbx
+[2019.01.08-15.40.20:831][804]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.08-15.40.22:528][804]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.08-15.40.22:628][804]LogStaticMesh: Building static mesh JunctionBoxDoor...
+[2019.01.08-15.40.22:631][804]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Props/JunctionBoxDoor.JunctionBoxDoor
+[2019.01.08-15.40.22:687][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxBrokenDoor.fbx)
+[2019.01.08-15.40.22:707][805]LogFbx: Loading FBX Scene from D:/University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxBrokenDoor.fbx
+[2019.01.08-15.40.22:720][805]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.08-15.40.24:915][805]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.08-15.40.24:936][805]LogStaticMesh: Building static mesh JunctionBoxBrokenDoor...
+[2019.01.08-15.40.24:946][805]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Props/JunctionBoxBrokenDoor.JunctionBoxBrokenDoor
+[2019.01.08-15.40.25:096][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props/JunctionBoxDoor" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxDoor.uasset" SILENT=true
+[2019.01.08-15.40.25:111][806]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBoxDoor3E895F66446B4AFF69DEDB809DB9FF03.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxDoor.uasset'
+[2019.01.08-15.40.25:179][806]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBoxBrokenDoorEC0735E34406326F76A2899DE3AEABB0.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Models/Props/JunctionBoxBrokenDoor.uasset'
+[2019.01.08-15.40.28:197][997]AssetReimport: Importing new asset /Game/Models/Props/JunctionBoxDoor.
+[2019.01.08-15.40.28:197][997]AssetReimport: Importing new asset /Game/Models/Props/JunctionBoxBrokenDoor.
+[2019.01.08-15.40.30:989][209]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-15.40.30:998][209]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-15.40.37:426][616]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.08-15.40.42:607][ 13]LogActorFactory: Actor Factory created JunctionBoxDoor
+[2019.01.08-15.40.43:030][ 49]LogActorFactory: Actor Factory created JunctionBoxDoor
+[2019.01.08-15.40.44:545][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.40.59:823][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.41.05:042][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.08-15.41.05:066][ 51]LogEditorActor: Deleted 1 Actors (0.143 secs)
+[2019.01.08-15.41.25:888][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.08-15.41.28:317][273]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-15.44.16:993][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.44.46:789][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (JunctionBox)
+[2019.01.08-15.44.49:063][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.44.55:709][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.44.55:949][958]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:70613).
+[2019.01.08-15.44.55:999][959]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:70615).
+[2019.01.08-15.44.56:047][960]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:70617).
+[2019.01.08-15.44.56:093][961]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:70619).
+[2019.01.08-15.44.56:147][962]LogRenderer: Reallocating scene render targets to support 1208x636 Format 10 NumSamples 1 (Frame:70621).
+[2019.01.08-15.44.56:193][963]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:70623).
+[2019.01.08-15.44.57:722][ 90]LogRenderer: Reallocating scene render targets to support 1212x648 Format 10 NumSamples 1 (Frame:70737).
+[2019.01.08-15.44.57:814][ 92]LogRenderer: Reallocating scene render targets to support 1216x648 Format 10 NumSamples 1 (Frame:70741).
+[2019.01.08-15.44.57:915][ 94]LogRenderer: Reallocating scene render targets to support 1220x648 Format 10 NumSamples 1 (Frame:70745).
+[2019.01.08-15.45.24:549][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.45.24:717][680]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto4A38A850B4DC07E5E19255CA0403250C6.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2019.01.08-15.45.24:719][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.152
+[2019.01.08-15.45.24:719][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2019.01.08-15.45.24:722][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/JunctionBox] ([1] browsable assets)...
+[2019.01.08-15.45.24:771][680]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/JunctionBox.JunctionBox]
+[2019.01.08-15.45.24:771][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/JunctionBox]
+[2019.01.08-15.45.24:785][680]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBox_Auto4351E3E8F4D2364F8FCF57EAAF44C11D6.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Models/Props/JunctionBox_Auto4.uasset'
+[2019.01.08-15.45.24:785][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/JunctionBoxDoor] ([1] browsable assets)...
+[2019.01.08-15.45.24:820][680]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/JunctionBoxDoor.JunctionBoxDoor]
+[2019.01.08-15.45.24:820][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/JunctionBoxDoor]
+[2019.01.08-15.45.24:832][680]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBoxDoor_Auto4008DCD204D25F8846A95D48BE98654EE.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Models/Props/JunctionBoxDoor_Auto4.uasset'
+[2019.01.08-15.45.24:833][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props/JunctionBoxBrokenDoor] ([1] browsable assets)...
+[2019.01.08-15.45.24:866][680]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props/JunctionBoxBrokenDoor.JunctionBoxBrokenDoor]
+[2019.01.08-15.45.24:866][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props/JunctionBoxBrokenDoor]
+[2019.01.08-15.45.24:878][680]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/JunctionBoxBrokenDoor_Auto4D3FDA0914CFD0EC2C4682196A59461E3.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Models/Props/JunctionBoxBrokenDoor_Auto4.uasset'
+[2019.01.08-15.45.24:880][680]LogFileHelpers: Auto-saving content packages took 0.158
+[2019.01.08-15.45.32:686][394]LogActorFactory: Actor Factory created JunctionBoxBrokenDoor
+[2019.01.08-15.45.33:342][455]LogActorFactory: Actor Factory created JunctionBoxBrokenDoor
+[2019.01.08-15.45.34:525][564]Cmd: DELETE
+[2019.01.08-15.45.34:525][564]Cmd: ACTOR DELETE
+[2019.01.08-15.45.34:794][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.08-15.45.34:818][564]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.01.08-15.45.36:350][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.47.22:026][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.47.46:873][474]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.08-15.51.53:055][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.52.02:503][478]LogSlate: Window 'Content Browser 2' being destroyed
+[2019.01.08-15.52.40:697][624]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.08-15.53.06:726][553]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ElectricalJunctionBox.ElectricalJunctionBox
+[2019.01.08-15.53.08:417][553]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0154 seconds. Added 117 classes and 0 folders.
+[2019.01.08-15.53.11:124][553]LogRenderer: Reallocating scene render targets to support 1220x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-15.55.01:230][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.55.32:122][454]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSCSTreeType [SSCSEditor.cpp(3464)].
+[2019.01.08-15.55.32:372][454]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto52FDD59524FBF708A243EDE81098AE6C2.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2019.01.08-15.55.32:374][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.217
+[2019.01.08-15.55.32:374][454]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2019.01.08-15.55.32:377][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ElectricalJunctionBox] ([1] browsable assets)...
+[2019.01.08-15.55.32:378][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ElectricalJunctionBox]
+[2019.01.08-15.55.32:397][454]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox_Auto5E12BCA5D44A0E58AB14880A06F91FB62.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Blueprints/ElectricalJunctionBox_Auto5.uasset'
+[2019.01.08-15.55.32:397][454]LogFileHelpers: Auto-saving content packages took 0.021
+[2019.01.08-15.55.57:898][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.57.04:591][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.57.08:897][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-15.57.19:414][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.58.09:639][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.58.20:864][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.59.15:089][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.59.36:075][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.59.50:269][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-15.59.50:341][402]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-15.59.53:066][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-15.59.53:121][531]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBoxA3DDA5FF49DCCEFECA016AA02CC6B24B.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.00.03:106][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.00.03:878][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.08-16.00.03:914][377]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.01.08-16.00.04:906][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.08-16.00.04:939][478]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.01.08-16.00.27:665][630]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.00.32:444][ 72]Cmd: TRANSACTION UNDO
+[2019.01.08-16.00.32:444][ 72]LogEditorTransaction: Undo Move Actors
+[2019.01.08-16.00.33:049][116]LogEditorViewport: Clicking on Actor (LMB): ElectricalJunctionBox_C (ElectricalJunctionBox)
+[2019.01.08-16.00.39:638][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.00.58:373][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.01.40:123][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.01.59:753][384]LogSlate: Took 0.009870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.08-16.02.28:165][ 12]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.02.49:013][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.03.12:326][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.05.12:458][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.05.42:014][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.06.16:349][988]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto6B731ECC748CED7AA7EE8C58B465DB1D6.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2019.01.08-16.06.16:350][988]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.473
+[2019.01.08-16.06.16:350][988]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2019.01.08-16.06.16:354][988]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ElectricalJunctionBox] ([1] browsable assets)...
+[2019.01.08-16.06.16:390][988]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ElectricalJunctionBox.ElectricalJunctionBox]
+[2019.01.08-16.06.16:390][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ElectricalJunctionBox]
+[2019.01.08-16.06.16:421][988]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox_Auto6EE565AE44EFB5567674551BAE936BB4C.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Blueprints/ElectricalJunctionBox_Auto6.uasset'
+[2019.01.08-16.06.16:421][988]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.01.08-16.08.25:896][838]LogSlate: Took 0.011007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.08-16.10.57:250][715]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.11.22:615][190]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.11.24:051][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.11.24:124][255]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox2161775F4695ED8C1ECBDE90024F0D3B.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.11.27:238][461]LogEditorViewport: Clicking on Actor (LMB): ElectricalJunctionBox_C (ElectricalJunctionBox)
+[2019.01.08-16.11.31:102][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.11.33:073][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.08-16.11.37:706][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.08-16.11.38:367][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.08-16.11.40:235][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.11.52:915][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.12.08:019][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.12.17:581][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.12.21:931][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.12.36:689][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.12.42:946][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.12.43:315][957]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default94A6DC3848193D95060C05B054BFF841.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.01.08-16.12.43:446][957]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_BuiltData38B5F96E44D80C17C93D1891CEB9D65C.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.08-16.12.59:301][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.13.28:843][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.14.18:551][308]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.14.25:816][583]LogSlate: Window 'ElectricalJunctionBox*' being destroyed
+[2019.01.08-16.14.28:126][820]LogEditorViewport: Clicking on Actor (LMB): ElectricalJunctionBox_C (ElectricalJunctionBox)
+[2019.01.08-16.14.30:156][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.14.47:967][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.14.55:389][327]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.14.57:975][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.14.58:164][561]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_DefaultEB901A0F42210CEDA58E95BF96D5E990.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.01.08-16.14.58:217][561]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_BuiltDataFE8CF24F454756482F8DA5A07E85B038.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.08-16.14.58:818][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.15.00:030][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.15.00:059][741]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBoxE32E3D704CF635099CC2BD820E529A9F.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.16.03:040][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.16.03:070][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.16.03:095][280]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox011189484D59050CBFFFB6946EA37F86.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.16.03:717][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.21.49:000][847]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.24.17:627][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/DamageableInterface.DamageableInterface
+[2019.01.08-16.26.44:218][911]BlueprintLog: New page: Compile DamageableInterface
+[2019.01.08-16.26.46:790][211]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/DamageableInterface636E92F64E7EDC5127AABCA7C74DD805.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/Interfaces/DamageableInterface.uasset'
+[2019.01.08-16.26.50:605][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.26.58:007][506]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.26.59:643][657]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.27.49:508][562]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.27.52:408][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.27.52:476][872]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBoxCB93C5644809224A7867F592B1AFCD8C.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.27.59:704][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.28.30:937][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.28.43:558][370]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.08-16.28.44:805][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.28.59:358][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.29.06:478][692]LogEditorTransaction: Undo Edit Custom Time Dilation
+[2019.01.08-16.29.10:329][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.30.03:792][ 86]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2019.01.08-16.30.04:739][ 86]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0299 seconds. Added 2 classes and 2 folders.
+[2019.01.08-16.30.53:404][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.30.53:482][754]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:492][755]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:501][756]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:515][757]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:517][757]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:532][758]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:533][758]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:535][758]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:549][759]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:566][760]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:567][760]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:582][761]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:583][761]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:585][761]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:598][762]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:600][762]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:616][763]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:617][763]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:632][764]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:648][765]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:649][765]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:650][765]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:662][766]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:678][767]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:680][767]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:681][767]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:693][768]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:708][769]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:710][769]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:724][770]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:725][770]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:738][771]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:741][771]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:753][772]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:768][773]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:770][773]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:783][774]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:784][774]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:799][775]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:800][775]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:814][776]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:829][777]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:830][777]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:843][778]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:844][778]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:857][779]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:858][779]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:870][780]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:886][781]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:887][781]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:890][781]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:901][782]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:902][782]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:918][783]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:919][783]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:933][784]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:948][785]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:949][785]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:964][786]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:965][786]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:978][787]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:979][787]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:993][788]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.53:995][788]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:008][789]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:009][789]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:022][790]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:024][790]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:036][791]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:052][792]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:053][792]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:066][793]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:068][793]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:082][794]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:097][795]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:099][795]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:100][795]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:112][796]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:126][797]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:127][797]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:129][797]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:141][798]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:157][799]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:158][799]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.30.54:267][811]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.31.01:028][620]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.32.03:952][156]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/PeriodicSpark.PeriodicSpark
+[2019.01.08-16.32.30:408][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.32.43:621][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.32.45:990][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.33.47:073][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.33.50:272][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.33.51:939][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.34.41:629][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.34.55:480][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.35.08:211][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.35.50:782][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.36.04:618][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.36.06:748][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.36.25:496][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.36.43:911][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.37.08:083][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.37.11:713][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.37.46:148][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.37.46:473][ 75]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:475][ 75]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:520][ 78]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:553][ 80]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:653][ 86]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:655][ 86]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:687][ 88]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:836][ 97]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:853][ 98]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:889][100]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:923][102]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:937][103]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:955][104]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:958][104]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:972][105]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.46:988][106]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:012][107]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:014][107]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:052][109]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:069][110]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:086][111]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:121][113]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:138][114]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:171][116]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:188][117]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:207][118]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:239][120]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:256][121]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:275][122]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:289][123]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:326][125]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:343][126]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:526][137]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.47:693][147]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:726][209]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:743][210]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:759][211]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:843][216]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:892][219]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:925][221]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.48:927][221]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.49:009][226]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.49:042][228]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.49:059][229]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.49:443][252]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:443][312]LogParticles: Warning: MaxCount =  642 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:460][313]LogParticles: Warning: MaxCount =  634 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:461][313]LogParticles: Warning: MaxCount =  617 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:478][314]LogParticles: Warning: MaxCount =  608 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:479][314]LogParticles: Warning: MaxCount =  599 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:496][315]LogParticles: Warning: MaxCount =  591 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:498][315]LogParticles: Warning: MaxCount =  574 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:515][316]LogParticles: Warning: MaxCount =  565 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:520][316]LogParticles: Warning: MaxCount =  540 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:538][317]LogParticles: Warning: MaxCount =  531 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:559][318]LogParticles: Warning: MaxCount =  514 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.37.50:563][318]LogParticles: Warning: MaxCount =  505 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2019.01.08-16.38.38:486][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.38.59:338][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.39.51:519][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.40.19:855][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.40.34:865][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.41.47:539][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.42.00:728][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.42.32:682][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.43.30:909][242]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.08-16.43.30:915][242]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.01.08-16.43.31:050][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/P_PeriodicSpark" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset" SILENT=true
+[2019.01.08-16.43.31:084][242]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/P_PeriodicSparkAFFBB16B4488529FB2E0DD8714F9518A.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset'
+[2019.01.08-16.43.31:096][242]LogSlate: Window 'P_Sparks*' being destroyed
+[2019.01.08-16.43.31:129][242]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/P_PeriodicSpark.P_PeriodicSpark
+[2019.01.08-16.43.31:194][242]LogCascade: Quitting Cascade. FXSystem=0x0000023E3990E200
+[2019.01.08-16.43.34:891][415]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_Auto73FEF182E46E761ED4576FAACDDF4791B.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2019.01.08-16.43.34:893][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.302
+[2019.01.08-16.43.34:893][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2019.01.08-16.43.34:895][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ElectricalJunctionBox] ([1] browsable assets)...
+[2019.01.08-16.43.34:932][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ElectricalJunctionBox.ElectricalJunctionBox]
+[2019.01.08-16.43.34:932][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ElectricalJunctionBox]
+[2019.01.08-16.43.34:962][415]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox_Auto7EA1ECEF848992C2C11A286A18BE1AB9E.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/Blueprints/ElectricalJunctionBox_Auto7.uasset'
+[2019.01.08-16.43.34:963][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Sparks] ([1] browsable assets)...
+[2019.01.08-16.43.34:969][415]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks]
+[2019.01.08-16.43.34:969][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Sparks]
+[2019.01.08-16.43.34:995][415]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/P_Sparks_Auto74BC225384040A0B3551426985F1BA399.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/StarterContent/Particles/P_Sparks_Auto7.uasset'
+[2019.01.08-16.43.34:995][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PeriodicSpark] ([1] browsable assets)...
+[2019.01.08-16.43.35:001][415]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/PeriodicSpark.PeriodicSpark]
+[2019.01.08-16.43.35:001][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/PeriodicSpark]
+[2019.01.08-16.43.35:001][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PeriodicSpark" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/PeriodicSpark_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2019.01.08-16.43.35:009][415]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/PeriodicSpark_Auto709F30F6A4A6EA759430037BD16336911.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Autosaves/Game/PeriodicSpark_Auto7.uasset'
+[2019.01.08-16.43.35:010][415]LogFileHelpers: Auto-saving content packages took 0.115
+[2019.01.08-16.43.48:764][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/P_PeriodicSpark" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset" SILENT=true
+[2019.01.08-16.43.48:785][225]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/P_PeriodicSpark8834DA17470CC19F458EE48C509E9DAC.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset'
+[2019.01.08-16.44.25:082][383]LogCascade: Quitting Cascade. FXSystem=0x0000023E34774860
+[2019.01.08-16.44.25:091][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2019.01.08-16.44.26:958][482]LogCascade: Quitting Cascade. FXSystem=0x0000023E31D282C0
+[2019.01.08-16.44.26:966][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2019.01.08-16.44.28:189][543]LogRenderer: Reallocating scene render targets to support 1244x712 Format 10 NumSamples 1 (Frame:196264).
+[2019.01.08-16.44.32:337][682]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.08-16.44.55:332][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.45.13:434][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.45.13:499][131]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.45.16:432][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.45.22:998][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.45.25:177][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.45.25:260][813]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-16.45.25:322][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.45.25:368][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-16.45.25:448][813]PIE: New page: PIE session: Minimal_Default (8 Jan 2019 16:45:25)
+[2019.01.08-16.45.25:599][813]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.01.08-16.45.25:667][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067800s)
+[2019.01.08-16.45.25:680][813]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.08-16.45.25:737][813]LogPlayLevel: PIE: World Init took: (0.061504s)
+[2019.01.08-16.45.25:737][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.137770s)
+[2019.01.08-16.45.25:831][813]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.45.25:958][813]LogInit: FAudioDevice initialized.
+[2019.01.08-16.45.28:198][813]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.01.08-16.45.28:224][813]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.01.08-16.45.28
+[2019.01.08-16.45.28:333][813]LogWorld: Bringing up level for play took: 0.128921
+[2019.01.08-16.45.28:757][813]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.01.08-16.45.29:208][813]ProjectSpace: FPSCharacter : Initialized
+[2019.01.08-16.45.29:218][813]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 4.024
+[2019.01.08-16.45.29:219][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.45.55:692][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.45.55:708][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.45.55:801][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.08-16.45.55:801][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.45.55:886][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.45.56:047][352]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.08-16.45.58:521][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.46.04:801][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.46.13:640][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.46.23:396][971]LogEditorTransaction: Undo Collision Channel Changes
+[2019.01.08-16.46.31:462][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.46.53:678][779]BlueprintLog: New page: Compile ElectricalJunctionBox
+[2019.01.08-16.46.55:439][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.46.55:469][862]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox6CA22CA24E47199F79DE66A009E21204.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.46.56:492][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.46.57:544][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-16.46.57:553][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.46.57:553][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-16.46.57:553][986]PIE: New page: PIE session: Minimal_Default (8 Jan 2019 16:46:57)
+[2019.01.08-16.46.57:553][986]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.01.08-16.46.57:558][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004775s)
+[2019.01.08-16.46.57:559][986]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.08-16.46.57:559][986]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.01.08-16.46.57:559][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005854s)
+[2019.01.08-16.46.57:593][986]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.46.57:682][986]LogInit: FAudioDevice initialized.
+[2019.01.08-16.46.57:747][986]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.01.08-16.46.57:748][986]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.01.08-16.46.57
+[2019.01.08-16.46.57:749][986]LogWorld: Bringing up level for play took: 0.001037
+[2019.01.08-16.46.57:763][986]ProjectSpace: FPSCharacter : Initialized
+[2019.01.08-16.46.57:763][986]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.568
+[2019.01.08-16.46.57:763][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.47.18:965][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.47.18:965][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.47.19:003][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.08-16.47.19:003][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.47.19:033][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.47.19:107][248]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.08-16.47.20:253][313]LogEditorViewport: Clicking on Actor (LMB): ElectricalJunctionBox_C (ElectricalJunctionBox)
+[2019.01.08-16.47.23:308][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.47.51:874][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.47.53:076][243]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.47.54:699][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.47.54:799][345]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-16.47.54:806][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.47.54:806][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-16.47.54:806][345]PIE: New page: PIE session: Minimal_Default (8 Jan 2019 16:47:54)
+[2019.01.08-16.47.54:806][345]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.01.08-16.47.54:811][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004568s)
+[2019.01.08-16.47.54:812][345]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.08-16.47.54:812][345]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.01.08-16.47.54:812][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005770s)
+[2019.01.08-16.47.54:845][345]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.08-16.47.54:931][345]LogInit: FAudioDevice initialized.
+[2019.01.08-16.47.54:961][345]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.01.08-16.47.54:962][345]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.01.08-16.47.54
+[2019.01.08-16.47.54:963][345]LogWorld: Bringing up level for play took: 0.000846
+[2019.01.08-16.47.54:977][345]ProjectSpace: FPSCharacter : Initialized
+[2019.01.08-16.47.54:977][345]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.217
+[2019.01.08-16.47.54:977][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.48.18:581][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.48.18:581][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.48.18:622][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.08-16.48.18:622][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.08-16.48.18:658][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.08-16.48.18:726][752]Cmd: SELECT NONE
+[2019.01.08-16.48.18:784][752]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.08-16.48.22:341][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.48.29:133][369]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/P_PeriodicSpark.P_PeriodicSpark
+[2019.01.08-16.48.46:776][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.49.19:856][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.49.19:860][383]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.08-16.49.24:350][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.49.50:840][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.49.53:936][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.50.13:622][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.50.33:734][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.50.58:998][313]LogEditorTransaction: Undo Set Class
+[2019.01.08-16.50.59:320][332]LogEditorTransaction: Undo Edit Y
+[2019.01.08-16.51.00:009][373]LogEditorTransaction: Undo Edit Emitter Delay
+[2019.01.08-16.51.00:552][405]LogEditorTransaction: Undo Edit Emitter Duration
+[2019.01.08-16.51.01:620][469]LogEditorTransaction: Undo Edit Y
+[2019.01.08-16.51.02:354][513]LogEditorTransaction: Undo Edit X
+[2019.01.08-16.51.02:903][546]LogEditorTransaction: Undo Edit X
+[2019.01.08-16.51.03:386][575]LogEditorTransaction: Undo Set Class
+[2019.01.08-16.51.03:770][598]LogEditorTransaction: Undo Set Class
+[2019.01.08-16.51.09:414][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.51.56:487][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-16.52.07:822][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.52.35:828][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.54.04:212][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.54.04:314][238]LogCascade: Quitting Cascade. FXSystem=0x0000023E37464F40
+[2019.01.08-16.54.12:217][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.54.15:096][870]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/P_PeriodicSpark.P_PeriodicSpark
+[2019.01.08-16.54.21:250][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.54.43:277][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/P_PeriodicSpark" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset" SILENT=true
+[2019.01.08-16.54.43:324][547]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/P_PeriodicSparkC88D5638470D496B06FC93A240A36A0E.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset'
+[2019.01.08-16.54.47:298][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-16.54.58:015][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.55.20:290][740]LogEditorTransaction: Undo Attach Component
+[2019.01.08-16.55.20:626][759]LogEditorTransaction: Undo Rename Component Variable
+[2019.01.08-16.55.20:962][779]LogEditorTransaction: Undo Make New Scene Root
+[2019.01.08-16.55.30:019][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.55.30:107][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ElectricalJunctionBox" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset" SILENT=true
+[2019.01.08-16.55.30:130][325]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/ElectricalJunctionBox2F47621146DAE5EF49321F81B7696958.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Blueprints/ElectricalJunctionBox.uasset'
+[2019.01.08-16.55.36:384][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.55.46:085][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-16.55.53:465][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/P_PeriodicSpark" FILE="../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset" SILENT=true
+[2019.01.08-16.55.53:485][719]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/P_PeriodicSpark1E23A8B84FD69B2048159EB87C015C31.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/Particles/P_PeriodicSpark.uasset'
+[2019.01.08-16.56.05:799][443]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default0FD0F9B948FFF12790947E80C2544295.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.01.08-16.56.05:858][443]LogSavePackage: Moving '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Saved/Minimal_Default_BuiltDataB022989F45C8C14C652EFA9E82690B6D.tmp' to '../../../../../../University Work/ProjectToast/Project-Toast 4.21/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.08-16.56.07:021][505]LogCascade: Quitting Cascade. FXSystem=0x0000023E3788EF20
+[2019.01.08-17.28.23:539][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.08-17.28.32:580][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-17.28.33:811][880]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.01.08-17.28.33:890][880]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2019.01.08-17.28.37:986][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-17.28.39:204][ 22]LogEditorViewport: Clicking on Actor (LMB): ElectricalJunctionBox_C (ElectricalJunctionBox)
+[2019.01.08-17.28.40:037][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-17.28.40:987][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2019.01.08-17.28.41:853][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.01.08-17.28.42:637][117]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.08-17.28.47:150][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-17.28.47:418][246]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.01.08-17.28.47:454][246]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.01.08-17.28.50:052][313]Cmd: TRANSACTION UNDO
+[2019.01.08-17.28.50:052][313]LogEditorTransaction: Undo Delete selection
+[2019.01.08-17.28.59:185][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-17.29.07:789][687]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/MI_CellShading.MI_CellShading
+[2019.01.08-17.29.09:508][687]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.08-17.29.12:626][755]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.08-17.29.12:662][755]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.01.08-17.29.12:662][755]LogD3D11RHI: [Aftermath] GDynamicRHI=0000023DB20A4100, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.01.08-17.29.12:709][755]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectToast.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Debug.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\FPSCharacter.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\InteractableActor.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Light_01.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\MyActor.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Projectile.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ProjectToast.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ProjectToastGameModeBase.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\SlidingDoor.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ToastHUD.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\FPSCharacter.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\InteractableActor.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Light_01.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\MyActor.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Projectile.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ProjectToast.init.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ProjectToastGameModeBase.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\SlidingDoor.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\ToastHUD.gen.cpp.obj"
+"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\PCLaunch.rc.res"
+/OUT:"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\UE4Editor-ProjectToast.lib"

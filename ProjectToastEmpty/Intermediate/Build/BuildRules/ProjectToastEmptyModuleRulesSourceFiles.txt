@@ -1,3 +1,0 @@
-C:\Users\batte\Desktop\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmpty\ProjectToastEmpty.Build.cs
-C:\Users\batte\Desktop\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmpty.Target.cs
-C:\Users\batte\Desktop\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmptyEditor.Target.cs
