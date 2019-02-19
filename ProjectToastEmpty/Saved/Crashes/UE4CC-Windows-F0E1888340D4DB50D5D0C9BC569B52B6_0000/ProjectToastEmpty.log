@@ -1,0 +1,1071 @@
+﻿Log file open, 10/24/18 20:21:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectToastEmpty
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1616776895) SRandInit(-1616776895).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250634
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Binaries/Win64/UE4Editor-ProjectToastEmpty.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Aiden (192.168.1.72:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.24-19.21.43:814][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-19.21.43:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.24-19.21.43:820][  0]LogInit: Computer: AIDEN
+[2018.10.24-19.21.43:820][  0]LogInit: User: Kimmy
+[2018.10.24-19.21.43:820][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.24-19.21.43:820][  0]LogInit: High frequency timer resolution =4.101565 MHz
+[2018.10.24-19.21.43:820][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.24-19.21.43:820][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.24-19.21.43:820][  0]LogMemory: Process Physical Memory: 274.21 MB used, 274.21 MB peak
+[2018.10.24-19.21.43:820][  0]LogMemory: Process Virtual Memory: 264.78 MB used, 264.78 MB peak
+[2018.10.24-19.21.43:820][  0]LogMemory: Physical Memory: 6197.85 MB used,  10119.19 MB free, 16317.04 MB total
+[2018.10.24-19.21.43:820][  0]LogMemory: Virtual Memory: 4795.23 MB used,  10119.19 MB free, 134217728.00 MB total
+[2018.10.24-19.21.43:832][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.24-19.21.43:832][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.24-19.21.43:836][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.24-19.21.44:139][  0]LogStreaming: Display: Took  0.307s to EndInitTextLocalization.
+[2018.10.24-19.21.44:139][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.24-19.21.44:159][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.24-19.21.44:159][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.24-19.21.44:288][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.24-19.21.44:320][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.10.24-19.21.44:320][  0]LogD3D11RHI:       6061/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.24-19.21.44:322][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.24-19.21.44:322][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.24-19.21.44:322][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.24-19.21.44:327][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.24-19.21.44:327][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.24-19.21.44:327][  0]LogWindows: EnumDisplayDevices:
+[2018.10.24-19.21.44:328][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.10.24-19.21.44:328][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.24-19.21.44:328][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.24-19.21.44:328][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.24-19.21.44:328][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.24-19.21.44:328][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.10.24-19.21.44:328][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.24-19.21.44:328][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.24-19.21.44:328][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.10.24-19.21.44:345][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.24-19.21.44:345][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.24-19.21.44:345][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.24-19.21.44:360][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.24-19.21.44:408][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Intermediate/Shaders/WorkingDirectory/10068/).
+[2018.10.24-19.21.44:408][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kimmy/AppData/Local/Temp/UnrealShaderWorkingDir/E0195EB94AF58275C41057B751AA2647/'.
+[2018.10.24-19.21.44:556][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.24-19.21.44:566][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.24-19.21.44:575][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.24-19.21.44:584][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.24-19.21.44:594][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.24-19.21.44:603][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.24-19.21.44:613][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.24-19.21.44:622][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.24-19.21.44:627][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.24-19.21.44:636][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.24-19.21.44:644][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.24-19.21.44:652][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.24-19.21.44:661][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.24-19.21.44:669][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.24-19.21.44:681][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.24-19.21.44:699][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.24-19.21.44:699][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.24-19.21.44:708][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.24-19.21.44:709][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.24-19.21.44:744][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.24-19.21.44:753][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.24-19.21.44:762][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.24-19.21.44:771][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.24-19.21.44:779][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.24-19.21.44:788][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.24-19.21.44:788][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.24-19.21.44:879][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2018.10.24-19.21.45:372][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/Kimmy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kimmy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.24-19.21.45:423][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.24-19.21.45:438][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.24-19.21.45:449][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kimmy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.24-19.21.45:449][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.24-19.21.45:449][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.24-19.21.45:457][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.24-19.21.45:457][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.24-19.21.45:458][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.24-19.21.45:458][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.24-19.21.45:553][  0]LogAssetRegistry: FAssetRegistry took 0.0245 seconds to start up
+[2018.10.24-19.21.45:768][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.24-19.21.45:874][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.24-19.21.45:877][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.24-19.21.45:877][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.24-19.21.45:877][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.24-19.21.45:877][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.24-19.21.45:877][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.24-19.21.45:897][  0]LogNetVersion: ProjectToastEmpty , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 925817542)
+[2018.10.24-19.21.46:224][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.052871 seconds
+[2018.10.24-19.21.46:228][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.24-19.21.46:228][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.24-19.21.46:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.24-19.21.47:446][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.24-19.21.47:470][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.24-19.21.47:726][  0]SourceControl: Source control is disabled
+[2018.10.24-19.21.47:726][  0]SourceControl: Source control is disabled
+[2018.10.24-19.21.47:738][  0]SourceControl: Source control is disabled
+[2018.10.24-19.21.47:749][  0]SourceControl: Source control is disabled
+[2018.10.24-19.21.48:108][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.24-19.21.48:210][  0]LogOcInput: OculusInput pre-init called
+[2018.10.24-19.21.48:282][  0]LogEngine: Initializing Engine...
+[2018.10.24-19.21.48:283][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.24-19.21.48:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-19.21.48:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-19.21.48:436][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.24-19.21.48:477][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.21.48:502][  0]LogInit: FAudioDevice initialized.
+[2018.10.24-19.21.48:563][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/Kimmy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.24-19.21.48:572][  0]LogInit: Texture streaming: Enabled
+[2018.10.24-19.21.48:583][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.24-19.21.48:592][  0]LogInit: Transaction tracking system initialized
+[2018.10.24-19.21.48:607][  0]BlueprintLog: New page: Editor Load
+[2018.10.24-19.21.48:654][  0]LocalizationService: Localization service is disabled
+[2018.10.24-19.21.48:727][  0]LogConsoleResponse: Display: 
+[2018.10.24-19.21.48:827][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.24-19.21.48:827][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.24-19.21.48:827][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.24-19.21.48:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.24-19.21.48:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.24-19.21.48:996][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/' took 0.01s
+[2018.10.24-19.21.49:062][  0]SourceControl: Source control is disabled
+[2018.10.24-19.21.49:063][  0]LightingResults: New page: Lighting Build
+[2018.10.24-19.21.49:065][  0]MapCheck: New page: Map Check
+[2018.10.24-19.21.49:065][  0]LightingResults: New page: Lighting Build
+[2018.10.24-19.21.49:362][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.24-19.21.49:370][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.24-19.21.49:380][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.24-19.21.49:423][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.42ms to complete.
+[2018.10.24-19.21.49:423][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.360
+[2018.10.24-19.21.49:532][  0]LogCollectionManager: Loaded 0 collections in 0.001212 seconds
+[2018.10.24-19.21.49:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Collections/' took 0.01s
+[2018.10.24-19.21.49:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Developers/Kimmy/Collections/' took 0.01s
+[2018.10.24-19.21.49:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Collections/' took 0.01s
+[2018.10.24-19.21.49:569][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.24-19.21.49:577][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2453 classes and 560 folders.
+[2018.10.24-19.21.49:583][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.24-19.21.49:665][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.24-19.21.49:668][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.24-19.21.49:714][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.24-19.21.49:716][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.24-19.21.49:722][  0]LogSlate: Took 0.001156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.24-19.21.49:793][  0]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1).
+[2018.10.24-19.21.49:913][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.24-19.21.49:913][  0]LogLoad: (Engine Initialization) Total time: 8.07 seconds
+[2018.10.24-19.21.49:913][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.24-19.21.49:921][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.24-19.21.49:935][  0]LogAssetRegistry: Asset discovery search completed in 4.4036 seconds
+[2018.10.24-19.21.49:936][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.24-19.21.49:937][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.10.24-19.21.49:940][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.24-19.21.49:982][  0]LogSlate: Took 0.001245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-19.22.08:399][187]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallLeft_C (BP_SM_BridgeWallLeft)
+[2018.10.24-19.22.40:009][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.22.46:146][704]LogActorFactory: Actor Factory created Wall_400x300
+[2018.10.24-19.22.47:345][845]LogActorFactory: Actor Factory created Wall_400x300
+[2018.10.24-19.22.52:034][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.23.15:402][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.23.55:236][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.24.31:212][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2018.10.24-19.24.32:477][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.24.33:727][521]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.24.34:803][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2018.10.24-19.24.36:162][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.24.37:369][942]Cmd: DUPLICATE
+[2018.10.24-19.24.37:369][942]Cmd: ACTOR DUPLICATE
+[2018.10.24-19.24.42:873][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.24.47:019][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeFloorRight_C (BP_SM_Room0)
+[2018.10.24-19.24.48:328][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.28.28:905][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.28.46:423][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.29.14:532][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.10.24-19.29.21:052][834]Cmd: TRANSACTION UNDO
+[2018.10.24-19.29.21:052][834]LogEditorTransaction: Undo Move Actors
+[2018.10.24-19.29.21:059][834]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.24-19.29.24:752][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.29.30:131][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.29.44:066][590]LogEditorViewport: Clicking Background
+[2018.10.24-19.29.46:829][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.10.24-19.29.50:558][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.30.28:692][936]LogEditorViewport: Clicking Background
+[2018.10.24-19.30.33:500][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.30.40:594][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.30.52:579][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.30.53:771][902]LogActorFactory: Actor Factory created SM_CornerPillar
+[2018.10.24-19.30.54:892][ 36]LogActorFactory: Actor Factory created SM_CornerPillar
+[2018.10.24-19.30.59:267][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.31.30:129][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.31.51:044][696]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.31.52:732][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.31.53:609][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.31.59:408][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.32.47:959][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.33.21:379][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.10.24-19.33.22:515][640]LogEditorViewport: Clicking Background
+[2018.10.24-19.33.23:250][728]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.33.23:749][786]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.33.24:740][904]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.33.26:105][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.33.35:775][221]LogEditorViewport: Clicking Background
+[2018.10.24-19.33.37:427][417]LogEditorViewport: Clicking Background
+[2018.10.24-19.33.38:046][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.34.10:945][427]LogEditorViewport: Clicking Background
+[2018.10.24-19.34.16:898][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.34.24:362][ 30]LogEditorViewport: Clicking Background
+[2018.10.24-19.34.25:750][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.34.33:966][170]LogEditorViewport: Clicking Background
+[2018.10.24-19.34.37:817][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.34.42:197][149]LogEditorViewport: Clicking Background
+[2018.10.24-19.34.48:206][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.34.51:496][256]LogEditorViewport: Clicking Background
+[2018.10.24-19.34.58:834][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.35.12:413][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2018.10.24-19.35.14:098][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.35.16:541][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.35.18:149][400]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.18:149][400]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.18:150][400]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.18:150][400]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.23:317][ 19]Cmd: TRANSACTION UNDO
+[2018.10.24-19.35.23:317][ 19]LogEditorTransaction: Undo Set Rotation
+[2018.10.24-19.35.23:317][ 19]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.23:317][ 19]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.26:956][454]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.26:956][454]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.26:956][454]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.26:956][454]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.47:370][901]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.47:370][901]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.47:370][901]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.10.24-19.35.47:370][901]LogPhysics: Warning: ForeachShape(Convex): [/Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar] ScaledElem[0] invalid
+[2018.10.24-19.35.58:144][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-19.35.58:154][190]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.10.24-19.35.59:929][403]LogActorFactory: Actor Factory created SM_CornerPillar
+[2018.10.24-19.36.00:874][516]LogActorFactory: Actor Factory created SM_CornerPillar
+[2018.10.24-19.36.05:172][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.36.34:268][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.36.35:263][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.37.11:024][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.37.12:005][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.37.18:748][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.37.19:438][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.37.19:647][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.37.20:861][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.37.21:912][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.37.57:518][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.37.59:822][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.38.14:596][464]LogEditorViewport: Clicking Background
+[2018.10.24-19.38.18:688][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.38.22:772][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.38.25:386][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.38.37:355][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.39.10:257][126]LogEditorViewport: Clicking Background
+[2018.10.24-19.39.17:404][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.39.29:580][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.39.36:289][236]LogActorFactory: Actor Factory created Wall_400x300
+[2018.10.24-19.39.37:519][383]LogActorFactory: Actor Factory created Wall_400x300
+[2018.10.24-19.39.40:902][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.39.52:108][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.28:113][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.28:441][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.30:799][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerPillar)
+[2018.10.24-19.40.32:342][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.37:335][515]LogUObjectGlobals: Warning: Failed to find object 'Object /Script/ProjectToastEmpty.ProjectToastEmptyGameMode'
+[2018.10.24-19.40.37:340][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.39:127][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.40.46:459][608]LogSlate: Window 'Select Path' being destroyed
+[2018.10.24-19.41.03:411][626]LogSlate: Window 'Select Path' being destroyed
+[2018.10.24-19.41.03:652][626]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.24-19.41.03:847][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf8cad50e8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.24-19.41.03:848][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bf8cad50e0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.24-19.41.08:743][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.41.08:835][148]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.08:835][148]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.08:835][148]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.15:405][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.41.15:489][896]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.15:489][896]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.15:489][896]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.33:035][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.41.36:213][283]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.36:213][283]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.36:213][283]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.24-19.41.37:260][402]LogSavePackage: Save=13.06ms
+[2018.10.24-19.41.37:260][402]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/BP_SM_BridgeWallRight7BF7BB154C6F27577B70E090CB7BA74F.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Walls/BP_SM_BridgeWallRight.uasset'
+[2018.10.24-19.41.37:262][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Walls/BP_SM_BridgeWallRight.uasset
+[2018.10.24-19.41.38:302][525]LogSlate: Window 'BP_SM_BridgeWallRight' being destroyed
+[2018.10.24-19.41.38:304][525]LogSlate: Window 'BP_SM_BridgeWallRight' being destroyed
+[2018.10.24-19.41.45:771][415]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.41.54:385][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2018.10.24-19.41.56:375][635]Cmd: DELETE
+[2018.10.24-19.41.56:375][635]Cmd: ACTOR DELETE
+[2018.10.24-19.41.56:376][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-19.41.56:391][635]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.10.24-19.41.56:923][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2018.10.24-19.41.57:360][745]Cmd: DELETE
+[2018.10.24-19.41.57:360][745]Cmd: ACTOR DELETE
+[2018.10.24-19.41.57:361][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-19.41.57:375][745]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.10.24-19.41.59:183][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.10.24-19.42.00:482][111]Cmd: DELETE
+[2018.10.24-19.42.00:482][111]Cmd: ACTOR DELETE
+[2018.10.24-19.42.00:484][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.24-19.42.00:498][111]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.10.24-19.42.01:210][197]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeFloorLeft_C (BP_SM_Room1)
+[2018.10.24-19.42.02:264][318]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.42.03:207][422]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.42.04:132][530]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallLeft_C (BP_SM_BridgeWallLeft)
+[2018.10.24-19.42.05:044][637]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.42.06:209][774]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.42.06:941][859]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.42.07:781][957]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallLeft_C (BP_SM_BridgeWallLeft)
+[2018.10.24-19.42.11:636][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.42.26:000][128]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.42.27:249][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.42.29:750][570]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.42.33:008][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.42.33:349][977]LogSlate: Took 0.003298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.24-19.42.35:177][192]LogSlate: Took 0.003063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.24-19.42.44:013][220]LogSlate: Window 'BP_SM_BridgeWallRight' being destroyed
+[2018.10.24-19.42.44:015][220]LogSlate: Window 'BP_SM_BridgeWallRight' being destroyed
+[2018.10.24-19.43.09:333][430]LogSavePackage: Save=76.98ms
+[2018.10.24-19.43.09:333][430]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_Auto19A05C99C4702329D46506BABE3618866.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.10.24-19.43.09:334][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.10.24-19.43.09:335][430]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.100
+[2018.10.24-19.43.09:336][430]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2018.10.24-19.43.25:336][678]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.43.25:426][687]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.43.26:322][791]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.43.26:390][795]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.43.27:532][928]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.43.27:613][935]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.43.32:597][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.43.38:208][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.43.53:000][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.43.57:178][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.44.01:243][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.44.05:396][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.44.06:744][561]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.44.18:088][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.44.19:552][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.44.38:760][383]LogSlate: Window 'Select Path' being destroyed
+[2018.10.24-19.44.40:035][536]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.44.47:210][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.46.22:108][770]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.29:566][662]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.29:613][666]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.46.31:281][863]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.31:348][867]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.32:375][988]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.33:592][131]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.46.33:675][137]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.34:706][259]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.34:795][268]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.46.36:476][464]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.36:568][471]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.37:299][557]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.37:379][565]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.38:981][753]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.48:941][946]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.49:014][953]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.46.50:050][ 74]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.50:109][ 77]LogEditorViewport: Clicking on Actor (double click): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.50:798][158]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.46.50:879][166]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.46.59:469][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.47.06:444][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.47.39:870][ 17]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.47.40:696][112]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.47.42:038][269]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent01)
+[2018.10.24-19.47.50:133][236]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent02)
+[2018.10.24-19.47.51:035][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.47.52:023][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.10.24-19.47.52:799][542]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallLeft_C (BP_SM_BridgeWallLeft)
+[2018.10.24-19.48.19:828][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.48.20:605][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.48.55:033][971]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.49.59:423][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.50.05:203][379]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.50.06:770][564]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.50.06:826][569]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.10.24-19.50.11:026][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.50.12:285][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.50.13:154][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.50.23:867][606]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.50.28:792][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.50.34:347][853]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2018.10.24-19.50.38:874][383]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.50.43:466][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.50.43:549][941]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.24-19.50.43:558][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.24-19.50.43:558][941]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.24-19.50.43:559][941]LogPlayLevel: [PlayLevel] Compiling BP_SM_BridgeWallRight before play...
+[2018.10.24-19.50.43:715][941]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2018.10.24-19.50.43:715][941]PIE: New page: PIE session: Minimal_Default (24 Oct 2018 21:50:43)
+[2018.10.24-19.50.43:715][941]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.10.24-19.50.43:718][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2018.10.24-19.50.43:718][941]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.24-19.50.43:719][941]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.10.24-19.50.43:719][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003199s)
+[2018.10.24-19.50.43:736][941]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.24-19.50.43:746][941]LogInit: FAudioDevice initialized.
+[2018.10.24-19.50.43:786][941]LogLoad: Game class is 'GameModeBase'
+[2018.10.24-19.50.43:787][941]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.10.24-20.50.43
+[2018.10.24-19.50.43:787][941]LogWorld: Bringing up level for play took: 0.000825
+[2018.10.24-19.50.43:790][941]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.10.24-19.50.43:791][941]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.123
+[2018.10.24-19.50.43:791][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.24-19.50.50:363][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.24-19.50.50:395][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.24-19.50.57:611][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.51.00:733][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.51.07:648][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.10.24-19.51.09:249][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-19.51.10:699][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.51.12:141][281]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-19.51.16:777][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.10.24-19.51.22:045][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.10.24-19.51.29:337][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.24-19.51.37:690][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.51.39:987][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.51.40:526][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.51.43:344][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-19.51.47:427][385]MapCheck: New page: Map Check
+[2018.10.24-19.51.47:435][385]LightingResults: New page: Lighting Build - 24 Oct 2018 21:51:47
+[2018.10.24-19.51.47:490][385]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.24-19.51.47:540][385]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.24-19.51.47:558][385]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.24-19.51.48:622][385]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.24-19.51.48:622][385]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10068
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.24-19.51.53:334][385]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.24-19.51.53:503][385]LogEditorBuildUtils: Build time 0:06
+[2018.10.24-19.51.53:508][385]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2018.10.24-19.51.53:519][385]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2018.10.24-19.51.53:533][386]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.10.24-19.51.53:537][386]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.10.24-19.51.53:541][386]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.10.24-19.51.53:545][386]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.10.24-19.51.53:602][387]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.10.24-19.51.53:606][387]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.10.24-19.51.53:610][387]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.10.24-19.51.53:613][387]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.10.24-19.51.53:627][388]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.10.24-19.51.53:631][388]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.10.24-19.51.53:635][388]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.10.24-19.51.53:639][388]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.10.24-19.51.53:653][389]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.10.24-19.51.53:658][389]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.10.24-19.52.04:796][647]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.52.04:796][647]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.04:829][650]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.52.04:829][650]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.04:957][662]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.52.04:957][662]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.04:979][664]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-19.52.04:979][664]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.04:979][664]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.52.04:979][664]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.05:001][666]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-19.52.05:001][666]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.52.05:156][681]Job is a success!
+[2018.10.24-19.52.05:191][682]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.10.24-19.52.05:191][682]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.24-19.52.05:191][682]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.10.24-19.52.05:191][682]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.24-19.52.05:192][682]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.10.24-19.52.05:192][682]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.10.24-19.52.05:192][682]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.10.24-19.52.05:389][682]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.10.24-19.52.05:390][682]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2018.10.24-19.52.05:434][682]Lightmass on AIDEN: 1.42 sec total, 101 ms importing, 224 ms setup, 394 ms photons, 657 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 4.43 sec total, 1.56 sec processing.
+[2018.10.24-19.52.05:465][682]LogStaticLightingSystem: Illumination: 18.0 sec (143 ms encoding lightmaps, 39 ms encoding shadowmaps)
+[2018.10.24-19.52.05:465][682]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.24-19.52.05:465][682]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.24-19.52.06:346][682]DumpUnbuiltLightIteractions
+[2018.10.24-19.52.06:346][682]Lights with unbuilt interactions: 0
+[2018.10.24-19.52.06:346][682]
+[2018.10.24-19.52.06:346][682]Primitives with unbuilt interactions: 0
+[2018.10.24-19.52.06:551][683]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.24-19.52.06:551][683]MapCheck: New page: Minimal_Default - 24 Oct 2018 21:52:06
+[2018.10.24-19.52.06:606][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.132ms to complete.
+[2018.10.24-19.53.18:090][446]LogSavePackage: Save=78.06ms
+[2018.10.24-19.53.18:090][446]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_Auto22806C12F43E173C2C0BEC2BDA3413AE1.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.10.24-19.53.18:091][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2018.10.24-19.53.18:092][446]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.100
+[2018.10.24-19.53.18:093][446]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2018.10.24-19.53.18:094][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2018.10.24-19.53.18:094][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2018.10.24-19.53.18:107][446]LogSavePackage: Save=7.67ms
+[2018.10.24-19.53.18:107][446]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_BuiltData_Auto2680987474C0C586474EC19B4F139053B.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto2.uasset'
+[2018.10.24-19.53.18:108][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto2.uasset
+[2018.10.24-19.53.18:108][446]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.10.24-19.53.18:693][516]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-19.53.18:695][516]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-19.53.28:447][679]MapCheck: New page: Map Check
+[2018.10.24-19.53.28:455][679]LightingResults: New page: Lighting Build - 24 Oct 2018 21:53:28
+[2018.10.24-19.53.28:462][679]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.24-19.53.28:463][679]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.24-19.53.28:463][679]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.24-19.53.28:463][679]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.24-19.53.28:463][679]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10068
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.24-19.53.33:008][679]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.24-19.53.33:087][679]LogEditorBuildUtils: Build time 0:04
+[2018.10.24-19.53.34:138][748]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.53.34:138][748]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:170][751]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.53.34:170][751]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:310][764]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.53.34:310][764]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:332][766]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-19.53.34:332][766]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:332][766]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-19.53.34:332][766]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:343][767]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-19.53.34:343][767]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-19.53.34:500][782]Job is a success!
+[2018.10.24-19.53.34:535][783]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.10.24-19.53.34:536][783]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.10.24-19.53.34:728][783]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2018.10.24-19.53.34:741][783]Lightmass on AIDEN: 1.18 sec total, 94 ms importing, 24 ms setup, 399 ms photons, 648 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 4.37 sec total, 1.59 sec processing.
+[2018.10.24-19.53.34:765][783]LogStaticLightingSystem: Illumination: 6.30 sec (143 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2018.10.24-19.53.34:766][783]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.24-19.53.34:766][783]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.24-19.53.35:011][783]DumpUnbuiltLightIteractions
+[2018.10.24-19.53.35:012][783]Lights with unbuilt interactions: 0
+[2018.10.24-19.53.35:012][783]
+[2018.10.24-19.53.35:012][783]Primitives with unbuilt interactions: 0
+[2018.10.24-19.53.35:162][784]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.24-19.53.35:162][784]MapCheck: New page: Minimal_Default - 24 Oct 2018 21:53:35
+[2018.10.24-19.53.35:210][784]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.95ms to complete.
+[2018.10.24-19.53.42:779][690]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-19.53.42:780][690]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-19.53.49:230][462]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-19.53.57:705][476]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-20.00.55:281][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-20.01.40:882][771]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:3215).
+[2018.10.24-20.03.39:779][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.014
+[2018.10.24-20.03.39:780][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2018.10.24-20.03.39:780][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2018.10.24-20.03.39:796][875]LogSavePackage: Save=8.01ms
+[2018.10.24-20.03.39:796][875]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_BuiltData_Auto3AC60A1C94D4CCC844D0A66B88D58F2A1.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto3.uasset'
+[2018.10.24-20.03.39:797][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto3.uasset
+[2018.10.24-20.03.39:797][875]LogFileHelpers: Auto-saving content packages took 0.017
+[2018.10.24-20.04.24:770][752]LogSlate: Window 'Message' being destroyed
+[2018.10.24-20.04.43:804][534]LogSlate: Window 'Message' being destroyed
+[2018.10.24-20.04.43:808][534]LogStaticMesh: Building static mesh SM_CornerPillar...
+[2018.10.24-20.04.43:814][534]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar
+[2018.10.24-20.04.57:712][403]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.10.24-20.05.01:306][818]LogSavePackage: Save=9.29ms
+[2018.10.24-20.05.01:306][818]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/SM_CornerPillarD0162BD348E18CCDC801FCA3D42664C1.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Shapes/SM_CornerPillar.uasset'
+[2018.10.24-20.05.01:308][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Shapes/SM_CornerPillar.uasset
+[2018.10.24-20.05.09:468][258]LogSlate: Window 'Message' being destroyed
+[2018.10.24-20.05.09:476][258]LogStaticMesh: Building static mesh SM_CornerPillar...
+[2018.10.24-20.05.09:477][258]LogStaticMesh: Built static mesh [0.00s] /Game/Environment/Models/Shapes/SM_CornerPillar.SM_CornerPillar
+[2018.10.24-20.05.09:497][258]LogSlate: Window 'SM_CornerPillar*' being destroyed
+[2018.10.24-20.05.09:498][258]LogSlate: Window 'SM_CornerPillar*' being destroyed
+[2018.10.24-20.05.16:360][ 69]MapCheck: New page: Map Check
+[2018.10.24-20.05.16:371][ 69]LightingResults: New page: Lighting Build - 24 Oct 2018 22:05:16
+[2018.10.24-20.05.16:378][ 69]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.24-20.05.16:380][ 69]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.24-20.05.16:380][ 69]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.24-20.05.16:381][ 69]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.24-20.05.16:381][ 69]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10068
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.24-20.05.20:901][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.24-20.05.20:985][ 69]LogEditorBuildUtils: Build time 0:04
+[2018.10.24-20.05.21:999][133]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.05.21:999][133]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:130][145]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.05.22:130][145]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:162][148]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.05.22:162][148]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:173][149]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.05.22:173][149]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:184][150]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.05.22:184][150]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:195][151]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.05.22:195][151]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.05.22:395][169]Job is a success!
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.10.24-20.05.22:429][171]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.10.24-20.05.22:622][171]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X256)
+[2018.10.24-20.05.22:653][171]Lightmass on AIDEN: 1.19 sec total, 95 ms importing, 23 ms setup, 396 ms photons, 653 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 4.41 sec total, 1.51 sec processing.
+[2018.10.24-20.05.22:659][171]LogStaticLightingSystem: Illumination: 6.27 sec (143 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2018.10.24-20.05.22:659][171]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.24-20.05.22:659][171]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.24-20.05.22:904][171]DumpUnbuiltLightIteractions
+[2018.10.24-20.05.22:905][171]Lights with unbuilt interactions: 0
+[2018.10.24-20.05.22:905][171]
+[2018.10.24-20.05.22:905][171]Primitives with unbuilt interactions: 0
+[2018.10.24-20.05.23:125][172]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.24-20.05.23:125][172]MapCheck: New page: Minimal_Default - 24 Oct 2018 22:05:23
+[2018.10.24-20.05.23:173][172]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.836ms to complete.
+[2018.10.24-20.05.39:640][145]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.05.39:642][145]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.05.44:216][692]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-20.05.48:412][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-20.06.01:885][611]LogSlate: Window 'Message' being destroyed
+[2018.10.24-20.06.21:110][896]LogSavePackage: Save=8.40ms
+[2018.10.24-20.06.21:110][896]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/SM_CornerPillar39D8F0B445E050F2BF47F6BEF8DCCD4D.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Shapes/SM_CornerPillar.uasset'
+[2018.10.24-20.06.21:111][896]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Content/Environment/Models/Shapes/SM_CornerPillar.uasset
+[2018.10.24-20.06.27:301][631]LogSlate: Window 'SM_CornerPillar' being destroyed
+[2018.10.24-20.06.27:303][631]LogSlate: Window 'SM_CornerPillar' being destroyed
+[2018.10.24-20.06.31:150][ 83]MapCheck: New page: Map Check
+[2018.10.24-20.06.31:160][ 83]LightingResults: New page: Lighting Build - 24 Oct 2018 22:06:31
+[2018.10.24-20.06.31:167][ 83]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.24-20.06.31:168][ 83]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.24-20.06.31:168][ 83]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.24-20.06.31:169][ 83]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.24-20.06.31:169][ 83]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10068
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.24-20.06.35:693][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.24-20.06.35:775][ 83]LogEditorBuildUtils: Build time 0:04
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:134][ 88]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.06.37:134][ 88]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.06.37:459][ 89]Job is a success!
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.10.24-20.06.37:827][ 90]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.10.24-20.06.38:030][ 90]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X256)
+[2018.10.24-20.06.38:056][ 90]Lightmass on AIDEN: 1.82 sec total, 86 ms importing, 22 ms setup, 410 ms photons, 1.27 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 8.76 sec total, 1.41 sec processing.
+[2018.10.24-20.06.38:059][ 90]LogStaticLightingSystem: Illumination: 6.56 sec (145 ms encoding lightmaps, 37 ms encoding shadowmaps)
+[2018.10.24-20.06.38:059][ 90]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.24-20.06.38:060][ 90]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.24-20.06.38:698][ 90]DumpUnbuiltLightIteractions
+[2018.10.24-20.06.38:698][ 90]Lights with unbuilt interactions: 0
+[2018.10.24-20.06.38:698][ 90]
+[2018.10.24-20.06.38:698][ 90]Primitives with unbuilt interactions: 0
+[2018.10.24-20.06.38:875][ 91]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.24-20.06.38:875][ 91]MapCheck: New page: Minimal_Default - 24 Oct 2018 22:06:38
+[2018.10.24-20.06.38:922][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.991ms to complete.
+[2018.10.24-20.07.47:950][483]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.07.47:952][483]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.07.54:557][273]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-20.10.18:843][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-20.13.40:288][257]LogSlate: Window 'SM_CornerPillar' being destroyed
+[2018.10.24-20.13.40:290][257]LogSlate: Window 'SM_CornerPillar' being destroyed
+[2018.10.24-20.13.45:347][839]LogSavePackage: Save=77.84ms
+[2018.10.24-20.13.45:347][839]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_Auto4AFC73FA8489F99F1CF237B9C31F9E6F6.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.10.24-20.13.45:348][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2018.10.24-20.13.45:349][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.102
+[2018.10.24-20.13.45:349][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
+[2018.10.24-20.13.45:351][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Models/Walls/BP_SM_BridgeWallLeft] ([1] browsable assets)...
+[2018.10.24-20.13.45:359][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Environment/Models/Walls/BP_SM_BridgeWallLeft.BP_SM_BridgeWallLeft]
+[2018.10.24-20.13.45:359][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Models/Walls/BP_SM_BridgeWallLeft]
+[2018.10.24-20.13.45:375][839]LogSavePackage: Save=11.32ms
+[2018.10.24-20.13.45:375][839]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/BP_SM_BridgeWallLeft_Auto4F1277C5349BA813EA737FBA840295533.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/Environment/Models/Walls/BP_SM_BridgeWallLeft_Auto4.uasset'
+[2018.10.24-20.13.45:376][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/Environment/Models/Walls/BP_SM_BridgeWallLeft_Auto4.uasset
+[2018.10.24-20.13.45:377][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2018.10.24-20.13.45:377][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2018.10.24-20.13.45:391][839]LogSavePackage: Save=8.00ms
+[2018.10.24-20.13.45:391][839]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Minimal_Default_BuiltData_Auto4550650094B4808EB7DA566B8A7296CFF.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto4.uasset'
+[2018.10.24-20.13.45:391][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto4.uasset
+[2018.10.24-20.13.45:392][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Models/Walls/BP_SM_BridgeWallRight] ([1] browsable assets)...
+[2018.10.24-20.13.45:392][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Models/Walls/BP_SM_BridgeWallRight]
+[2018.10.24-20.13.45:403][839]LogSavePackage: Save=6.14ms
+[2018.10.24-20.13.45:403][839]LogSavePackage: Moving '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/BP_SM_BridgeWallRight_Auto4C664B3EE41B1998FA92011A33B4E9BE6.tmp' to '../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/Environment/Models/Walls/BP_SM_BridgeWallRight_Auto4.uasset'
+[2018.10.24-20.13.45:404][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kimmy/Desktop/Prototype Dev - Unreal Engine - Manfredo/v1.0 12th Oct/ProjectToastEmpty/Saved/Autosaves/Game/Environment/Models/Walls/BP_SM_BridgeWallRight_Auto4.uasset
+[2018.10.24-20.13.45:404][839]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.10.24-20.14.15:726][427]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-20.14.18:449][734]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-20.14.21:563][102]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-20.14.21:642][110]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent03)
+[2018.10.24-20.14.22:268][182]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent03)
+[2018.10.24-20.14.22:334][189]LogEditorViewport: Clicking on Actor (double click): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-20.14.22:888][254]LogEditorViewport: Clicking on Actor (LMB): BP_SM_Bridge_C (SM_Bridge_Blueprint)
+[2018.10.24-20.14.22:931][258]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent03)
+[2018.10.24-20.14.37:782][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.24-20.14.54:142][995]LogEditorViewport: Clicking on Actor (LMB): BP_SM_BridgeWallRight_C (BP_SM_BridgeWallRight)
+[2018.10.24-20.15.10:909][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.24-20.20.04:103][572]MapCheck: New page: Map Check
+[2018.10.24-20.20.04:111][572]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.24-20.20.04:111][572]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.24-20.20.04:190][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.24-20.20.04:196][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.24-20.20.04:201][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.24-20.20.04:206][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.10.24-20.20.04:210][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.10.24-20.20.04:214][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.10.24-20.20.04:219][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.24-20.20.04:222][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.24-20.20.07:323][572]TextureStreamingBuild: Display: Compiling optional shaders took 3.138 seconds.
+[2018.10.24-20.20.07:355][572]LogLevel: Display: Export Material TexCoord Scales took 0.032 seconds.
+[2018.10.24-20.20.07:363][572]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2018.10.24-20.20.07:378][572]LightingResults: New page: Lighting Build - 24 Oct 2018 22:20:07
+[2018.10.24-20.20.07:383][572]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.24-20.20.07:385][572]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.24-20.20.07:385][572]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.24-20.20.07:386][572]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.24-20.20.07:386][572]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10068
+[2018.10.24-20.20.11:898][572]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.24-20.20.11:899][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.24-20.20.11:899][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.24-20.20.11:899][572]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.24-20.20.11:899][572]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.24-20.20.11:899][572]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.24-20.20.11:963][572]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.24-20.20.11:963][572]MapCheck: New page: Minimal_Default - 24 Oct 2018 22:20:11
+[2018.10.24-20.20.12:010][572]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.309ms to complete.
+[2018.10.24-20.20.12:033][572]LogEditorBuildUtils: Build time 0:07
+[2018.10.24-20.20.13:132][646]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.20.13:132][646]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:251][657]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.20.13:251][657]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:306][662]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.20.13:306][662]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:317][663]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.20.13:317][663]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:328][664]LightingResults: Warning: SM_Tri_w600_h350_d20 Object has overlapping UVs.
+[2018.10.24-20.20.13:328][664]LightingResults: SM_Tri_w600_h350_d20 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:349][666]LightingResults: Warning: SM_CornerPillar Object has overlapping UVs.
+[2018.10.24-20.20.13:349][666]LightingResults: SM_CornerPillar Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.24-20.20.13:496][680]Job is a success!
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.10.24-20.20.13:531][681]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.10.24-20.20.13:730][681]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X256)
+[2018.10.24-20.20.13:748][681]Lightmass on AIDEN: 1.20 sec total, 103 ms importing, 24 ms setup, 399 ms photons, 650 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 4.39 sec total, 1.59 sec processing.
+[2018.10.24-20.20.13:769][681]LogStaticLightingSystem: Illumination: 6.38 sec (144 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2018.10.24-20.20.13:769][681]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.24-20.20.13:769][681]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.24-20.20.13:902][681]DumpUnbuiltLightIteractions
+[2018.10.24-20.20.13:902][681]Lights with unbuilt interactions: 0
+[2018.10.24-20.20.13:902][681]
+[2018.10.24-20.20.13:902][681]Primitives with unbuilt interactions: 0
+[2018.10.24-20.20.14:033][682]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.24-20.20.14:033][682]MapCheck: New page: Minimal_Default - 24 Oct 2018 22:20:14
+[2018.10.24-20.20.14:083][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.931ms to complete.
+[2018.10.24-20.20.18:947][265]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.20.18:949][265]LogSlate: Window 'Message Log' being destroyed
+[2018.10.24-20.20.38:398][553]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.303 s
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: 
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: Ensure condition failed: CachedShader == VertexShader->Resource [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp] [Line: 35]
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: Parameters are being set for a VertexShader which is not currently bound
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: Stack: 
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FABFB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FA95AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FA96ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F292D81D UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F291FCF1 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F485B217 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F48D2E7F UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F49CF181 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F49B6CE0 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F49B5D89 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F49B5696 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F49C7740 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F494E2B0 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F4F05F31 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000F4EE9E04 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FA82B713 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FA82BD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x0000000027D73CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x0000000027D74CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FABF9FFC UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x00000000FABEED63 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x000000003BB63034 KERNEL32.DLL!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: [Callstack] 0x000000003C961461 ntdll.dll!UnknownFunction []
+[2018.10.24-20.20.38:398][553]LogOutputDevice: Error: 
+[2018.10.24-20.20.38:398][553]LogStats:                SubmitErrorReport -  0.000 s

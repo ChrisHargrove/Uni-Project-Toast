@@ -1,0 +1,3 @@
+D:\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmpty\ProjectToastEmpty.Build.cs
+D:\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmpty.Target.cs
+D:\WorkToDo07012019\ProjectToastEmpty\Source\ProjectToastEmptyEditor.Target.cs
