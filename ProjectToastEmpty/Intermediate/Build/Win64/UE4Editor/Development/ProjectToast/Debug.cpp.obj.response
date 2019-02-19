@@ -412,21 +412,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Inc\ProjectToast"
-/I "D:\University Work\ProjectToast\Project-Toast 4.21\Source"
-/I "D:\University Work\ProjectToast\Project-Toast 4.21\Source\ProjectToast"
+/I "D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Inc\ProjectToast"
+/I "D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Source"
+/I "D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Source\ProjectToast"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\University Work\ProjectToast\Project-Toast 4.21\Source\ProjectToast\Debug.cpp"
-/FI"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Definitions.ProjectToast.h"
-/Fo"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Debug.cpp.obj"
+/FI"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Source\ProjectToast\Debug.cpp"
+/FI"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Definitions.ProjectToast.h"
+/Fo"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\UE4Editor\Development\ProjectToast\Debug.cpp.obj"
 /TP
 /GR-
 /W4

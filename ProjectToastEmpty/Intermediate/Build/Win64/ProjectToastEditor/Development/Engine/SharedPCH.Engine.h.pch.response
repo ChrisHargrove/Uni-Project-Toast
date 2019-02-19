@@ -189,11 +189,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/I "D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine"
-/Yc"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"D:\University Work\ProjectToast\Project-Toast 4.21\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I "D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine"
+/Yc"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"D:\Program Files\GitKraken\Uni-Project Toast\ProjectToastEmpty\Intermediate\Build\Win64\ProjectToastEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4
