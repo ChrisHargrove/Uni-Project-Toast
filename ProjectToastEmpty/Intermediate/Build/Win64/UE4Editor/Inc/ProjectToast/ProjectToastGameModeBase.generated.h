@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PROJECTTOAST_ProjectToastGameModeBase_generated_h
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAProjectToastGameModeBase(); \
 	friend struct Z_Construct_UClass_AProjectToastGameModeBase_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(AProjectToastGameModeBase)
 
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAProjectToastGameModeBase(); \
 	friend struct Z_Construct_UClass_AProjectToastGameModeBase_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(AProjectToastGameModeBase)
 
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AProjectToastGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProjectToastGameModeBase) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AProjectToastGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,32 +59,34 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectToastGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProjectToastGameModeBase)
 
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_12_PROLOG
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_12_PROLOG
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_GENERATED_BODY \
+#define ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
+template<> PROJECTTOAST_API UClass* StaticClass<class AProjectToastGameModeBase>();
+
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ProjectToastEmpty_Source_ProjectToast_ProjectToastGameModeBase_h
+#define CURRENT_FILE_ID ProjectToastEmpty_4_22_Source_ProjectToast_ProjectToastGameModeBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

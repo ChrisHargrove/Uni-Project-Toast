@@ -1,0 +1,1578 @@
+﻿Log file open, 03/29/19 15:08:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectToast
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.313795
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.067s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.29-15.08.04:171][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.29-15.08.04:171][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.29-15.08.04:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:171][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.29-15.08.04:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:171][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.29-15.08.04:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:172][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:174][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.29-15.08.04:174][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.29-15.08.04:175][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.29-15.08.04:175][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.29-15.08.04:175][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.29-15.08.04:182][  0]LogHAL: Display: Platform has ~ 8 GB [8445181952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.29-15.08.04:182][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.29-15.08.04:182][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.29-15.08.04:182][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:182][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.29-15.08.04:182][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.29-15.08.04:182][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:182][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.29-15.08.04:183][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.29-15.08.04:184][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.29-15.08.04:184][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.29-15.08.04:184][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.29-15.08.04:184][  0]LogInit: Computer: DESKTOP-NP50MTH
+[2019.03.29-15.08.04:184][  0]LogInit: User: batte
+[2019.03.29-15.08.04:184][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.29-15.08.04:184][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.03.29-15.08.04:184][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.29-15.08.04:184][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.29-15.08.04:184][  0]LogMemory: Process Physical Memory: 104.75 MB used, 104.75 MB peak
+[2019.03.29-15.08.04:184][  0]LogMemory: Process Virtual Memory: 87.74 MB used, 87.74 MB peak
+[2019.03.29-15.08.04:184][  0]LogMemory: Physical Memory: 5282.20 MB used,  2771.75 MB free, 8053.95 MB total
+[2019.03.29-15.08.04:184][  0]LogMemory: Virtual Memory: 4634.44 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.03.29-15.08.04:208][  0]LogInit: Using OS detected language (en-US).
+[2019.03.29-15.08.04:208][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.29-15.08.04:209][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.29-15.08.04:605][  0]LogStreaming: Display: Took  0.397s to InitEngineTextLocalization.
+[2019.03.29-15.08.04:605][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.29-15.08.04:635][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.29-15.08.04:635][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.29-15.08.04:893][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.29-15.08.04:893][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.29-15.08.04:972][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.03.29-15.08.04:972][  0]LogD3D11RHI:       4021/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.29-15.08.04:986][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.29-15.08.04:987][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.29-15.08.04:989][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.29-15.08.04:989][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.29-15.08.04:989][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.29-15.08.05:002][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.29-15.08.05:002][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.03.29-15.08.05:002][  0]LogWindows: EnumDisplayDevices:
+[2019.03.29-15.08.05:002][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.29-15.08.05:003][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.29-15.08.05:003][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.29-15.08.05:003][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.29-15.08.05:003][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.03.29-15.08.05:003][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.29-15.08.05:003][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.29-15.08.05:003][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.29-15.08.05:052][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.29-15.08.05:070][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.29-15.08.05:432][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.29-15.08.05:445][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.29-15.08.05:457][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.29-15.08.05:470][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.29-15.08.05:483][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.29-15.08.05:496][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.29-15.08.05:509][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.29-15.08.05:522][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.29-15.08.05:527][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:596][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:597][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-15.08.05:599][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.29-15.08.05:673][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.29-15.08.05:673][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.29-15.08.05:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.29-15.08.05:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.29-15.08.05:716][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.29-15.08.05:729][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.29-15.08.05:742][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.29-15.08.05:758][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.29-15.08.05:807][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.29-15.08.05:807][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.29-15.08.05:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.29-15.08.05:879][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Intermediate/Shaders/WorkingDirectory/4420/).
+[2019.03.29-15.08.05:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batte/AppData/Local/Temp/UnrealShaderWorkingDir/0B29437C41F42EFB7F2558A3A9560521/'.
+[2019.03.29-15.08.05:881][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.29-15.08.05:882][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.29-15.08.05:882][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.29-15.08.06:523][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.29-15.08.06:611][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.29-15.08.06:612][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.29-15.08.06:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.29-15.08.06:612][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.29-15.08.06:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.29-15.08.06:612][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.29-15.08.06:631][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.29-15.08.06:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.29-15.08.06:631][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.29-15.08.06:643][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.29-15.08.06:643][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.29-15.08.06:643][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.29-15.08.06:674][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.29-15.08.06:675][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.29-15.08.06:676][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.29-15.08.06:781][  0]LogAssetRegistry: FAssetRegistry took 0.0330 seconds to start up
+[2019.03.29-15.08.07:148][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.29-15.08.07:313][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.29-15.08.07:316][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.29-15.08.07:316][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.29-15.08.07:316][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.29-15.08.07:316][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.29-15.08.07:331][  0]LogNetVersion: ProjectToast 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2449957701)
+[2019.03.29-15.08.07:943][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.069320 seconds
+[2019.03.29-15.08.07:950][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.29-15.08.07:950][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.29-15.08.07:950][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.29-15.08.09:130][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.29-15.08.09:144][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.29-15.08.10:077][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.03.29-15.08.10:077][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.03.29-15.08.10:077][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/Textures/UI/crosshair.crosshair'
+[2019.03.29-15.08.10:077][  0]Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.03.29-15.08.10:077][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2019.03.29-15.08.10:078][  0]LogUObjectBase: Warning: Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.03.29-15.08.10:092][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.29-15.08.12:272][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.29-15.08.12:273][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.29-15.08.12:328][  0]SourceControl: Source control is disabled
+[2019.03.29-15.08.12:328][  0]SourceControl: Source control is disabled
+[2019.03.29-15.08.12:329][  0]SourceControl: Source control is disabled
+[2019.03.29-15.08.12:331][  0]SourceControl: Source control is disabled
+[2019.03.29-15.08.12:535][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.29-15.08.12:605][  0]LogOcInput: OculusInput pre-init called
+[2019.03.29-15.08.12:762][  0]LogEngine: Initializing Engine...
+[2019.03.29-15.08.12:763][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.29-15.08.12:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.29-15.08.12:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.29-15.08.12:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.29-15.08.12:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.29-15.08.13:081][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.29-15.08.13:104][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.29-15.08.13:204][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.08.13:630][  0]LogInit: FAudioDevice initialized.
+[2019.03.29-15.08.13:630][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.29-15.08.13:804][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.29-15.08.13:822][  0]LogInit: Texture streaming: Enabled
+[2019.03.29-15.08.13:845][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.29-15.08.13:874][  0]LogInit: Transaction tracking system initialized
+[2019.03.29-15.08.13:905][  0]BlueprintLog: New page: Editor Load
+[2019.03.29-15.08.13:985][  0]LocalizationService: Localization service is disabled
+[2019.03.29-15.08.14:537][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/ as it will conflict with another watching ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/.
+[2019.03.29-15.08.14:559][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.29-15.08.14:559][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.29-15.08.14:559][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.29-15.08.14:559][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.29-15.08.14:559][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.29-15.08.14:559][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.29-15.08.14:559][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.29-15.08.14:781][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/' took 0.03s
+[2019.03.29-15.08.14:781][  0]SourceControl: Source control is disabled
+[2019.03.29-15.08.14:782][  0]Cmd: MAP LOAD FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.29-15.08.14:782][  0]LightingResults: New page: Lighting Build
+[2019.03.29-15.08.14:786][  0]MapCheck: New page: Map Check
+[2019.03.29-15.08.14:786][  0]LightingResults: New page: Lighting Build
+[2019.03.29-15.08.17:369][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-15.08.17:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.29-15.08.17:884][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.29-15.08.17:884][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2019.03.29-15.08.17:884][  0]LogFileHelpers: Loading map 'SpaceMap' took 3.103
+[2019.03.29-15.08.18:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.08.18:107][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.08.18:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.08.18:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.08.18:134][  0]LogCollectionManager: Loaded 0 collections in 0.002805 seconds
+[2019.03.29-15.08.18:163][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Collections/' took 0.01s
+[2019.03.29-15.08.18:163][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Developers/batte/Collections/' took 0.01s
+[2019.03.29-15.08.18:163][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Collections/' took 0.00s
+[2019.03.29-15.08.18:164][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.29-15.08.18:176][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2660 classes and 624 folders.
+[2019.03.29-15.08.18:184][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.29-15.08.18:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-15.08.18:275][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.29-15.08.18:292][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.29-15.08.18:295][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.29-15.08.18:305][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.29-15.08.18:444][  0]LogRenderer: Reallocating scene render targets to support 1048x588 Format 10 NumSamples 1 (Frame:1).
+[2019.03.29-15.08.18:808][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.03.29-15.08.18:808][  0]LogLoad: (Engine Initialization) Total time: 17.26 seconds
+[2019.03.29-15.08.18:808][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.29-15.08.18:893][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.29-15.08.18:944][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/' took 0.11s
+[2019.03.29-15.08.19:441][  7]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.29-15.08.19:466][  8]LogAssetRegistry: Asset discovery search completed in 12.7067 seconds
+[2019.03.29-15.08.19:470][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.29-15.08.19:470][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000101 seconds (updated 0 objects)
+[2019.03.29-15.08.21:790][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.08.21:860][195]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.29-15.08.23:634][197]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.08.23:758][197]LogAssetEditorManager: Opening Asset editor for World /Game/Chris/StartMenu/Menu.Menu
+[2019.03.29-15.08.23:876][197]Cmd: MAP LOAD FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.29-15.08.23:876][197]LightingResults: New page: Lighting Build
+[2019.03.29-15.08.23:877][197]LoadErrors: New page: Loading map: Menu.umap
+[2019.03.29-15.08.24:068][197]MapCheck: New page: Map Check
+[2019.03.29-15.08.24:068][197]LightingResults: New page: Lighting Build
+[2019.03.29-15.08.24:367][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.29-15.08.24:445][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.29-15.08.24:445][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2019.03.29-15.08.24:445][197]LogFileHelpers: Loading map 'Menu' took 0.596
+[2019.03.29-15.08.25:804][258]AssetReimport: New page: Outstanding source content changes 15:08:25
+[2019.03.29-15.08.25:806][258]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Lights/SM_EmergencyLight.fbx)
+[2019.03.29-15.08.25:820][258]LogFbx: Loading FBX Scene from D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Lights/SM_EmergencyLight.fbx
+[2019.03.29-15.08.25:833][258]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.29-15.08.27:132][258]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.29-15.08.28:046][258]LogStaticMesh: Building static mesh SM_EmergencyLight_Reflectors...
+[2019.03.29-15.08.28:093][258]LogStaticMesh: Built static mesh [0.06s] /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors.SM_EmergencyLight_Reflectors
+[2019.03.29-15.08.28:332][258]LogStaticMesh: Building static mesh SM_EmergencyLight_GlassBell...
+[2019.03.29-15.08.28:336][258]LogStaticMesh: Built static mesh [0.00s] /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell.SM_EmergencyLight_GlassBell
+[2019.03.29-15.08.28:347][258]LogStaticMesh: Building static mesh SM_EmergencyLight_HousingRim...
+[2019.03.29-15.08.28:354][258]LogStaticMesh: Built static mesh [0.01s] /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim.SM_EmergencyLight_HousingRim
+[2019.03.29-15.08.28:849][259]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_EmergencyLight7388210B4DB82DB50F8E3980C8BBAEA4.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Lights/SM_EmergencyLight.uasset'
+[2019.03.29-15.08.30:737][364]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-15.08.30:751][364]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-15.08.31:883][441]AssetReimport: Importing new asset /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight.
+[2019.03.29-15.08.39:560][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.08.41:017][897]LogSlate: Window 'Save Content' being destroyed
+[2019.03.29-15.08.41:061][897]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.03.29-15.08.41:061][897]PIE: Warning: PIE failed because map save was canceled
+[2019.03.29-15.08.42:249][952]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-15.08.42:257][952]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-15.08.44:887][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.08.44:939][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.08.45:005][155]PIE: New page: PIE session: Menu (29 Mar 2019 15:08:44)
+[2019.03.29-15.08.45:086][155]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.08.45:167][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082215s)
+[2019.03.29-15.08.45:168][155]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.08.45:194][155]LogPlayLevel: PIE: World Init took: (0.017467s)
+[2019.03.29-15.08.45:194][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.109285s)
+[2019.03.29-15.08.45:258][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.08.45:346][155]LogInit: FAudioDevice initialized.
+[2019.03.29-15.08.45:411][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.08.45:506][155]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.08.45:643][155]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.08.45
+[2019.03.29-15.08.46:069][155]LogWorld: Bringing up level for play took: 0.460865
+[2019.03.29-15.08.46:368][155]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0087 seconds. Added 20 classes and 0 folders.
+[2019.03.29-15.08.46:593][155]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.08.46:619][155]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 2.529
+[2019.03.29-15.08.46:619][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.08.47:030][155]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.03.29-15.08.56:358][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.09.01:785][712]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.09.01:790][712]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.09.02:084][712]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-15.09.02:084][712]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-15.09.02:372][712]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2019.03.29-15.09.02
+[2019.03.29-15.09.02:485][712]LogWorld: Bringing up level for play took: 0.399560
+[2019.03.29-15.09.02:553][712]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-15.09.02:679][712]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-15.09.02:693][712]LogLoad: Took 0.902807 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-15.09.07:160][950]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.09.08:306][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.09.08:437][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.09.08:449][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.09.08:476][ 38]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.29-15.09.08:575][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.09.08:575][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.09.08:685][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.29-15.09.10:527][133]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.29-15.09.10:550][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.09.10:550][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.09.10:550][133]PIE: New page: PIE session: Menu (29 Mar 2019 15:09:10)
+[2019.03.29-15.09.10:550][133]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.09.10:561][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010677s)
+[2019.03.29-15.09.10:562][133]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.09.10:562][133]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2019.03.29-15.09.10:562][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012051s)
+[2019.03.29-15.09.10:592][133]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.09.10:682][133]LogInit: FAudioDevice initialized.
+[2019.03.29-15.09.10:687][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.09.10:728][133]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.09.10:733][133]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.09.10
+[2019.03.29-15.09.10:734][133]LogWorld: Bringing up level for play took: 0.004794
+[2019.03.29-15.09.10:748][133]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.09.10:752][133]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.662
+[2019.03.29-15.09.10:752][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.09.14:360][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.09.19:982][492]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.09.19:982][492]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.09.20:187][492]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-15.09.20:187][492]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-15.09.20:492][492]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2019.03.29-15.09.20
+[2019.03.29-15.09.20:493][492]LogWorld: Bringing up level for play took: 0.304578
+[2019.03.29-15.09.20:494][492]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-15.09.20:497][492]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-15.09.20:497][492]LogLoad: Took 0.514782 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-15.10.12:262][136]Set new viewmode: Wireframe
+[2019.03.29-15.10.13:810][255]Set new viewmode: Wireframe
+[2019.03.29-15.10.14:239][289]Set new viewmode: Unlit
+[2019.03.29-15.10.15:468][381]Set new viewmode: Unlit
+[2019.03.29-15.10.15:986][420]Set new viewmode: Unlit
+[2019.03.29-15.10.16:254][441]Set new viewmode: Wireframe
+[2019.03.29-15.10.17:396][528]Set new viewmode: Lit
+[2019.03.29-15.10.18:453][612]Set new viewmode: Unlit
+[2019.03.29-15.10.19:236][673]Set new viewmode: Wireframe
+[2019.03.29-15.10.28:190][288]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.10.29:216][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.10.29:270][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.10.29:270][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.10.29:301][370]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.29-15.10.29:347][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.10.29:348][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.10.29:622][371]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.29-15.10.30:474][416]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.29-15.10.30:497][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.10.30:497][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.10.30:497][416]PIE: New page: PIE session: Menu (29 Mar 2019 15:10:30)
+[2019.03.29-15.10.30:498][416]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.10.30:507][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009530s)
+[2019.03.29-15.10.30:508][416]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.10.30:508][416]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.03.29-15.10.30:508][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.010571s)
+[2019.03.29-15.10.30:536][416]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.10.30:622][416]LogInit: FAudioDevice initialized.
+[2019.03.29-15.10.30:627][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.10.30:664][416]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.10.30:669][416]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.10.30
+[2019.03.29-15.10.30:670][416]LogWorld: Bringing up level for play took: 0.005319
+[2019.03.29-15.10.30:685][416]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.10.30:691][416]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.602
+[2019.03.29-15.10.30:691][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.10.31:747][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.10.36:809][672]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.10.36:830][672]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.10.37:015][672]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-15.10.37:016][672]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-15.10.37:273][672]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2019.03.29-15.10.37
+[2019.03.29-15.10.37:274][672]LogWorld: Bringing up level for play took: 0.256798
+[2019.03.29-15.10.37:274][672]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-15.10.37:278][672]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-15.10.37:278][672]LogLoad: Took 0.447726 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-15.11.01:917][593]LogNet: Browse: /Game/Chris/StartMenu/Menu
+[2019.03.29-15.11.01:919][593]LogLoad: LoadMap: /Game/Chris/StartMenu/Menu
+[2019.03.29-15.11.01:982][593]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.11.01:992][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009905s)
+[2019.03.29-15.11.01:993][593]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.11.01:993][593]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.03.29-15.11.01:993][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.011238s)
+[2019.03.29-15.11.01:993][593]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.11.02:002][593]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.11.02
+[2019.03.29-15.11.02:002][593]LogWorld: Bringing up level for play took: 0.007669
+[2019.03.29-15.11.02:003][593]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.29-15.11.02:004][593]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.11.02:004][593]LogLoad: Took 0.085129 seconds to LoadMap(/Game/Chris/StartMenu/UEDPIE_0_Menu)
+[2019.03.29-15.13.08:561][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.13.08:631][784]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.29-15.13.08:639][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.13.08:679][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.13.08:680][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.13.08:778][785]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.29-15.14.20:849][  8]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu
+[2019.03.29-15.14.22:245][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2019.03.29-15.14.24:156][  8]LogSlate: Took 0.011027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.29-15.14.24:655][  9]LogSlate: Took 0.004345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.29-15.15.04:318][256]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Chris/StartMenu/MainMenu.MainMenu
+[2019.03.29-15.15.21:649][ 43]LogSlate: Window 'MainMenu' being destroyed
+[2019.03.29-15.16.53:075][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.17.11:597][827]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell.SM_EmergencyLight_GlassBell
+[2019.03.29-15.17.13:681][827]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.03.29-15.17.23:163][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.17.24:664][223]LogSlate: Window 'SM_EmergencyLight_GlassBell*' being destroyed
+[2019.03.29-15.17.26:647][343]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim.SM_EmergencyLight_HousingRim
+[2019.03.29-15.17.32:298][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.17.34:109][738]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors.SM_EmergencyLight_Reflectors
+[2019.03.29-15.17.40:526][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.18.01:407][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.18.07:981][265]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.29-15.18.23:162][883]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/Props/Lights/BP_EmergencyLight.BP_EmergencyLight
+[2019.03.29-15.20.02:227][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-15.20.13:821][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.20.36:982][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.20.39:450][217]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Glass.M_Glass
+[2019.03.29-15.20.39:530][217]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.03.29-15.20.40:255][217]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.03.29-15.20.40:321][217]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.29-15.20.40:322][217]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.29-15.20.40:322][217]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.29-15.20.40:322][217]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.29-15.20.40:325][217]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.03.29-15.20.40:398][217]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.03.29-15.20.41:562][226]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.29-15.20.41:562][226]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.29-15.20.41:586][227]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.29-15.20.41:612][228]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.29-15.20.41:854][236]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.29-15.20.41:854][236]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.29-15.20.41:884][237]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.29-15.20.41:884][237]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.29-15.20.42:126][247]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.29-15.20.42:150][248]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.29-15.20.42:178][249]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.29-15.20.42:199][250]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.29-15.20.42:736][271]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.29-15.20.43:547][302]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.29-15.20.49:066][485]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.29-15.20.49:708][506]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.29-15.20.49:997][515]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.29-15.20.50:384][528]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.29-15.20.50:784][540]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.29-15.20.51:230][555]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.29-15.20.51:871][577]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.29-15.20.52:349][593]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.29-15.20.56:984][754]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.29-15.20.57:725][779]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.29-15.20.58:327][800]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.29-15.20.58:354][801]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.29-15.20.58:871][819]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.29-15.20.59:396][836]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.29-15.20.59:973][855]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.29-15.21.00:260][865]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.29-15.21.05:689][ 45]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.29-15.21.06:020][ 56]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.29-15.21.06:739][ 80]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.29-15.21.07:155][ 94]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.29-15.21.07:252][ 97]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.29-15.21.07:419][103]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.29-15.21.07:968][121]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.29-15.21.08:629][145]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.29-15.21.14:222][310]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.29-15.21.14:334][314]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.21.14:816][314]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.29-15.21.14:962][314]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.29-15.21.15:113][314]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.29-15.21.15:113][314]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.29-15.21.15:113][314]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight2BD1DDED41DECEFE74C42D87EEED747C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.21.15:637][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.29-15.21.16:416][321]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLightA6CC72624FFEB4A5EBBBA1983D2425F5.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.21.18:195][395]LogSlate: Window 'BP_EmergencyLight' being destroyed
+[2019.03.29-15.21.32:254][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.21.51:518][132]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.29-15.22.10:093][197]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.03.29-15.22.10:140][197]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.29-15.22.10:140][197]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.29-15.22.10:140][197]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.29-15.22.10:140][197]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.29-15.22.35:965][590]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.29-15.22.36:244][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/M_Glass" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_Glass.uasset" SILENT=true
+[2019.03.29-15.22.36:291][590]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_Glass5AD3AFEE4D1A4B37315AB99A09FD8A13.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_Glass.uasset'
+[2019.03.29-15.22.46:457][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.032
+[2019.03.29-15.22.46:483][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors] ([1] browsable assets)...
+[2019.03.29-15.22.46:500][129]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors.SM_EmergencyLight_Reflectors]
+[2019.03.29-15.22.46:500][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors]
+[2019.03.29-15.22.46:528][129]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_EmergencyLight_Reflectors_Aut2F1A4D594CBE5A3EC580E39FD7A4010A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_Reflectors_Auto1.uasset'
+[2019.03.29-15.22.46:529][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell] ([1] browsable assets)...
+[2019.03.29-15.22.46:541][129]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell.SM_EmergencyLight_GlassBell]
+[2019.03.29-15.22.46:541][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell]
+[2019.03.29-15.22.46:551][129]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_EmergencyLight_GlassBell_Auto165854E84095F27A51940894161DA463.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_GlassBell_Auto1.uasset'
+[2019.03.29-15.22.46:552][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim] ([1] browsable assets)...
+[2019.03.29-15.22.46:564][129]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim.SM_EmergencyLight_HousingRim]
+[2019.03.29-15.22.46:564][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim]
+[2019.03.29-15.22.46:589][129]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_EmergencyLight_HousingRim_Aut89B797F5449FE2A1925DD4A3ACCE544B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Static_Meshes/Lights/SM_EmergencyLight_HousingRim_Auto1.uasset'
+[2019.03.29-15.22.46:590][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Materials/M_Glass_Inst] ([1] browsable assets)...
+[2019.03.29-15.22.46:604][129]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Chris/Materials/M_Glass_Inst.M_Glass_Inst]
+[2019.03.29-15.22.46:604][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Materials/M_Glass_Inst]
+[2019.03.29-15.22.46:614][129]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_Glass_Inst_Auto18BC76CDD40EC382178CB9E941A13165E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Materials/M_Glass_Inst_Auto1.uasset'
+[2019.03.29-15.22.46:614][129]LogFileHelpers: Auto-saving content packages took 0.157
+[2019.03.29-15.23.04:410][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/MI_YellowGlass" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_YellowGlass.uasset" SILENT=true
+[2019.03.29-15.23.04:424][ 69]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_YellowGlass47F19FA645C7DC675D7339A2394787D9.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_YellowGlass.uasset'
+[2019.03.29-15.23.07:478][181]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Chris/Materials/MI_YellowGlass.MI_YellowGlass
+[2019.03.29-15.23.28:458][529]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.29-15.23.30:801][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/MI_YellowGlass" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_YellowGlass.uasset" SILENT=true
+[2019.03.29-15.23.30:872][608]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_YellowGlass, compiling. 
+[2019.03.29-15.23.31:180][608]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.29-15.23.31:215][608]TextureStreamingBuild: Display: Compiling optional shaders took 0.380 seconds.
+[2019.03.29-15.23.31:301][608]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_YellowGlassEF66551F4E8C7903FE60C5AFA3869DED.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_YellowGlass.uasset'
+[2019.03.29-15.23.32:185][641]LogSlate: Window 'MI_YellowGlass' being destroyed
+[2019.03.29-15.23.32:188][641]LogSlate: Window 'MI_YellowGlass' being destroyed
+[2019.03.29-15.24.03:477][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.24.35:051][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.24.43:100][ 63]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight4999DE324A707D2C5AA1BAA33215226B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.25.30:555][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.25.54:834][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.26.00:202][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.26.07:763][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.26.39:586][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.26.43:488][ 46]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.26.43:862][ 46]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight8E0A38F742FD8CDAA77A83A7A49131DB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.27.27:509][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.27.43:365][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.27.52:460][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.28.06:266][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.28.14:464][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.28.14:540][623]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.28.14:860][623]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight1E605F0C45EEF79B9C0DF5AFE52BD224.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.28.15:370][659]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight254C5631449A37F7F85BEAA2CA69B81D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.28.33:280][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.28.45:650][ 41]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.28.45:933][ 41]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight5D5BB0364E58B998D33618944058186B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.31.55:422][212]LogEditorTransaction: Undo Straighten Connection(s)
+[2019.03.29-15.32.49:606][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.038
+[2019.03.29-15.32.49:608][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Props/Lights/BP_EmergencyLight] ([1] browsable assets)...
+[2019.03.29-15.32.49:625][675]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chris/Props/Lights/BP_EmergencyLight.BP_EmergencyLight]
+[2019.03.29-15.32.49:625][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Props/Lights/BP_EmergencyLight]
+[2019.03.29-15.32.49:684][675]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight_Auto2CB330B62440226D5973F26B16E31EBD4.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Props/Lights/BP_EmergencyLight_Auto2.uasset'
+[2019.03.29-15.32.49:685][675]LogFileHelpers: Auto-saving content packages took 0.077
+[2019.03.29-15.32.56:269][461]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.32.56:608][461]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight4477543640865C7F39603188F5E80534.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.33.06:649][655]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.33.06:938][655]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight3860BB6A448C27C70193A189D3756150.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.33.07:472][705]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight924CCD4B411916B1BC12FEB71893C472.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.33.33:304][792]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight56E645CD4207CA5A679366AC73B0A112.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.33.47:259][457]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight07B4A71A4D9563A58BB2EFBAF4ECD5E2.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.33.56:695][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.04:741][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.04:813][292]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.29-15.34.04:846][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.04:846][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.34.04:846][292]PIE: New page: PIE session: Menu (29 Mar 2019 15:34:04)
+[2019.03.29-15.34.04:846][292]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.34.04:860][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013435s)
+[2019.03.29-15.34.04:861][292]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.34.04:861][292]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.03.29-15.34.04:861][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.014452s)
+[2019.03.29-15.34.04:905][292]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.34.05:008][292]LogInit: FAudioDevice initialized.
+[2019.03.29-15.34.05:015][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.34.05:051][292]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.34.05:059][292]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.34.05
+[2019.03.29-15.34.05:061][292]LogWorld: Bringing up level for play took: 0.008697
+[2019.03.29-15.34.05:079][292]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.34.05:084][292]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.994
+[2019.03.29-15.34.05:084][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.12:382][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.28:278][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.28:376][118]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.29-15.34.28:421][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.28:465][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.34.28:465][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.28:532][119]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.29-15.34.30:866][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.30:866][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.34.30:867][291]PIE: New page: PIE session: Menu (29 Mar 2019 15:34:30)
+[2019.03.29-15.34.30:867][291]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.34.30:878][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011358s)
+[2019.03.29-15.34.30:879][291]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.34.30:879][291]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2019.03.29-15.34.30:879][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012464s)
+[2019.03.29-15.34.30:915][291]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.34.31:001][291]LogInit: FAudioDevice initialized.
+[2019.03.29-15.34.31:070][291]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.34.31:074][291]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.34.31
+[2019.03.29-15.34.31:075][291]LogWorld: Bringing up level for play took: 0.003782
+[2019.03.29-15.34.31:089][291]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.34.31:089][291]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.999
+[2019.03.29-15.34.31:089][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.34.32:548][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.46:732][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.34.47:460][ 98]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.34.57:783][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.35.16:925][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.35.16:928][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.35.17:008][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.35.17:008][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.35.17:041][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.35.17:063][699]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.29-15.35.25:634][642]LogSlate: Took 0.007153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.29-15.36.01:021][787]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.36.01:324][787]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight0EC27708447C0D1A4FAF0CB40D80A9C0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.36.01:834][830]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight9FF87A9E493D1F3080F467A69B13E449.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.36.04:732][165]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.36.09:099][647]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.36.09:414][647]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight0BEE9934431A27581F3AF384AD50050E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.36.15:189][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.36.15:216][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.15:216][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.36.15:216][974]PIE: New page: PIE session: Menu (29 Mar 2019 15:36:15)
+[2019.03.29-15.36.15:216][974]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.36.15:228][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011179s)
+[2019.03.29-15.36.15:228][974]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.36.15:229][974]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.03.29-15.36.15:229][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012475s)
+[2019.03.29-15.36.15:261][974]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.36.15:349][974]LogInit: FAudioDevice initialized.
+[2019.03.29-15.36.15:383][974]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.36.15:387][974]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.36.15
+[2019.03.29-15.36.15:388][974]LogWorld: Bringing up level for play took: 0.003724
+[2019.03.29-15.36.15:402][974]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.36.15:402][974]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.688
+[2019.03.29-15.36.15:402][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.18:783][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.36.19:527][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.36.21:955][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.36.28:194][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.36.44:828][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.36.44:909][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.44:910][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.36.44:961][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.36.44:961][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.44:997][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.36.45:019][520]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.29-15.36.52:693][287]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.36.53:006][287]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLightFD0FF2434FF3B4D41AA6F68896520ECB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.36.55:007][413]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.36.55:038][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.55:038][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.36.55:038][413]PIE: New page: PIE session: Menu (29 Mar 2019 15:36:55)
+[2019.03.29-15.36.55:038][413]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.36.55:050][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011958s)
+[2019.03.29-15.36.55:051][413]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.36.55:051][413]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2019.03.29-15.36.55:051][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012743s)
+[2019.03.29-15.36.55:088][413]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.36.55:174][413]LogInit: FAudioDevice initialized.
+[2019.03.29-15.36.55:207][413]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.36.55:210][413]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.36.55
+[2019.03.29-15.36.55:211][413]LogWorld: Bringing up level for play took: 0.003410
+[2019.03.29-15.36.55:225][413]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.36.55:225][413]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 1.135
+[2019.03.29-15.36.55:225][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.36.56:468][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.36.58:143][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.37.05:082][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.37.05:168][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.05:168][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.37.05:212][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.37.05:212][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.05:244][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.37.05:272][822]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.03.29-15.37.28:832][110]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.29-15.37.31:234][342]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.37.31:550][342]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLightC34DF5FC498CD6E7CDFF8FBD3C2A9036.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.37.32:116][387]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight5D6A19794DB0F292EF50109A0FE9ECC1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.37.35:563][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.37.41:369][881]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.37.41:399][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.41:399][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.37.41:400][881]PIE: New page: PIE session: Menu (29 Mar 2019 15:37:41)
+[2019.03.29-15.37.41:400][881]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.37.41:411][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011288s)
+[2019.03.29-15.37.41:412][881]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.37.41:412][881]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2019.03.29-15.37.41:412][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012165s)
+[2019.03.29-15.37.41:452][881]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.37.41:541][881]LogInit: FAudioDevice initialized.
+[2019.03.29-15.37.41:578][881]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.37.41:583][881]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.37.41
+[2019.03.29-15.37.41:584][881]LogWorld: Bringing up level for play took: 0.004028
+[2019.03.29-15.37.41:600][881]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.37.41:600][881]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.49
+[2019.03.29-15.37.41:600][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.49:013][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.37.49:084][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.49:085][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.37.49:131][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.37.49:131][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.37.49:174][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.37.49:197][254]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.03.29-15.37.51:049][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.37.51:050][428]Can't find target actor or component.
+[2019.03.29-15.37.52:136][487]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.37.53:776][616]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.38.00:683][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.38.06:363][262]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.38.06:390][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.06:391][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.38.06:391][262]PIE: New page: PIE session: Menu (29 Mar 2019 15:38:06)
+[2019.03.29-15.38.06:391][262]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.38.06:403][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012565s)
+[2019.03.29-15.38.06:404][262]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.38.06:404][262]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.03.29-15.38.06:404][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.013546s)
+[2019.03.29-15.38.06:447][262]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.38.06:542][262]LogInit: FAudioDevice initialized.
+[2019.03.29-15.38.06:579][262]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.38.06:584][262]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.38.06
+[2019.03.29-15.38.06:584][262]LogWorld: Bringing up level for play took: 0.004012
+[2019.03.29-15.38.06:599][262]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.38.06:599][262]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.509
+[2019.03.29-15.38.06:600][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.20:495][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.38.20:558][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.20:558][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.38.20:607][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.38.20:608][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.20:641][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.38.20:663][964]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.03.29-15.38.38:565][799]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.38.38:590][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.38:590][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.38.38:590][799]PIE: New page: PIE session: Menu (29 Mar 2019 15:38:38)
+[2019.03.29-15.38.38:590][799]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.38.38:601][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010863s)
+[2019.03.29-15.38.38:602][799]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.38.38:602][799]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2019.03.29-15.38.38:602][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012014s)
+[2019.03.29-15.38.38:637][799]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.38.38:724][799]LogInit: FAudioDevice initialized.
+[2019.03.29-15.38.38:759][799]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.38.38:763][799]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.03.29-15.38.38
+[2019.03.29-15.38.38:763][799]LogWorld: Bringing up level for play took: 0.003266
+[2019.03.29-15.38.38:777][799]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.38.38:777][799]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.687
+[2019.03.29-15.38.38:777][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.42:661][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.38.42:743][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.42:744][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.38.42:786][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.38.42:786][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.38.42:819][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.38.42:842][991]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.03.29-15.39.05:527][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.39.13:047][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.39.13:133][881]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.39.13:491][881]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLightE16A24A5433D44B0AA34B8859F7F5A4C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.39.14:057][916]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight281D3E5E425792A0441D1C8AC1DF01BD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.39.22:275][385]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.39.26:039][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.39.37:611][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.40.18:946][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-15.40.35:059][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.40.35:126][697]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.40.35:149][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.35:150][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.40.35:150][697]PIE: New page: PIE session: Menu (29 Mar 2019 15:40:35)
+[2019.03.29-15.40.35:150][697]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.40.35:163][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013161s)
+[2019.03.29-15.40.35:164][697]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.40.35:164][697]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2019.03.29-15.40.35:164][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.014540s)
+[2019.03.29-15.40.35:212][697]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.40.35:299][697]LogInit: FAudioDevice initialized.
+[2019.03.29-15.40.35:336][697]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.40.35:340][697]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.40.35
+[2019.03.29-15.40.35:341][697]LogWorld: Bringing up level for play took: 0.003674
+[2019.03.29-15.40.35:363][697]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.40.35:363][697]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.727
+[2019.03.29-15.40.35:363][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.37:745][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.40.54:022][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.40.54:098][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.54:099][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.40.54:169][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.40.54:169][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.54:207][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.40.54:229][633]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.03.29-15.40.56:575][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.40.56:602][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.56:603][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.40.56:603][740]PIE: New page: PIE session: Menu (29 Mar 2019 15:40:56)
+[2019.03.29-15.40.56:603][740]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.40.56:615][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012100s)
+[2019.03.29-15.40.56:616][740]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.40.56:616][740]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2019.03.29-15.40.56:616][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.013098s)
+[2019.03.29-15.40.56:655][740]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.40.56:749][740]LogInit: FAudioDevice initialized.
+[2019.03.29-15.40.56:784][740]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.40.56:788][740]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.40.56
+[2019.03.29-15.40.56:789][740]LogWorld: Bringing up level for play took: 0.003875
+[2019.03.29-15.40.56:803][740]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.40.56:804][740]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.714
+[2019.03.29-15.40.56:804][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.40.58:826][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.41.03:392][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.03:392][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.41.03:441][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.41.03:441][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.03:491][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.41.03:519][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.03.29-15.41.10:217][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.41.12:314][559]Cmd: DUPLICATE
+[2019.03.29-15.41.12:314][559]Cmd: ACTOR DUPLICATE
+[2019.03.29-15.41.27:120][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.41.27:240][381]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.41.27:262][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.27:262][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.41.27:262][381]PIE: New page: PIE session: Menu (29 Mar 2019 15:41:27)
+[2019.03.29-15.41.27:262][381]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.41.27:273][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010950s)
+[2019.03.29-15.41.27:274][381]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.41.27:274][381]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2019.03.29-15.41.27:274][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012104s)
+[2019.03.29-15.41.27:313][381]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.41.27:398][381]LogInit: FAudioDevice initialized.
+[2019.03.29-15.41.27:433][381]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.41.27:438][381]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.41.27
+[2019.03.29-15.41.27:438][381]LogWorld: Bringing up level for play took: 0.003781
+[2019.03.29-15.41.27:452][381]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.41.27:452][381]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.637
+[2019.03.29-15.41.27:452][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.34:580][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.41.34:642][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.34:642][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.41.34:691][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.41.34:691][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.41.34:724][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.41.34:746][735]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.03.29-15.41.40:785][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-15.41.41:363][ 11]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MenuB49E673A4CBA43F59BF0458CEAD4CA19.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-15.41.41:419][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset" SILENT=true
+[2019.03.29-15.41.41:509][ 11]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu_BuiltData343B8DF141951E8387CC47A5581838C8.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset'
+[2019.03.29-15.41.49:310][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.42.43:889][705]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.42.44:203][705]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight8E5B0AD040A4D1E49E7EC2B6E84428D1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.42.57:624][502]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.42.57:936][502]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight6B041AE542D7FBCDD61AA682DF296A77.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.43.04:191][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-15.43.04:537][851]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu31A6615245D42AAA02229285B3DEE45A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-15.43.04:580][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset" SILENT=true
+[2019.03.29-15.43.04:598][851]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu_BuiltData0E82C2BB456B4ABC00997EB288FAF152.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset'
+[2019.03.29-15.44.27:144][719]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.44.27:499][719]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight8264AE06448F54D7361C5D97037E2AA7.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.44.43:666][676]BlueprintLog: New page: Compile BP_EmergencyLight
+[2019.03.29-15.44.43:995][676]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight1FA6612C438317F02920E085BC8E360D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.44.44:517][699]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLightE4C86AC847FA5CB61D459CB9B7EB726D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.03.29-15.45.27:257][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-15.45.27:608][238]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu6BA5E4EA4BCB2A69E26E15A232949593.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-15.45.27:653][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset" SILENT=true
+[2019.03.29-15.45.27:670][238]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu_BuiltData84544C2A47862F7994D381A38311503C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu_BuiltData.uasset'
+[2019.03.29-15.45.29:142][304]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.45.29:169][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.29:169][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.45.29:169][304]PIE: New page: PIE session: Menu (29 Mar 2019 15:45:29)
+[2019.03.29-15.45.29:169][304]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.45.29:181][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011191s)
+[2019.03.29-15.45.29:182][304]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.45.29:182][304]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2019.03.29-15.45.29:182][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.012603s)
+[2019.03.29-15.45.29:219][304]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.45.29:307][304]LogInit: FAudioDevice initialized.
+[2019.03.29-15.45.29:343][304]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.45.29:347][304]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.45.29
+[2019.03.29-15.45.29:349][304]LogWorld: Bringing up level for play took: 0.004293
+[2019.03.29-15.45.29:362][304]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.45.29:362][304]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.727
+[2019.03.29-15.45.29:362][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.30:972][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.45.31:064][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.31:064][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.45.31:115][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.45.31:115][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.31:159][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.45.31:334][386]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.03.29-15.45.40:599][854]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.45.40:623][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.40:623][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.45.40:623][854]PIE: New page: PIE session: Menu (29 Mar 2019 15:45:40)
+[2019.03.29-15.45.40:623][854]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.45.40:633][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010391s)
+[2019.03.29-15.45.40:634][854]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.45.40:635][854]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.03.29-15.45.40:635][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.011657s)
+[2019.03.29-15.45.40:672][854]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.45.40:761][854]LogInit: FAudioDevice initialized.
+[2019.03.29-15.45.40:796][854]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.45.40:800][854]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.45.40
+[2019.03.29-15.45.40:801][854]LogWorld: Bringing up level for play took: 0.003409
+[2019.03.29-15.45.40:815][854]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.45.40:815][854]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.725
+[2019.03.29-15.45.40:815][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.48:023][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.45.48:099][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.48:100][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.45.48:142][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.45.48:142][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.45.48:178][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.45.48:199][227]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.03.29-15.45.52:870][436]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu
+[2019.03.29-15.47.18:329][371]BlueprintLog: New page: Compile Menu
+[2019.03.29-15.47.18:859][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-15.47.19:219][371]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu7A45AF744FAD2C2F28950E9E15A74914.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-15.47.19:260][371]LogFileHelpers: Saving map 'Menu' took 0.401
+[2019.03.29-15.47.21:657][512]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-15.47.21:680][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.47.21:680][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-15.47.21:680][512]PIE: New page: PIE session: Menu (29 Mar 2019 15:47:21)
+[2019.03.29-15.47.21:680][512]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-15.47.21:694][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014174s)
+[2019.03.29-15.47.21:695][512]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-15.47.21:695][512]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2019.03.29-15.47.21:695][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.015288s)
+[2019.03.29-15.47.21:732][512]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-15.47.21:819][512]LogInit: FAudioDevice initialized.
+[2019.03.29-15.47.21:827][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.47.21:860][512]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-15.47.21:865][512]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-15.47.21
+[2019.03.29-15.47.21:866][512]LogWorld: Bringing up level for play took: 0.005415
+[2019.03.29-15.47.21:878][512]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.29-15.47.21:880][512]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.47.21:883][512]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.207
+[2019.03.29-15.47.21:884][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.47.23:748][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.47.28:862][790]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.47.28:883][790]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-15.47.29:265][790]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-15.47.29:265][790]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-15.47.29:534][790]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.29-15.47.29
+[2019.03.29-15.47.29:590][790]LogWorld: Bringing up level for play took: 0.319216
+[2019.03.29-15.47.29:591][790]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-15.47.29:606][790]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-15.47.29:607][790]LogLoad: Took 0.723434 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-15.47.34:175][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-15.47.35:642][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-15.47.36:310][178]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-15.47.37:943][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-15.47.37:992][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-15.47.37:992][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.47.38:020][279]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.29-15.47.38:069][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-15.47.38:069][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-15.47.38:148][280]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.03.29-15.50.34:309][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-15.50.34:674][809]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu3F0E098B4FD2F0217FA5F98401737ABA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-15.50.34:722][809]LogFileHelpers: Saving map 'Menu' took 0.413
+[2019.03.29-16.00.43:568][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.056
+[2019.03.29-16.04.11:112][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.06.27:608][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.06.27:692][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-16.06.27:745][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.06.27:746][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-16.06.27:746][986]PIE: New page: PIE session: Menu (29 Mar 2019 16:06:27)
+[2019.03.29-16.06.27:746][986]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-16.06.27:766][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019860s)
+[2019.03.29-16.06.27:766][986]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-16.06.27:766][986]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2019.03.29-16.06.27:766][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.021203s)
+[2019.03.29-16.06.27:824][986]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-16.06.27:920][986]LogInit: FAudioDevice initialized.
+[2019.03.29-16.06.27:958][986]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-16.06.27:961][986]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-16.06.27
+[2019.03.29-16.06.27:962][986]LogWorld: Bringing up level for play took: 0.003478
+[2019.03.29-16.06.27:976][986]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-16.06.27:977][986]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu -0.113
+[2019.03.29-16.06.27:977][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.06.28:851][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.06.33:951][288]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-16.06.33:968][288]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-16.06.34:170][288]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-16.06.34:170][288]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-16.06.34:435][288]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.29-16.06.34
+[2019.03.29-16.06.34:436][288]LogWorld: Bringing up level for play took: 0.265141
+[2019.03.29-16.06.34:437][288]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-16.06.34:440][288]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-16.06.34:440][288]LogLoad: Took 0.472403 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-16.06.35:466][342]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-16.06.36:616][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.06.36:700][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.06.36:700][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.06.36:741][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-16.06.36:741][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.06.36:781][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.06.36:866][417]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.03.29-16.06.39:477][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-16.06.59:175][727]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.03.29-16.07.00:826][791]LogEditorViewport: Clicking Background
+[2019.03.29-16.07.08:278][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.07.46:798][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.07.46:865][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-16.07.46:895][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.07.46:895][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-16.07.46:895][249]PIE: New page: PIE session: Menu (29 Mar 2019 16:07:46)
+[2019.03.29-16.07.46:895][249]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-16.07.46:906][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010565s)
+[2019.03.29-16.07.46:906][249]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-16.07.46:907][249]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2019.03.29-16.07.46:907][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.011780s)
+[2019.03.29-16.07.46:944][249]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-16.07.47:032][249]LogInit: FAudioDevice initialized.
+[2019.03.29-16.07.47:068][249]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-16.07.47:072][249]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-16.07.47
+[2019.03.29-16.07.47:072][249]LogWorld: Bringing up level for play took: 0.003342
+[2019.03.29-16.07.47:086][249]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-16.07.47:086][249]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.996
+[2019.03.29-16.07.47:086][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.07.48:191][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.07.52:062][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.07.52:062][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.07.52:117][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-16.07.52:117][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-16.07.52:156][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.07.52:175][497]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.03.29-16.10.58:305][136]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu_Auto3119B4ACB408EA37F2A0D72A2522E30D5.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/StartMenu/Menu_Auto3.umap'
+[2019.03.29-16.10.58:307][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.407
+[2019.03.29-16.10.58:307][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2019.03.29-16.17.32:827][283]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/batte/Desktop/Sounds/MetalClunk.aiff)
+[2019.03.29-16.17.38:077][557]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Chris/Sounds/MetalClunk.MetalClunk
+[2019.03.29-16.20.58:531][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.038
+[2019.03.29-16.20.58:533][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/Sounds/MetalClunk] ([1] browsable assets)...
+[2019.03.29-16.20.58:533][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Sounds/MetalClunk]
+[2019.03.29-16.20.58:536][145]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MetalClunk_Auto4C25F78CD4DFC172DEA4E5B8BA406E208.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Sounds/MetalClunk_Auto4.uasset'
+[2019.03.29-16.20.58:536][145]LogFileHelpers: Auto-saving content packages took 0.004
+[2019.03.29-16.22.13:929][849]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.29-16.22.14:053][849]LogLinker: Warning: Can't find file '/Game/Chris/Sounds/MetalClunk'
+[2019.03.29-16.22.14:054][849]LogLinker: Warning: Can't find file '/Game/Chris/Sounds/MetalClunk'
+[2019.03.29-16.22.14:054][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Chris/Sounds/MetalClunk.MetalClunk'
+[2019.03.29-16.22.16:992][903]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/batte/Desktop/Sounds/MetalClunk.wav)
+[2019.03.29-16.22.18:535][972]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MetalClunk...
+[2019.03.29-16.22.18:697][972]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 70656 while cooking SoundWave /Game/Chris/Sounds/MetalClunk.MetalClunk.
+[2019.03.29-16.22.26:670][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Sounds/MetalClunk" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.uasset" SILENT=true
+[2019.03.29-16.22.26:719][395]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MetalClunkB29E66924F006FFDFE6D248C1B8A3937.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.uasset'
+[2019.03.29-16.22.35:020][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/StartMenu/Menu" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-16.22.35:397][874]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Menu2FBEBCB84E4E9B063D0D2FADDE520D84.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/StartMenu/Menu.umap'
+[2019.03.29-16.22.35:438][874]LogFileHelpers: Saving map 'Menu' took 0.418
+[2019.03.29-16.24.01:695][574]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Chris/Characters/Toaster/BP_ToasterAnimation.BP_ToasterAnimation
+[2019.03.29-16.24.02:142][574]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0209 seconds. Added 1 classes and 2 folders.
+[2019.03.29-16.24.02:319][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.29-16.24.02:397][574]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.03.29-16.24.03:635][574]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.29-16.24.04:505][574]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.03.29-16.24.08:141][729]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Toaster/Dying_Toaster_Anim.Dying_Toaster_Anim
+[2019.03.29-16.24.08:242][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.29-16.24.08:323][729]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.29-16.24.08:813][729]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.29-16.24.14:268][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.29-16.32.35:918][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.348
+[2019.03.29-16.32.35:979][973]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Characters/Toaster/Dying_Toaster_Anim] ([1] browsable assets)...
+[2019.03.29-16.32.36:060][973]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Chris/Characters/Toaster/Dying_Toaster_Anim.Dying_Toaster_Anim]
+[2019.03.29-16.32.36:060][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Characters/Toaster/Dying_Toaster_Anim]
+[2019.03.29-16.32.36:320][973]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Dying_Toaster_Anim_Auto5CF40CC1A414285B38979C393E409A474.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Characters/Toaster/Dying_Toaster_Anim_Auto5.uasset'
+[2019.03.29-16.32.36:340][973]LogFileHelpers: Auto-saving content packages took 0.411
+[2019.03.29-16.54.11:650][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.29-16.55.03:104][410]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Toaster/Toaster_Run_Anim.Toaster_Run_Anim
+[2019.03.29-16.55.11:890][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.55.18:693][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.55.36:738][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.56.32:223][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.037
+[2019.03.29-16.56.32:225][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Characters/Toaster/Toaster_Run_Anim] ([1] browsable assets)...
+[2019.03.29-16.56.32:245][151]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Chris/Characters/Toaster/Toaster_Run_Anim.Toaster_Run_Anim]
+[2019.03.29-16.56.32:245][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Characters/Toaster/Toaster_Run_Anim]
+[2019.03.29-16.56.32:330][151]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Toaster_Run_Anim_Auto6BCBB70E549D98E721BED8581D0D8A6CC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Characters/Toaster/Toaster_Run_Anim_Auto6.uasset'
+[2019.03.29-16.56.32:331][151]LogFileHelpers: Auto-saving content packages took 0.106
+[2019.03.29-16.58.11:179][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.59.52:630][523]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Toaster_Run_AnimFE68CEAC45F3964DA8808CA1C7E58137.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Toaster/Toaster_Run_Anim.uasset'
+[2019.03.29-16.59.59:466][766]LogSlate: Window 'BP_ToasterAnimation' being destroyed
+[2019.03.29-17.00.01:135][830]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-17.00.01:192][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.00.01:207][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-17.00.01:222][830]PIE: New page: PIE session: Menu (29 Mar 2019 17:00:01)
+[2019.03.29-17.00.01:269][830]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-17.00.01:515][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245878s)
+[2019.03.29-17.00.01:516][830]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-17.00.01:544][830]LogPlayLevel: PIE: World Init took: (0.028896s)
+[2019.03.29-17.00.01:544][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.275042s)
+[2019.03.29-17.00.01:718][830]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-17.00.01:820][830]LogInit: FAudioDevice initialized.
+[2019.03.29-17.00.01:901][830]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-17.00.02:004][830]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-17.00.02
+[2019.03.29-17.00.02:054][830]LogWorld: Bringing up level for play took: 0.140332
+[2019.03.29-17.00.02:203][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-17.00.02:230][830]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.133
+[2019.03.29-17.00.02:239][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.00.05:050][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.00.10:126][228]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-17.00.10:146][228]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-17.00.10:571][228]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-17.00.10:572][228]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-17.00.10:868][228]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.29-17.00.10
+[2019.03.29-17.00.10:905][228]LogWorld: Bringing up level for play took: 0.324600
+[2019.03.29-17.00.10:906][228]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-17.00.10:929][228]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-17.00.10:929][228]LogLoad: Took 0.783924 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-17.00.30:764][397]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-17.00.32:054][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.00.32:146][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-17.00.32:146][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.00.32:257][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-17.00.32:258][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.00.32:309][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-17.00.32:414][479]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.03.29-17.01.20:249][738]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Chris/Characters/Toaster/BP_ToasterAnimation.BP_ToasterAnimation
+[2019.03.29-17.01.20:272][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.29-17.01.21:060][738]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.29-17.01.22:926][782]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Toaster/Dying_Toaster_Anim.Dying_Toaster_Anim
+[2019.03.29-17.01.22:945][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.29-17.01.22:989][782]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.29-17.01.23:451][782]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.29-17.01.25:736][894]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Toaster/Toaster_Run_Anim.Toaster_Run_Anim
+[2019.03.29-17.02.37:089][530]LogSlate: Window 'Toaster_Run_Anim*' being destroyed
+[2019.03.29-17.02.38:705][617]LogSlate: Window 'BP_ToasterAnimation' being destroyed
+[2019.03.29-17.02.49:502][242]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Chris/Sounds/MetalClunk.MetalClunk
+[2019.03.29-17.05.12:563][128]LogSlate: Window 'Save Asset As' being destroyed
+[2019.03.29-17.05.17:042][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Sounds/MetalClunk" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.uasset" SILENT=true
+[2019.03.29-17.05.17:077][391]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MetalClunkEBC9A1CB4D1B379F3C8D0284D8C0C422.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.uasset'
+[2019.03.29-17.05.20:552][598]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-17.05.20:576][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.05.20:609][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-17.05.20:609][598]PIE: New page: PIE session: Menu (29 Mar 2019 17:05:20)
+[2019.03.29-17.05.20:609][598]LogPlayLevel: Creating play world package: /Game/Chris/StartMenu/UEDPIE_0_Menu
+[2019.03.29-17.05.20:622][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012618s)
+[2019.03.29-17.05.20:622][598]LogAIModule: Creating AISystem for world Menu
+[2019.03.29-17.05.20:622][598]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.03.29-17.05.20:622][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chris/StartMenu/Menu.Menu to /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu (0.013357s)
+[2019.03.29-17.05.20:662][598]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.29-17.05.20:747][598]LogInit: FAudioDevice initialized.
+[2019.03.29-17.05.20:782][598]LogLoad: Game class is 'MainMenuMode_C'
+[2019.03.29-17.05.20:785][598]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.03.29-17.05.20
+[2019.03.29-17.05.20:786][598]LogWorld: Bringing up level for play took: 0.003483
+[2019.03.29-17.05.20:801][598]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-17.05.20:801][598]PIE: Play in editor start time for /Game/Chris/StartMenu/UEDPIE_0_Menu 0.711
+[2019.03.29-17.05.20:801][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.05.21:844][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.05.26:931][914]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.03.29-17.05.26:948][914]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.03.29-17.05.27:174][914]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.29-17.05.27:174][914]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.29-17.05.27:439][914]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.29-17.05.27
+[2019.03.29-17.05.27:440][914]LogWorld: Bringing up level for play took: 0.264575
+[2019.03.29-17.05.27:441][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.29-17.05.27:444][914]ProjectSpace: FPSCharacter : Initialized
+[2019.03.29-17.05.27:444][914]LogLoad: Took 0.495285 seconds to LoadMap(/Game/Kim/Maps/SpaceMap)
+[2019.03.29-17.05.30:616][ 97]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-17.05.31:949][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.07.01:430][494]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.29-17.07.03:246][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.07.03:331][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-17.07.03:331][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.07.03:400][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-17.07.03:400][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Chris/StartMenu/Menu.Menu_C' with ClassGeneratedBy '/Game/Chris/StartMenu/Menu.Menu:PersistentLevel.Menu'
+[2019.03.29-17.07.03:443][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-17.07.03:522][609]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.03.29-17.07.28:943][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-17.07.28:944][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.29-17.07.35:054][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.08.46:661][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chris/StartMenu/Menu' took 0.030
+[2019.03.29-17.08.46:662][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/Characters/Toaster/Toaster_Run_Anim] ([1] browsable assets)...
+[2019.03.29-17.08.46:662][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Characters/Toaster/Toaster_Run_Anim]
+[2019.03.29-17.08.46:684][ 85]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Toaster_Run_Anim_Auto7FF5688B34CC1DC4ADB94FE936DB97706.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Characters/Toaster/Toaster_Run_Anim_Auto7.uasset'
+[2019.03.29-17.08.46:685][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/Sounds/SoundAttentuation] ([1] browsable assets)...
+[2019.03.29-17.08.46:685][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Sounds/SoundAttentuation]
+[2019.03.29-17.08.46:686][ 85]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SoundAttentuation_Auto7608AEFE246598E5D3F2161A2E4AEC31E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Sounds/SoundAttentuation_Auto7.uasset'
+[2019.03.29-17.08.46:687][ 85]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.03.29-17.12.54:047][899]AssetReimport: New page: Outstanding source content changes 17:12:54
+[2019.03.29-17.12.54:206][900]LogAudioEditor: Performing atomic reimport of [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.wav]
+[2019.03.29-17.12.54:207][900]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.wav)
+[2019.03.29-17.12.54:223][900]LogAudioEditor: -- imported successfully
+[2019.03.29-17.12.54:274][901]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak.wav)
+[2019.03.29-17.12.54:396][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Sounds/MetalSqueak" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak.uasset" SILENT=true
+[2019.03.29-17.12.54:401][902]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MetalSqueak56FDA7E74B5A3788FC640093CBEF0E6E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak.uasset'
+[2019.03.29-17.12.57:434][ 82]AssetReimport: Reimported asset MetalClunk from D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalClunk.wav.
+[2019.03.29-17.12.57:434][ 82]AssetReimport: Importing new asset /Game/Chris/Sounds/MetalSqueak.
+[2019.03.29-17.13.01:784][341]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MetalSqueak...
+[2019.03.29-17.13.01:980][341]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1205808 while cooking SoundWave /Game/Chris/Sounds/MetalSqueak.MetalSqueak.
+[2019.03.29-17.13.07:358][661]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MetalClunk...
+[2019.03.29-17.14.52:561][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.14.52:647][703]AssetReimport: New page: Outstanding source content changes 17:14:52
+[2019.03.29-17.14.52:649][703]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak1.wav)
+[2019.03.29-17.14.52:687][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Sounds/MetalSqueak1" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak1.uasset" SILENT=true
+[2019.03.29-17.14.52:692][703]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MetalSqueak1FEEE168A49FE853A5A7A97A111571979.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Sounds/MetalSqueak1.uasset'
+[2019.03.29-17.14.55:713][881]AssetReimport: Importing new asset /Game/Chris/Sounds/MetalSqueak1.
+[2019.03.29-17.14.58:119][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-17.15.11:413][799]Cmd: TRANSACTION UNDO
+[2019.03.29-17.15.11:427][799]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.29-17.15.11:531][799]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.29-17.15.20:394][799]LogStats: FPlatformStackWalk::StackWalkAndDump -  8.832 s
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: 
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: 
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: Stack: 
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa6b18508 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa49bfd42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa49eac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa49d131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa4a3b337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa4a7f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa4a1717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa49d0a5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa49ca696 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa52d0a03 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffa7c00773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffa7c007b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa5d3206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa5d74c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffa7c017562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffa7c0075e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa5d769f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffaa5d69a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffacf1adaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffacf1a0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffacf1b01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffacf19ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffb110c6d41 USER32.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffb110c6713 USER32.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffacf1b1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ff713ac5546 UE4Editor.exe!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ff713ad596c UE4Editor.exe!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ff713ad59ea UE4Editor.exe!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ff713ae48da UE4Editor.exe!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ff713ae659a UE4Editor.exe!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffb11443dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: [Callstack] 0x00007ffb11743691 ntdll.dll!UnknownFunction []
+[2019.03.29-17.15.20:414][799]LogOutputDevice: Error: 
+[2019.03.29-17.15.20:415][799]LogStats:                SubmitErrorReport -  0.000 s

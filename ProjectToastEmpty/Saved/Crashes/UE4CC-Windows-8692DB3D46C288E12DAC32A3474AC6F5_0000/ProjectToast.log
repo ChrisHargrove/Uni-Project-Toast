@@ -1,0 +1,1082 @@
+﻿Log file open, 04/15/19 09:43:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectToast
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291008
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.082s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.019s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.15-08.43.39:920][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.15-08.43.39:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:921][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.15-08.43.39:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.15-08.43.39:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.15-08.43.39:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.15-08.43.39:925][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.15-08.43.39:925][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.15-08.43.39:925][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.15-08.43.39:944][  0]LogHAL: Display: Platform has ~ 8 GB [8445181952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.15-08.43.39:944][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.15-08.43.39:944][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.15-08.43.39:944][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.15-08.43.39:945][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.15-08.43.39:946][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.15-08.43.39:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.04.15-08.43.39:946][  0]LogInit: Computer: DESKTOP-NP50MTH
+[2019.04.15-08.43.39:946][  0]LogInit: User: batte
+[2019.04.15-08.43.39:946][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.15-08.43.39:946][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2019.04.15-08.43.39:946][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.15-08.43.39:946][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.15-08.43.39:946][  0]LogMemory: Process Physical Memory: 104.72 MB used, 104.72 MB peak
+[2019.04.15-08.43.39:946][  0]LogMemory: Process Virtual Memory: 102.20 MB used, 102.20 MB peak
+[2019.04.15-08.43.39:946][  0]LogMemory: Physical Memory: 4297.89 MB used,  3756.06 MB free, 8053.95 MB total
+[2019.04.15-08.43.39:946][  0]LogMemory: Virtual Memory: 4648.88 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.15-08.43.39:971][  0]LogInit: Using OS detected language (en-US).
+[2019.04.15-08.43.39:971][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.15-08.43.39:972][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.15-08.43.40:371][  0]LogStreaming: Display: Took  0.400s to InitEngineTextLocalization.
+[2019.04.15-08.43.40:371][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.15-08.43.40:413][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.15-08.43.40:413][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.15-08.43.40:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.15-08.43.40:661][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.15-08.43.40:759][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.04.15-08.43.40:759][  0]LogD3D11RHI:       4021/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.15-08.43.40:773][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.15-08.43.40:773][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.15-08.43.40:776][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.15-08.43.40:776][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.15-08.43.40:776][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.15-08.43.40:784][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.15-08.43.40:784][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.04.15-08.43.40:784][  0]LogWindows: EnumDisplayDevices:
+[2019.04.15-08.43.40:784][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.15-08.43.40:784][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.15-08.43.40:785][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.15-08.43.40:785][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.15-08.43.40:785][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.04.15-08.43.40:785][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.15-08.43.40:785][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.15-08.43.40:785][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.04.15-08.43.40:833][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.15-08.43.40:845][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.15-08.43.41:208][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.15-08.43.41:220][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.15-08.43.41:232][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.15-08.43.41:246][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.15-08.43.41:259][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.15-08.43.41:272][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.15-08.43.41:284][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.15-08.43.41:298][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.15-08.43.41:303][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:373][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-08.43.41:374][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.15-08.43.41:433][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.15-08.43.41:433][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.15-08.43.41:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.15-08.43.41:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.15-08.43.41:468][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.15-08.43.41:480][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.15-08.43.41:492][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.15-08.43.41:505][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.15-08.43.41:549][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.15-08.43.41:549][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.15-08.43.41:550][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.15-08.43.41:602][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Intermediate/Shaders/WorkingDirectory/18264/).
+[2019.04.15-08.43.41:602][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batte/AppData/Local/Temp/UnrealShaderWorkingDir/7F010247495CB372B45271BAF377D59A/'.
+[2019.04.15-08.43.41:604][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.15-08.43.41:604][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.15-08.43.41:604][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.15-08.43.42:167][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.15-08.43.42:230][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.15-08.43.42:230][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.15-08.43.42:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.15-08.43.42:231][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.15-08.43.42:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.15-08.43.42:231][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.15-08.43.42:247][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.15-08.43.42:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.15-08.43.42:247][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.15-08.43.42:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.15-08.43.42:259][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.15-08.43.42:259][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.15-08.43.42:283][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.15-08.43.42:284][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.15-08.43.42:285][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.15-08.43.42:387][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.04.15-08.43.42:702][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.15-08.43.42:854][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.15-08.43.42:858][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.15-08.43.42:858][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.15-08.43.42:858][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.15-08.43.42:858][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.15-08.43.42:874][  0]LogNetVersion: ProjectToast 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2449957701)
+[2019.04.15-08.43.43:413][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.066563 seconds
+[2019.04.15-08.43.43:420][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.15-08.43.43:420][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.15-08.43.43:420][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.15-08.43.44:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.15-08.43.44:687][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.15-08.43.45:525][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.04.15-08.43.45:525][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.04.15-08.43.45:525][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/Textures/UI/crosshair.crosshair'
+[2019.04.15-08.43.45:525][  0]Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.04.15-08.43.45:525][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2019.04.15-08.43.45:525][  0]LogUObjectBase: Warning: Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.04.15-08.43.45:549][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.15-08.43.47:249][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.15-08.43.47:250][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.15-08.43.47:295][  0]SourceControl: Source control is disabled
+[2019.04.15-08.43.47:296][  0]SourceControl: Source control is disabled
+[2019.04.15-08.43.47:297][  0]SourceControl: Source control is disabled
+[2019.04.15-08.43.47:298][  0]SourceControl: Source control is disabled
+[2019.04.15-08.43.47:460][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.15-08.43.47:519][  0]LogOcInput: OculusInput pre-init called
+[2019.04.15-08.43.47:678][  0]LogEngine: Initializing Engine...
+[2019.04.15-08.43.47:679][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.15-08.43.47:681][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.15-08.43.47:681][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.15-08.43.47:681][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.15-08.43.47:681][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.15-08.43.47:916][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.15-08.43.47:931][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.15-08.43.47:941][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-08.43.48:352][  0]LogInit: FAudioDevice initialized.
+[2019.04.15-08.43.48:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.15-08.43.48:513][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.15-08.43.48:522][  0]LogInit: Texture streaming: Enabled
+[2019.04.15-08.43.48:540][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.15-08.43.48:560][  0]LogInit: Transaction tracking system initialized
+[2019.04.15-08.43.48:583][  0]BlueprintLog: New page: Editor Load
+[2019.04.15-08.43.48:653][  0]LocalizationService: Localization service is disabled
+[2019.04.15-08.43.49:137][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/ as it will conflict with another watching ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/.
+[2019.04.15-08.43.49:182][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.15-08.43.49:182][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.15-08.43.49:182][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.15-08.43.49:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.15-08.43.49:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.15-08.43.49:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.15-08.43.49:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.15-08.43.49:338][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/' took 0.14s
+[2019.04.15-08.43.49:338][  0]SourceControl: Source control is disabled
+[2019.04.15-08.43.49:338][  0]Cmd: MAP LOAD FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.15-08.43.49:338][  0]LightingResults: New page: Lighting Build
+[2019.04.15-08.43.49:341][  0]MapCheck: New page: Map Check
+[2019.04.15-08.43.49:341][  0]LightingResults: New page: Lighting Build
+[2019.04.15-08.44.07:345][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-08.44.08:002][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.15-08.44.08:093][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.15-08.44.08:093][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2019.04.15-08.44.08:093][  0]LogFileHelpers: Loading map 'SpaceMap' took 18.755
+[2019.04.15-08.44.11:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.44.11:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.44.11:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.44.11:275][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.44.11:410][  0]LogCollectionManager: Loaded 0 collections in 0.002480 seconds
+[2019.04.15-08.44.11:730][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Collections/' took 0.01s
+[2019.04.15-08.44.11:730][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Developers/batte/Collections/' took 0.00s
+[2019.04.15-08.44.11:730][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Collections/' took 0.00s
+[2019.04.15-08.44.11:730][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.15-08.44.11:763][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2667 classes and 626 folders.
+[2019.04.15-08.44.11:913][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.15-08.44.11:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.12:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-08.44.13:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.15-08.44.14:420][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.15-08.44.14:423][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.15-08.44.14:622][  0]LogSlate: Took 0.046189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.15-08.44.15:238][  0]LogRenderer: Reallocating scene render targets to support 984x588 Format 10 NumSamples 1 (Frame:1).
+[2019.04.15-08.44.15:717][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.15-08.44.15:717][  0]LogLoad: (Engine Initialization) Total time: 40.59 seconds
+[2019.04.15-08.44.15:717][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.15-08.44.15:856][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.15-08.44.16:066][  0]LogSlate: Took 0.029024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.15-08.44.16:947][  5]LogLinker: Warning: Can't find file '/Game/Chris/Characters/Toaster/Dying_Toaster'
+[2019.04.15-08.44.16:947][  5]LogLinker: Warning: Can't find file '/Game/Chris/Characters/Toaster/Dying_Toaster'
+[2019.04.15-08.44.16:948][  5]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Chris/Characters/Toaster/Dying_Toaster.Dying_Toaster'
+[2019.04.15-08.44.17:298][  7]LogAssetRegistry: Asset discovery search completed in 34.9327 seconds
+[2019.04.15-08.44.17:302][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.15-08.44.17:303][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000164 seconds (updated 0 objects)
+[2019.04.15-08.44.55:368][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.45.07:769][395]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.15-08.45.07:792][395]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Chris/AI/Shooter/ShooterBT.ShooterBT
+[2019.04.15-08.45.08:802][395]LogSlate: Took 0.042218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.15-08.47.38:130][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/Shooter/ShooterBT" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/Shooter/ShooterBT.uasset" SILENT=true
+[2019.04.15-08.47.38:449][845]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/ShooterBT888949DD4A7627E06027CBB751FA9612.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/Shooter/ShooterBT.uasset'
+[2019.04.15-08.49.40:389][433]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-08.49.40:478][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-08.49.40:577][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-08.49.40:721][433]PIE: New page: PIE session: SpaceMap (15 Apr 2019 10:49:40)
+[2019.04.15-08.49.40:855][433]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-08.49.40:977][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121444s)
+[2019.04.15-08.49.40:977][433]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-08.49.40:986][433]LogPlayLevel: PIE: World Init took: (0.009572s)
+[2019.04.15-08.49.40:986][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.131388s)
+[2019.04.15-08.49.41:089][433]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-08.49.41:176][433]LogInit: FAudioDevice initialized.
+[2019.04.15-08.49.41:300][433]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-08.49.41:502][433]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2019.04.15-09.49.41
+[2019.04.15-08.49.41:882][433]LogWorld: Bringing up level for play took: 0.452144
+[2019.04.15-08.49.42:078][433]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-08.49.42:142][433]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.04.15-08.49.42:454][433]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-08.49.42:462][433]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 2.549
+[2019.04.15-08.49.42:463][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-08.51.06:468][276]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-08.51.08:291][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.51.08:404][473]LogNet: Browse: /Game/Chris/StartMenu/Menu
+[2019.04.15-08.51.08:405][473]LogLoad: LoadMap: /Game/Chris/StartMenu/Menu
+[2019.04.15-08.51.09:976][473]LogLinker: Warning: Can't find file '/Game/Chris/Static_Meshes/Props/lambert1'
+[2019.04.15-08.51.09:976][473]LogLinker: Warning: Can't find file for asset '/Game/Chris/Static_Meshes/Props/lambert1' while loading ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/SM_WallVent.uasset.
+[2019.04.15-08.51.09:976][473]LoadErrors: Error: /Game/Chris/Static_Meshes/Props/SM_WallVent : Can't find file for asset. /Game/Chris/Static_Meshes/Props/lambert1
+[2019.04.15-08.51.09:976][473]LogLinker: Warning: Can't find file '/Game/Chris/Static_Meshes/Props/lambert1'
+[2019.04.15-08.51.09:976][473]LogLinker: Warning: Can't find file for asset '/Game/Chris/Static_Meshes/Props/lambert1' while loading ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/SM_WallVent.uasset.
+[2019.04.15-08.51.10:063][473]LogLinker: Warning: Can't find file '/Game/Chris/Static_Meshes/Props/lambert1'
+[2019.04.15-08.51.10:063][473]LoadErrors: Failed to load /Game/Chris/Static_Meshes/Props/lambert1.lambert1 Referenced by SM_WallVent
+[2019.04.15-08.51.10:063][473]LogLinker: Warning: Can't find file for asset '/Game/Chris/Static_Meshes/Props/lambert1' while loading NULL.
+[2019.04.15-08.51.10:063][473]LogLinker: Warning: Can't find file '/Game/Chris/Static_Meshes/Props/lambert1'
+[2019.04.15-08.51.10:063][473]LogLinker: Warning: Can't find file for asset '/Game/Chris/Static_Meshes/Props/lambert1' while loading NULL.
+[2019.04.15-08.51.10:909][473]LogAIModule: Creating AISystem for world Menu
+[2019.04.15-08.51.10:909][473]LogLoad: Game class is 'MainMenuMode_C'
+[2019.04.15-08.51.10:959][473]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.04.15-09.51.10
+[2019.04.15-08.51.10:960][473]LogWorld: Bringing up level for play took: 0.050766
+[2019.04.15-08.51.10:971][473]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.15-08.51.10:979][473]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-08.51.10:992][473]LogLoad: Took 2.587921 seconds to LoadMap(/Game/Chris/StartMenu/Menu)
+[2019.04.15-08.51.12:372][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.51.17:469][825]LogNet: Browse: /Game/Kim/Maps/SpaceMap
+[2019.04.15-08.51.17:485][825]LogLoad: LoadMap: /Game/Kim/Maps/SpaceMap
+[2019.04.15-08.51.17:519][825]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-08.51.17:572][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052860s)
+[2019.04.15-08.51.17:573][825]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-08.51.17:573][825]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2019.04.15-08.51.17:574][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.054127s)
+[2019.04.15-08.51.17:574][825]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-08.51.17:613][825]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 0) at 2019.04.15-09.51.17
+[2019.04.15-08.51.17:614][825]LogWorld: Bringing up level for play took: 0.038998
+[2019.04.15-08.51.17:618][825]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-08.51.17:623][825]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-08.51.17:623][825]LogLoad: Took 0.136799 seconds to LoadMap(/Game/Kim/Maps/UEDPIE_0_SpaceMap)
+[2019.04.15-08.51.59:828][905]LogNet: Browse: /Game/Chris/StartMenu/Menu
+[2019.04.15-08.51.59:831][905]LogLoad: LoadMap: /Game/Chris/StartMenu/Menu
+[2019.04.15-08.51.59:952][905]LogAIModule: Creating AISystem for world Menu
+[2019.04.15-08.51.59:952][905]LogLoad: Game class is 'MainMenuMode_C'
+[2019.04.15-08.51.59:971][905]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.04.15-09.51.59
+[2019.04.15-08.51.59:972][905]LogWorld: Bringing up level for play took: 0.018616
+[2019.04.15-08.51.59:973][905]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.15-08.51.59:976][905]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-08.51.59:976][905]LogLoad: Took 0.145513 seconds to LoadMap(/Game/Chris/StartMenu/Menu)
+[2019.04.15-08.52.07:084][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.52.12:672][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-08.52.12:676][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.52.12:753][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-08.52.12:753][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-08.52.12:782][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-08.52.12:832][595]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.15-08.53.48:494][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.53.50:367][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.15-08.54.06:709][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-08.56.06:195][278]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Chris/HUD/NewWidgetBlueprint.
+[2019.04.15-08.56.07:493][345]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint
+[2019.04.15-08.56.08:815][345]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.04.15-08.58.03:476][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 0.094
+[2019.04.15-08.58.03:497][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/HUD/NewWidgetBlueprint] ([1] browsable assets)...
+[2019.04.15-08.58.03:497][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/HUD/NewWidgetBlueprint]
+[2019.04.15-08.58.03:512][541]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint_Auto1905D01BA4A9EB3E307E64886D73C3244.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/HUD/NewWidgetBlueprint_Auto1.uasset'
+[2019.04.15-08.58.03:513][541]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.04.15-09.05.15:368][147]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.05.15:746][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.05.15:757][147]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprintC40FF0E94A167A8F48D1B8886CB045D3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.05.16:121][151]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Chris/HUD/NewWidgetBlueprint.
+[2019.04.15-09.05.19:904][345]LogSlate: Took 0.032957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.15-09.15.55:323][720]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.15.55:423][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.15.55:505][720]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint92971E2342ADED38D8E442B05802C74B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.19.48:973][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 0.034
+[2019.04.15-09.19.48:975][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/HUD/NewWidgetBlueprint] ([1] browsable assets)...
+[2019.04.15-09.19.48:975][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/HUD/NewWidgetBlueprint]
+[2019.04.15-09.19.48:993][662]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint_Auto2D20ABD344A0FFBF999CE4EB6AFA9E3D8.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/HUD/NewWidgetBlueprint_Auto2.uasset'
+[2019.04.15-09.19.48:993][662]LogFileHelpers: Auto-saving content packages took 0.019
+[2019.04.15-09.20.34:882][457]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.20.34:979][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.20.35:000][457]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint67348F1C4C8102A57384FF9A747BE4A9.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.20.49:548][ 49]LogSlate: Took 0.060672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.15-09.29.49:400][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 0.034
+[2019.04.15-09.29.49:401][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/HUD/NewWidgetBlueprint] ([1] browsable assets)...
+[2019.04.15-09.29.49:401][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/HUD/NewWidgetBlueprint]
+[2019.04.15-09.29.49:711][612]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint_Auto393B942A64DD84B9C481EA58FAA8D0F60.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/HUD/NewWidgetBlueprint_Auto3.uasset'
+[2019.04.15-09.29.49:712][612]LogFileHelpers: Auto-saving content packages took 0.311
+[2019.04.15-09.33.40:856][628]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2019.04.15-09.33.45:050][862]AssetReimport: New page: Outstanding source content changes 11:33:45
+[2019.04.15-09.33.45:076][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/UI/GunAmmoIcon.png)
+[2019.04.15-09.33.45:564][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Textures/UI/GunAmmoIcon" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/UI/GunAmmoIcon.uasset" SILENT=true
+[2019.04.15-09.33.45:620][864]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/GunAmmoIconB49A6E3E4E2FF2E63EF67580BA476A95.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/UI/GunAmmoIcon.uasset'
+[2019.04.15-09.33.48:641][ 37]AssetReimport: Importing new asset /Game/Chris/Textures/UI/GunAmmoIcon.
+[2019.04.15-09.33.55:276][432]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.33.55:407][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.33.55:426][432]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint052F7A994DE2B96F54B92AA289F916EC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.34.12:751][433]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.34.12:858][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.34.12:906][433]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint99A9573A4F35207AFCDBA19A87CAD00D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.34.13:371][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.34.13:389][458]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint78EA32E34584FC1C2E7B7483AED1DAB3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.34.35:728][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.34.37:942][901]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap
+[2019.04.15-09.34.49:800][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.15-09.34.51:160][533]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapD9F7C4374C74B89D225E74A0A010BF86.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.04.15-09.34.51:235][533]LogFileHelpers: Saving map 'SpaceMap' took 1.436
+[2019.04.15-09.35.42:823][573]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.15-09.35.59:033][542]BlueprintLog: New page: Compile SpaceMap
+[2019.04.15-09.35.59:314][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.15-09.36.00:285][542]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap3D488E004DE7C48DDCD526886B7E3391.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.04.15-09.36.00:345][542]LogFileHelpers: Saving map 'SpaceMap' took 1.032
+[2019.04.15-09.36.00:895][569]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-09.36.00:931][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.00:931][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-09.36.00:931][569]PIE: New page: PIE session: SpaceMap (15 Apr 2019 11:36:00)
+[2019.04.15-09.36.00:966][569]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-09.36.01:028][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061743s)
+[2019.04.15-09.36.01:029][569]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-09.36.01:029][569]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.04.15-09.36.01:029][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.062791s)
+[2019.04.15-09.36.01:100][569]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-09.36.01:197][569]LogInit: FAudioDevice initialized.
+[2019.04.15-09.36.01:225][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.36.01:271][569]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-09.36.01:339][569]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.04.15-10.36.01
+[2019.04.15-09.36.01:350][569]LogWorld: Bringing up level for play took: 0.076324
+[2019.04.15-09.36.01:398][569]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-09.36.01:439][569]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-09.36.01:441][569]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.472
+[2019.04.15-09.36.01:442][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.01:523][569]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.15-09.36.02:350][607]LogEQS: Warning: Query FindPlayer_SingleResult over execution time warning. Total Execution Time: 32.63 ms
+  generator[0]: 32.63 ms (items:1) (EnvQueryGenerator_ActorsOfClass_0)
+[2019.04.15-09.36.02:357][608]LogEQS: Warning: Finished query FindPlayer_SingleResult over execution time warning. Total Execution Time: 32.66 ms
+  generator[0]: 32.63 ms (items:1) (EnvQueryGenerator_ActorsOfClass_0)
+[2019.04.15-09.36.04:456][734]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-09.36.05:939][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.36.06:036][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.36.06:036][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.06:077][827]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.15-09.36.06:138][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-09.36.06:138][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.06:247][828]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.15-09.36.30:678][289]BlueprintLog: New page: Compile SpaceMap
+[2019.04.15-09.36.30:933][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.15-09.36.31:893][289]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapBAF6E9DE44F4AB4A58D4F88CCB758915.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.04.15-09.36.31:950][289]LogFileHelpers: Saving map 'SpaceMap' took 1.019
+[2019.04.15-09.36.32:494][319]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-09.36.32:524][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.32:524][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-09.36.32:524][319]PIE: New page: PIE session: SpaceMap (15 Apr 2019 11:36:32)
+[2019.04.15-09.36.32:524][319]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-09.36.32:580][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055519s)
+[2019.04.15-09.36.32:581][319]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-09.36.32:581][319]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.04.15-09.36.32:581][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.056603s)
+[2019.04.15-09.36.32:621][319]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-09.36.32:705][319]LogInit: FAudioDevice initialized.
+[2019.04.15-09.36.32:710][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.36.32:744][319]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-09.36.32:789][319]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.04.15-10.36.32
+[2019.04.15-09.36.32:791][319]LogWorld: Bringing up level for play took: 0.045998
+[2019.04.15-09.36.32:806][319]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-09.36.32:839][319]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-09.36.32:844][319]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.93
+[2019.04.15-09.36.32:844][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.50:860][385]LogNet: Browse: /Game/Chris/StartMenu/Menu
+[2019.04.15-09.36.50:860][385]LogLoad: LoadMap: /Game/Chris/StartMenu/Menu
+[2019.04.15-09.36.51:057][385]LogAIModule: Creating AISystem for world Menu
+[2019.04.15-09.36.51:057][385]LogLoad: Game class is 'MainMenuMode_C'
+[2019.04.15-09.36.51:082][385]LogWorld: Bringing World /Game/Chris/StartMenu/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.04.15-10.36.51
+[2019.04.15-09.36.51:083][385]LogWorld: Bringing up level for play took: 0.023968
+[2019.04.15-09.36.51:084][385]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.15-09.36.51:087][385]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-09.36.51:088][385]LogLoad: Took 0.227936 seconds to LoadMap(/Game/Chris/StartMenu/Menu)
+[2019.04.15-09.36.52:541][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.36.52:645][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.36.52:646][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.52:680][434]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.15-09.36.52:723][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-09.36.52:723][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.36.52:815][435]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.15-09.37.12:127][591]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.37.12:246][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.37.12:282][591]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint698575C84FEC36E3A49584A41DF315D3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.37.12:730][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-09.37.12:766][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.37.12:766][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-09.37.12:766][616]PIE: New page: PIE session: SpaceMap (15 Apr 2019 11:37:12)
+[2019.04.15-09.37.12:767][616]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-09.37.12:830][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063984s)
+[2019.04.15-09.37.12:831][616]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-09.37.12:831][616]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.04.15-09.37.12:831][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.065095s)
+[2019.04.15-09.37.12:879][616]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-09.37.12:965][616]LogInit: FAudioDevice initialized.
+[2019.04.15-09.37.12:970][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.37.13:001][616]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-09.37.13:060][616]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.04.15-10.37.13
+[2019.04.15-09.37.13:063][616]LogWorld: Bringing up level for play took: 0.060916
+[2019.04.15-09.37.13:081][616]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-09.37.13:088][616]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-09.37.13:091][616]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 1.179
+[2019.04.15-09.37.13:092][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.37.16:979][840]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-09.37.22:753][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.37.22:820][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.37.22:820][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.37.22:853][189]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.15-09.37.22:904][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-09.37.22:904][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.37.22:963][190]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.15-09.37.38:715][129]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.37.38:823][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.37.38:841][129]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprintCCC729484D45B72B58970DADA6F3C97E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.38.11:946][102]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.38.12:054][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.38.12:073][102]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint22C628034FA9DB95A2E7A6AFF0EFFD06.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.40.08:874][999]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_38.WidgetTree_0.HorizontalBox_0
+[2019.04.15-09.40.08:874][999]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_39.WidgetTree_0.HorizontalBox_0
+[2019.04.15-09.40.08:874][999]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_40.WidgetTree_0.HorizontalBox_0
+[2019.04.15-09.40.08:874][999]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_41.WidgetTree_0.HorizontalBox_0
+[2019.04.15-09.40.08:874][999]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/Chris/HUD/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.04.15-09.40.08:874][999]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_0.HorizontalBoxSlot_1"''
+[2019.04.15-09.40.31:425][349]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.40.31:512][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.40.31:535][349]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprintCAB181724CBFE9F5BA4B1DAF03428CE0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.41.05:459][370]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.41.05:556][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.41.05:576][370]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint3EC2CDC34384D7202FF719B674F4DFD0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.41.33:206][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-09.41.33:239][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.41.33:239][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-09.41.33:239][ 26]PIE: New page: PIE session: SpaceMap (15 Apr 2019 11:41:33)
+[2019.04.15-09.41.33:239][ 26]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-09.41.33:293][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054913s)
+[2019.04.15-09.41.33:294][ 26]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-09.41.33:294][ 26]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.04.15-09.41.33:294][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.056103s)
+[2019.04.15-09.41.33:336][ 26]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-09.41.33:422][ 26]LogInit: FAudioDevice initialized.
+[2019.04.15-09.41.33:428][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.41.33:460][ 26]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-09.41.33:513][ 26]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.04.15-10.41.33
+[2019.04.15-09.41.33:515][ 26]LogWorld: Bringing up level for play took: 0.053831
+[2019.04.15-09.41.33:531][ 26]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-09.41.33:538][ 26]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-09.41.33:541][ 26]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.372
+[2019.04.15-09.41.33:541][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.41.49:008][943]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-09.41.50:941][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.41.51:008][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.41.51:008][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.41.51:045][ 63]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.15-09.41.51:096][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-09.41.51:096][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.41.51:170][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.15-09.42.16:322][567]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.42.16:422][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.42.16:444][567]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint6CB60A3D4F930D322FE6869A95210850.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.42.17:436][625]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-09.42.17:468][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.42.17:468][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-09.42.17:468][625]PIE: New page: PIE session: SpaceMap (15 Apr 2019 11:42:17)
+[2019.04.15-09.42.17:468][625]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.04.15-09.42.17:524][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055305s)
+[2019.04.15-09.42.17:524][625]LogAIModule: Creating AISystem for world SpaceMap
+[2019.04.15-09.42.17:525][625]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.04.15-09.42.17:525][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.056348s)
+[2019.04.15-09.42.17:562][625]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-09.42.17:647][625]LogInit: FAudioDevice initialized.
+[2019.04.15-09.42.17:653][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.42.17:688][625]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.04.15-09.42.17:734][625]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.04.15-10.42.17
+[2019.04.15-09.42.17:738][625]LogWorld: Bringing up level for play took: 0.048874
+[2019.04.15-09.42.17:753][625]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.15-09.42.17:759][625]ProjectSpace: FPSCharacter : Initialized
+[2019.04.15-09.42.17:761][625]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.152
+[2019.04.15-09.42.17:761][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.42.21:159][813]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.15-09.42.22:047][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-09.42.22:097][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-09.42.22:097][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.42.22:131][869]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.15-09.42.22:175][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-09.42.22:175][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.04.15-09.42.22:239][870]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.15-09.44.34:952][974]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.04.15-09.44.34:961][974]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.04.15-09.46.19:478][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.46.19:499][464]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprintC03A7FB940A769B6FEE8EEBF6D91D339.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.47.11:196][890]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.04.15-09.47.11:321][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.47.11:341][890]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint97547DF540EA4CDC61EC6CA94541040E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.49.14:904][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 0.036
+[2019.04.15-09.49.14:906][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chris/HUD/NewWidgetBlueprint] ([1] browsable assets)...
+[2019.04.15-09.49.14:906][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/HUD/NewWidgetBlueprint]
+[2019.04.15-09.49.14:962][510]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint_Auto466D8C452427D1F43A817F1A8675DAF91.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/HUD/NewWidgetBlueprint_Auto4.uasset'
+[2019.04.15-09.49.14:963][510]LogFileHelpers: Auto-saving content packages took 0.058
+[2019.04.15-09.54.33:028][663]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.15-09.56.00:713][868]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Chris/Textures/UI/NewWidgetBlueprint.
+[2019.04.15-09.56.06:150][ 94]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.15-09.56.18:339][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/AmmoSelection" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/AmmoSelection.uasset" SILENT=true
+[2019.04.15-09.56.18:349][156]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/AmmoSelection49A1F1B148F51297828BAAAAA521B386.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/AmmoSelection.uasset'
+[2019.04.15-09.56.18:595][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.15-09.56.19:630][156]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapA31FCA7D4A88E659DC8F29BFF28585E5.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.04.15-09.56.19:694][156]LogFileHelpers: Saving map 'SpaceMap' took 1.099
+[2019.04.15-09.56.19:698][156]LogMetaData: Removing '/Game/Chris/HUD/AmmoSelection.SKEL_AmmoSelection_C' ref from Metadata '/Game/Chris/HUD/NewWidgetBlueprint.PackageMetaData'
+[2019.04.15-09.56.19:698][156]LogMetaData: Removing '/Game/Chris/HUD/AmmoSelection.AmmoSelection_C' ref from Metadata '/Game/Chris/HUD/NewWidgetBlueprint.PackageMetaData'
+[2019.04.15-09.56.19:698][156]LogMetaData: Removing '/Game/Chris/HUD/AmmoSelection.AmmoSelection:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Chris/HUD/NewWidgetBlueprint.PackageMetaData'
+[2019.04.15-09.56.19:698][156]LogMetaData: Removing '/Game/Chris/HUD/AmmoSelection.AmmoSelection:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Chris/HUD/NewWidgetBlueprint.PackageMetaData'
+[2019.04.15-09.56.19:698][156]LogMetaData: Removing '/Game/Chris/HUD/AmmoSelection.AmmoSelection:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Chris/HUD/NewWidgetBlueprint.PackageMetaData'
+[2019.04.15-09.56.19:748][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/AmmoSelection" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/AmmoSelection.uasset" SILENT=true
+[2019.04.15-09.56.19:793][156]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/AmmoSelection4F0E9A6F426C8CDDD9955A97BD6553E0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/AmmoSelection.uasset'
+[2019.04.15-09.56.19:799][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset" SILENT=true
+[2019.04.15-09.56.19:812][156]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprintB138966145A2F7698B5E8FB441FC0A43.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint.uasset'
+[2019.04.15-09.56.19:954][156]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Chris/HUD/AmmoSelection.
+[2019.04.15-09.56.23:249][426]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Chris/HUD/NewWidgetBlueprint1.
+[2019.04.15-09.56.24:891][573]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Chris/HUD/NewWidgetBlueprint1.NewWidgetBlueprint1
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_26.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_46.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_32.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_25:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_29:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_33.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_45.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_22:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_50.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_36.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_29.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_44.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_28.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_37.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_38.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_39.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_40.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_41.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_42.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_38:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_51.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_47.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_43:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_64.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_54.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_47:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_63.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:AmmoSelection_C_68.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_55.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:868][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_62.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_56.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_57.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_58.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_59.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_NewWidgetBlueprint_C_53:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.REINST_AmmoSelection_C_59:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection_C:WidgetTree.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_10:NewWidgetBlueprint_C_65.WidgetTree_0.VerticalBox_0
+[2019.04.15-09.56.41:869][367]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Chris/HUD/AmmoSelection.AmmoSelection:WidgetTree.VerticalBox_0.VerticalBoxSlot_1) from referencer (Overlay /Engine/UMG/Editor/Transient.Overlay_0).  Import failed...
+[2019.04.15-09.56.41:869][367]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_1"''
+[2019.04.15-09.58.41:873][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint1" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset" SILENT=true
+[2019.04.15-09.58.41:882][907]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint1265201AE4F78339B5DCA5785B2A5D6F8.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset'
+[2019.04.15-09.58.41:927][910]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Chris/HUD/NewWidgetBlueprint1.
+[2019.04.15-09.58.52:830][ 21]BlueprintLog: New page: Compile NewWidgetBlueprint1
+[2019.04.15-09.58.53:108][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint1" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset" SILENT=true
+[2019.04.15-09.58.53:128][ 21]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint1DF9832B54E4FDB39647DCC9D43C8A8BF.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset'
+[2019.04.15-09.58.53:929][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/HUD/NewWidgetBlueprint1" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset" SILENT=true
+[2019.04.15-09.58.53:949][ 95]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/NewWidgetBlueprint1CB699CEC42607110BB8AE0902E090DD8.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/HUD/NewWidgetBlueprint1.uasset'
+[2019.04.15-09.59.12:355][ 70]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.15-09.59.34:678][225]LogSlate: Window 'Content Browser 2' being destroyed
+[2019.04.15-09.59.55:243][148]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.04.15-09.59.55:256][148]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Chris/HUD/NewUserWidget.
+[2019.04.15-09.59.55:276][148]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Chris/HUD/NewUserWidget.NewUserWidget
+[2019.04.15-09.59.58:986][534]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.15-10.00.01:919][534]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.922 s
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: 
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: Ensure condition failed: InWidgetObject.Implements<UUserListEntry>() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Public\Slate/SObjectTableRow.h] [Line: 60]
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: Any UserWidget generated as a table row must implement the IUserListEntry interface
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: Stack: 
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f640b5 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f35f9f UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f58878 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39024864 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38ec9f4f UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38fbd3b1 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38fa1ca3 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f8065a UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f88edb UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38f89df3 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38fdafcd UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e86e9a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cbdbe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:926][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e4537d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc38fca8b2 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e44d36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e44d36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e44a9d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e45d94 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc2b08ba40 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e44a9d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e49c7e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e49c7e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:927][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e44a9d UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc39e49c7e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cc034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3cce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: [Callstack] 0x00007ffc4f3ca8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.15-10.00.01:928][534]LogOutputDevice: Error: 
+[2019.04.15-10.00.01:937][534]LogStats:                SubmitErrorReport -  0.000 s

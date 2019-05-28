@@ -1,0 +1,1506 @@
+﻿Log file open, 03/13/19 17:04:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectToast
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305875
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.201s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.13-17.04.26:566][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.13-17.04.26:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:567][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:573][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-17.04.26:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-17.04.26:574][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-17.04.26:574][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-17.04.26:574][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.13-17.04.26:616][  0]LogHAL: Display: Platform has ~ 8 GB [8445181952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.13-17.04.26:616][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.13-17.04.26:616][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-17.04.26:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:616][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.13-17.04.26:617][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.13-17.04.26:617][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.03.13-17.04.26:617][  0]LogInit: Computer: DESKTOP-NP50MTH
+[2019.03.13-17.04.26:617][  0]LogInit: User: batte
+[2019.03.13-17.04.26:617][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.13-17.04.26:617][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.03.13-17.04.26:617][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.13-17.04.26:617][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.13-17.04.26:617][  0]LogMemory: Process Physical Memory: 104.76 MB used, 104.76 MB peak
+[2019.03.13-17.04.26:617][  0]LogMemory: Process Virtual Memory: 98.08 MB used, 98.08 MB peak
+[2019.03.13-17.04.26:618][  0]LogMemory: Physical Memory: 4814.43 MB used,  3239.53 MB free, 8053.95 MB total
+[2019.03.13-17.04.26:618][  0]LogMemory: Virtual Memory: 4644.82 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.13-17.04.26:641][  0]LogInit: Using OS detected language (en-US).
+[2019.03.13-17.04.26:641][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.13-17.04.26:644][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.13-17.04.27:074][  0]LogStreaming: Display: Took  0.433s to InitEngineTextLocalization.
+[2019.03.13-17.04.27:075][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.13-17.04.27:113][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.13-17.04.27:114][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.13-17.04.27:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-17.04.27:409][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.13-17.04.27:509][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.03.13-17.04.27:509][  0]LogD3D11RHI:       4021/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.13-17.04.27:524][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.13-17.04.27:524][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.13-17.04.27:529][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.13-17.04.27:529][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.13-17.04.27:529][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.13-17.04.27:537][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.13-17.04.27:537][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.03.13-17.04.27:537][  0]LogWindows: EnumDisplayDevices:
+[2019.03.13-17.04.27:537][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.13-17.04.27:538][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.03.13-17.04.27:539][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.13-17.04.27:539][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.13-17.04.27:539][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.03.13-17.04.27:539][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.13-17.04.27:539][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.13-17.04.27:539][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.13-17.04.27:598][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.13-17.04.27:620][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.13-17.04.28:067][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.13-17.04.28:081][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.13-17.04.28:095][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.13-17.04.28:108][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.13-17.04.28:124][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.13-17.04.28:137][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.13-17.04.28:152][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.13-17.04.28:166][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.13-17.04.28:172][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.13-17.04.28:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:250][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-17.04.28:251][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.13-17.04.28:316][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-17.04.28:316][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-17.04.28:340][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-17.04.28:340][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-17.04.28:353][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.13-17.04.28:367][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.13-17.04.28:381][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.13-17.04.28:396][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.13-17.04.28:445][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-17.04.28:445][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-17.04.28:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.13-17.04.28:554][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Intermediate/Shaders/WorkingDirectory/13712/).
+[2019.03.13-17.04.28:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batte/AppData/Local/Temp/UnrealShaderWorkingDir/046B8B8146F2FF0CDFAA26BB88FAE193/'.
+[2019.03.13-17.04.28:556][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.13-17.04.28:556][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.13-17.04.28:556][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.13-17.04.29:197][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-17.04.29:269][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.13-17.04.29:285][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.13-17.04.29:285][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-17.04.29:285][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.13-17.04.29:297][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.13-17.04.29:297][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.13-17.04.29:297][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.13-17.04.29:324][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.13-17.04.29:326][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.13-17.04.29:327][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.13-17.04.29:437][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2019.03.13-17.04.29:806][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-17.04.29:991][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.13-17.04.29:996][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.13-17.04.29:996][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.13-17.04.29:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.13-17.04.29:996][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.13-17.04.30:017][  0]LogNetVersion: ProjectToast 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2449957701)
+[2019.03.13-17.04.31:397][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.564462 seconds
+[2019.03.13-17.04.31:405][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.13-17.04.31:405][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.13-17.04.31:405][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.13-17.04.32:548][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.13-17.04.32:565][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.13-17.04.33:463][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.03.13-17.04.33:463][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.03.13-17.04.33:463][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/Textures/UI/crosshair.crosshair'
+[2019.03.13-17.04.33:463][  0]Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.03.13-17.04.33:463][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2019.03.13-17.04.33:463][  0]LogUObjectBase: Warning: Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.03.13-17.04.33:508][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.35:220][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.35:222][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.35:314][  0]SourceControl: Source control is disabled
+[2019.03.13-17.05.35:314][  0]SourceControl: Source control is disabled
+[2019.03.13-17.05.35:316][  0]SourceControl: Source control is disabled
+[2019.03.13-17.05.35:317][  0]SourceControl: Source control is disabled
+[2019.03.13-17.05.35:495][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.13-17.05.35:591][  0]LogOcInput: OculusInput pre-init called
+[2019.03.13-17.05.35:757][  0]LogEngine: Initializing Engine...
+[2019.03.13-17.05.35:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-17.05.35:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-17.05.35:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-17.05.35:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-17.05.35:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-17.05.36:078][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.13-17.05.36:092][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.13-17.05.37:117][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.05.37:218][  0]LogInit: FAudioDevice initialized.
+[2019.03.13-17.05.37:218][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.13-17.05.37:398][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.13-17.05.37:401][  0]LogInit: Texture streaming: Enabled
+[2019.03.13-17.05.37:423][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.13-17.05.37:467][  0]LogInit: Transaction tracking system initialized
+[2019.03.13-17.05.37:495][  0]BlueprintLog: New page: Editor Load
+[2019.03.13-17.05.37:582][  0]LocalizationService: Localization service is disabled
+[2019.03.13-17.05.38:148][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/ as it will conflict with another watching ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/.
+[2019.03.13-17.05.38:190][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.13-17.05.38:190][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.13-17.05.38:198][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.13-17.05.38:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-17.05.38:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-17.05.38:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-17.05.38:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-17.05.38:356][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/' took 0.08s
+[2019.03.13-17.05.38:356][  0]SourceControl: Source control is disabled
+[2019.03.13-17.05.38:503][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.13-17.05.43:051][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.03.13-17.05.43:052][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.43:054][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.45:094][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.03.13-17.05.45:095][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.45:099][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-17.05.45:331][  0]Cmd: MAP LOAD FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.13-17.05.45:332][  0]LightingResults: New page: Lighting Build
+[2019.03.13-17.05.45:336][  0]MapCheck: New page: Map Check
+[2019.03.13-17.05.45:336][  0]LightingResults: New page: Lighting Build
+[2019.03.13-17.05.50:133][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Microwave/microattack_Anim.microattack_Anim
+[2019.03.13-17.05.50:146][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Microwave/microattack_Anim.microattack_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.03.13-17.05.50:630][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.05.51:047][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.13-17.05.51:131][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.13-17.05.51:131][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.261ms to complete.
+[2019.03.13-17.05.51:131][  0]LogFileHelpers: Loading map 'SpaceMap' took 5.800
+[2019.03.13-17.05.51:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.05.51:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.05.51:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.05.51:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.05.51:712][  0]LogCollectionManager: Loaded 0 collections in 0.012543 seconds
+[2019.03.13-17.05.51:859][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Collections/' took 0.01s
+[2019.03.13-17.05.51:859][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Developers/batte/Collections/' took 0.00s
+[2019.03.13-17.05.51:859][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Collections/' took 0.01s
+[2019.03.13-17.05.51:859][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.13-17.05.51:897][  0]LogContentBrowser: Native class hierarchy populated in 0.0370 seconds. Added 2660 classes and 624 folders.
+[2019.03.13-17.05.51:983][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.13-17.05.52:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:258][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.52:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-17.05.53:106][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.13-17.05.53:353][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.13-17.05.53:402][  0]LogSlate: Took 0.018521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.13-17.05.53:674][  0]LogRenderer: Reallocating scene render targets to support 1012x588 Format 10 NumSamples 1 (Frame:1).
+[2019.03.13-17.05.54:007][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.13-17.05.54:007][  0]LogLoad: (Engine Initialization) Total time: 91.18 seconds
+[2019.03.13-17.05.54:007][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.13-17.05.54:117][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.13-17.05.54:232][  0]LogSlate: Took 0.015290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-17.05.54:764][  5]LogAssetRegistry: Asset discovery search completed in 85.3487 seconds
+[2019.03.13-17.05.54:768][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.13-17.05.54:768][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.03.13-17.05.55:063][ 10]LogSlate: Took 0.000919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-17.10.21:826][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.10.21:931][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Microwave.BP_AI_Microwave
+[2019.03.13-17.10.22:795][  7]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 117 classes and 0 folders.
+[2019.03.13-17.10.24:539][  7]LogSlate: Took 0.005210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.13-17.22.17:508][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Toaster.BP_AI_Toaster
+[2019.03.13-17.22.20:371][ 73]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Toaster.BP_AI_Toaster
+[2019.03.13-17.22.24:799][301]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Character.BP_AI_Character
+[2019.03.13-17.22.25:419][302]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.13-17.22.28:686][438]LogSlate: Window 'BP_AI_Character' being destroyed
+[2019.03.13-17.36.43:751][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.36.44:125][707]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave68D6AC32498E4FA530B9E28791B5B759.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.36.44:705][740]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.37.24:151][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.37.24:484][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.37.24:510][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.37.24:578][ 82]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:37:24)
+[2019.03.13-17.37.24:600][ 82]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.37.24:661][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060480s)
+[2019.03.13-17.37.24:662][ 82]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.37.24:664][ 82]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2019.03.13-17.37.24:664][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063451s)
+[2019.03.13-17.37.24:781][ 82]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.37.24:871][ 82]LogInit: FAudioDevice initialized.
+[2019.03.13-17.37.26:625][ 82]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.37.26:719][ 82]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.37.26
+[2019.03.13-17.37.26:846][ 82]LogWorld: Bringing up level for play took: 0.173415
+[2019.03.13-17.37.26:971][ 82]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.03.13-17.37.27:046][ 82]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.37.27:046][ 82]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 3.505
+[2019.03.13-17.37.27:047][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.37.40:206][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.37.40:206][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.37.40:323][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-17.37.40:323][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.37.40:368][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.37.40:481][829]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.13-17.37.41:546][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.39.07:702][959]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Characters/Toaster/BP_ToasterAnimation.BP_ToasterAnimation
+[2019.03.13-17.39.07:839][959]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.03.13-17.39.08:522][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-17.39.08:555][959]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.03.13-17.39.09:128][959]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.13-17.39.09:956][959]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.03.13-17.39.59:717][872]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_ToasterAnimation4FEEC7C44F6F8D1549D86FA93E6579A1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Characters/Toaster/BP_ToasterAnimation.uasset'
+[2019.03.13-17.40.41:851][300]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation
+[2019.03.13-17.40.41:875][300]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-17.40.42:164][300]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.13-17.41.51:854][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.13-17.41.59:619][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.41.59:669][715]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.41.59:696][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.41.59:697][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.41.59:697][715]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:41:59)
+[2019.03.13-17.41.59:697][715]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.41.59:754][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058024s)
+[2019.03.13-17.41.59:755][715]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.41.59:755][715]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2019.03.13-17.41.59:755][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.059119s)
+[2019.03.13-17.41.59:846][715]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.41.59:938][715]LogInit: FAudioDevice initialized.
+[2019.03.13-17.41.59:976][715]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.42.00:031][715]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.42.00
+[2019.03.13-17.42.00:034][715]LogWorld: Bringing up level for play took: 0.056577
+[2019.03.13-17.42.00:049][715]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.42.00:050][715]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.508
+[2019.03.13-17.42.00:050][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.42.01:888][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.42.01:889][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.42.01:955][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-17.42.01:955][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.42.01:999][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.42.02:031][813]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.13-17.42.32:483][593]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Chris/Particles/P_Explosion.P_Explosion
+[2019.03.13-17.42.32:643][593]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2019.03.13-17.43.11:791][234]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_Auto142FE3EE64D3DD66E76ACC7B8002400E0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Kim/Maps/SpaceMap_Auto1.umap'
+[2019.03.13-17.43.11:822][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 1.197
+[2019.03.13-17.43.11:822][234]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.197
+[2019.03.13-17.43.11:829][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Particles/P_Explosion] ([1] browsable assets)...
+[2019.03.13-17.43.11:839][234]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Chris/Particles/P_Explosion.P_Explosion]
+[2019.03.13-17.43.11:840][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Particles/P_Explosion]
+[2019.03.13-17.43.11:897][234]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/P_Explosion_Auto1495796E648EB9E23E8DE66ADB9B47728.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Particles/P_Explosion_Auto1.uasset'
+[2019.03.13-17.43.11:898][234]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.03.13-17.45.32:520][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.45.32:621][792]LogCascade: Quitting Cascade. FXSystem=0x000001F94DDC6840
+[2019.03.13-17.45.45:871][566]BlueprintLog: New page: Compile BP_MicrowaveAnimation
+[2019.03.13-17.45.46:235][566]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_MicrowaveAnimation1FC3179443B2D75253616EB1ED9C9117.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Characters/Microwave/BP_MicrowaveAnimation.uasset'
+[2019.03.13-17.48.59:200][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.48.59:241][ 31]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave39AC030346C5C471A5AD8C9638D43DAC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.49.22:500][422]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.49.22:804][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.49.22:846][422]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave023CD8824278C826EB0A17BE243CAAFA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.49.41:881][548]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.49.42:170][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.49.42:211][548]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave6490C1114D8C71DABC42BDA288E68722.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.49.42:632][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.49.42:665][570]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave71575D9748F9E5B3254244A9159F98AB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.50.25:265][116]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Character.BP_AI_Character
+[2019.03.13-17.50.49:591][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-17.50.49:666][542]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character254A9AB642399247D8068C9A0690558F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-17.51.14:752][ 41]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-17.51.15:141][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.51.15:185][ 41]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave8F5337D44741FFA6B93411B8D93CB164.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.51.15:775][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-17.51.15:853][ 70]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character76E0123F4244DFCD1997C48C9D6E1BA8.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-17.51.45:363][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.51.45:406][820]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveBA08E6C2498ADC51F7AA3886A6D245CE.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.51.53:810][311]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.51.54:109][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.51.54:152][311]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave26BB67B1402251B9A9375B9E9F0C54B0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.51.54:685][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.51.54:722][338]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave5AE6D21B4DE52860C5F66A883F83E7C5.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.51.55:930][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.51.55:973][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.51.55:973][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.51.55:973][409]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:51:55)
+[2019.03.13-17.51.55:973][409]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.51.56:044][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070121s)
+[2019.03.13-17.51.56:044][409]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.51.56:045][409]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2019.03.13-17.51.56:045][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.071659s)
+[2019.03.13-17.51.56:091][409]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.51.56:186][409]LogInit: FAudioDevice initialized.
+[2019.03.13-17.51.56:223][409]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.51.56:264][409]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.51.56
+[2019.03.13-17.51.56:265][409]LogWorld: Bringing up level for play took: 0.040932
+[2019.03.13-17.51.56:280][409]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.51.56:280][409]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.739
+[2019.03.13-17.51.56:280][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.52.03:923][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.52.03:923][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.52.03:981][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-17.52.03:981][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.52.04:022][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.52.04:103][848]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.13-17.52.05:049][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.52.36:686][782]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.52.36:997][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.52.37:038][782]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave05AF44D7499A27EBFBDFFFA0BDD7CBD4.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.52.37:401][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.52.37:437][799]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave03B1DAE04AAFD0692926F6B8C67F08CA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.55.36:302][359]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.55.36:649][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.55.36:734][359]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave9A4A32D84130273A5E2C09951C42C477.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.55.38:511][461]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.55.38:554][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.55.38:554][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.55.38:554][461]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:55:38)
+[2019.03.13-17.55.38:554][461]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.55.38:615][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060231s)
+[2019.03.13-17.55.38:616][461]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.55.38:616][461]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2019.03.13-17.55.38:617][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.062325s)
+[2019.03.13-17.55.38:669][461]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.55.38:760][461]LogInit: FAudioDevice initialized.
+[2019.03.13-17.55.38:793][461]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.55.38:837][461]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.55.38
+[2019.03.13-17.55.38:838][461]LogWorld: Bringing up level for play took: 0.043369
+[2019.03.13-17.55.38:852][461]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.55.38:853][461]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 1.311
+[2019.03.13-17.55.38:853][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.55.51:480][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.55.51:480][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.55.51:581][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-17.55.51:582][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.55.51:636][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.55.51:755][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.13-17.55.52:749][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.55.58:509][467]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.55.58:852][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.55.58:901][467]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave77A22B4F459CEE0EDEF7FD9508E7471F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.56.00:384][551]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.56.00:425][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.56.00:425][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.56.00:425][551]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:56:00)
+[2019.03.13-17.56.00:425][551]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.56.00:490][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064836s)
+[2019.03.13-17.56.00:491][551]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.56.00:491][551]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.03.13-17.56.00:492][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.065910s)
+[2019.03.13-17.56.00:540][551]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.56.00:631][551]LogInit: FAudioDevice initialized.
+[2019.03.13-17.56.00:665][551]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.56.00:713][551]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.56.00
+[2019.03.13-17.56.00:714][551]LogWorld: Bringing up level for play took: 0.046935
+[2019.03.13-17.56.00:731][551]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.56.00:731][551]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 1.19
+[2019.03.13-17.56.00:732][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.56.10:910][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.56.10:912][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.56.10:987][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-17.56.10:987][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.56.11:036][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-17.56.11:283][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.13-17.56.13:401][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.56.26:325][913]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Chris/Particles/P_Explosion.P_Explosion
+[2019.03.13-17.57.43:906][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-17.57.45:276][518]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_Auto2D1A027D34FD15AA760D11E8B39098138.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Kim/Maps/SpaceMap_Auto2.umap'
+[2019.03.13-17.57.45:282][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 1.339
+[2019.03.13-17.57.45:282][518]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.339
+[2019.03.13-17.58.48:731][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-17.59.43:769][766]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-17.59.44:107][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-17.59.44:160][766]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave9D55B5BD49784689D9CA70AB634883D0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-17.59.46:066][878]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-17.59.46:105][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.59.46:105][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-17.59.46:105][878]PIE: New page: PIE session: SpaceMap (13 Mar 2019 17:59:46)
+[2019.03.13-17.59.46:105][878]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-17.59.46:173][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068067s)
+[2019.03.13-17.59.46:174][878]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-17.59.46:174][878]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.03.13-17.59.46:174][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.069137s)
+[2019.03.13-17.59.46:257][878]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-17.59.46:349][878]LogInit: FAudioDevice initialized.
+[2019.03.13-17.59.46:382][878]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-17.59.46:421][878]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-17.59.46
+[2019.03.13-17.59.46:423][878]LogWorld: Bringing up level for play took: 0.040746
+[2019.03.13-17.59.46:437][878]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-17.59.46:437][878]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.896
+[2019.03.13-17.59.46:437][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-17.59.58:451][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-18.00.00:876][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.13-18.00.01:913][729]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapCD4A92AD43BE23A829B5AF8B84C7C702.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.03.13-18.00.01:955][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset" SILENT=true
+[2019.03.13-18.00.02:036][729]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_BuiltData0B9A718F43BB4F540AF113B7DE29D36B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset'
+[2019.03.13-18.01.26:124][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.01.26:125][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.01.26:175][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.01.26:175][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.01.26:221][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.01.26:244][197]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.03.13-18.07.17:707][119]LogEditorViewport: Clicking on Actor (LMB): BP_Medium_Side_Room_Square_C (Player Start Room)
+[2019.03.13-18.07.22:033][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.07.28:830][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.07.28:853][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.07.28:854][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.07.28:854][753]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:07:28)
+[2019.03.13-18.07.28:854][753]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.07.28:920][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066365s)
+[2019.03.13-18.07.28:922][753]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.07.28:922][753]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2019.03.13-18.07.28:922][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.068986s)
+[2019.03.13-18.07.28:980][753]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.07.29:085][753]LogInit: FAudioDevice initialized.
+[2019.03.13-18.07.29:131][753]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.07.29:180][753]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.07.29
+[2019.03.13-18.07.29:180][753]LogWorld: Bringing up level for play took: 0.049098
+[2019.03.13-18.07.29:197][753]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.07.29:197][753]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.344
+[2019.03.13-18.07.29:198][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.07.43:472][316]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	BP_MicrowaveAnimation_C /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap:PersistentLevel.BP_AI_Microwave_2.CharacterMesh0.BP_MicrowaveAnimation_C_0
+	Function /Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation_C:ExecuteUbergraph_BP_MicrowaveAnimation:0413
+[2019.03.13-18.07.43:472][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  BP_MicrowaveAnimation Function:  Execute Ubergraph BP Microwave Animation Graph:  EventGraph Node:  Damage
+[2019.03.13-18.07.46:370][468]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	BP_MicrowaveAnimation_C /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap:PersistentLevel.BP_AI_Microwave_2.CharacterMesh0.BP_MicrowaveAnimation_C_0
+	Function /Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation_C:ExecuteUbergraph_BP_MicrowaveAnimation:0413
+[2019.03.13-18.07.46:370][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  BP_MicrowaveAnimation Function:  Execute Ubergraph BP Microwave Animation Graph:  EventGraph Node:  Damage
+[2019.03.13-18.07.47:392][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.07.47:393][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.07.47:487][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.07.47:487][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.07.47:534][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.07.47:552][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-18.07.47:685][523]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.03.13-18.07.50:424][635]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.07.50:440][635]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.07.52:142][721]LogSlate: Window 'P_Explosion*' being destroyed
+[2019.03.13-18.07.52:155][721]LogCascade: Quitting Cascade. FXSystem=0x000001F96A4923E0
+[2019.03.13-18.08.09:913][636]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.08.09:939][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.09:939][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.08.09:939][636]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:08:09)
+[2019.03.13-18.08.09:940][636]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.08.10:005][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064921s)
+[2019.03.13-18.08.10:006][636]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.08.10:006][636]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2019.03.13-18.08.10:006][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.066086s)
+[2019.03.13-18.08.10:061][636]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.08.10:151][636]LogInit: FAudioDevice initialized.
+[2019.03.13-18.08.10:183][636]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.08.10:229][636]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.08.10
+[2019.03.13-18.08.10:231][636]LogWorld: Bringing up level for play took: 0.045965
+[2019.03.13-18.08.10:248][636]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.08.10:248][636]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.706
+[2019.03.13-18.08.10:248][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.23:314][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.23:314][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.08.23:379][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.08.23:379][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.23:424][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.08.23:530][256]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.03.13-18.08.27:975][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.08.39:850][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.08.39:874][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.39:874][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.08.39:874][ 64]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:08:39)
+[2019.03.13-18.08.39:875][ 64]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.08.39:938][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062961s)
+[2019.03.13-18.08.39:938][ 64]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.08.39:939][ 64]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2019.03.13-18.08.39:939][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063994s)
+[2019.03.13-18.08.39:989][ 64]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.08.40:081][ 64]LogInit: FAudioDevice initialized.
+[2019.03.13-18.08.40:114][ 64]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.08.40:156][ 64]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.08.40
+[2019.03.13-18.08.40:157][ 64]LogWorld: Bringing up level for play took: 0.042229
+[2019.03.13-18.08.40:172][ 64]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.08.40:173][ 64]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.632
+[2019.03.13-18.08.40:173][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.45:983][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.45:983][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.08.46:054][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.08.46:054][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.08.46:104][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.08.46:209][329]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.03.13-18.08.47:971][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.09.05:469][240]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.09.05:843][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.09.05:897][240]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave9862792343B1C92AC3F8C3809A3471A1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.09.06:401][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.09.06:447][256]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave26588FBB4E27B1E7F663F2B01FDF9807.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.09.08:421][354]LogSlate: Window 'BP_AI_Microwave' being destroyed
+[2019.03.13-18.09.11:039][508]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.09.11:079][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.09.11:080][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.09.11:080][508]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:09:11)
+[2019.03.13-18.09.11:080][508]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.09.11:140][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060023s)
+[2019.03.13-18.09.11:141][508]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.09.11:141][508]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.03.13-18.09.11:141][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.061439s)
+[2019.03.13-18.09.11:190][508]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.09.11:283][508]LogInit: FAudioDevice initialized.
+[2019.03.13-18.09.11:324][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.09.11:361][508]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.09.11:438][508]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.09.11
+[2019.03.13-18.09.11:439][508]LogWorld: Bringing up level for play took: 0.074527
+[2019.03.13-18.09.11:454][508]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.09.11:455][508]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.086
+[2019.03.13-18.09.11:456][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.09.11:554][508]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.03.13-18.09.19:328][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.09.19:328][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.09.19:385][906]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.13-18.09.19:462][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.09.19:463][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.09.19:588][907]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.03.13-18.11.46:677][566]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.11.47:038][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.11.47:088][566]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave20BA16D2478E61F98DF0408315F1B6E1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.11.47:899][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.11.47:944][611]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave9CDC37E94C59FC4F2EB641B02A0F4436.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.11.49:880][722]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.11.49:922][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.11.49:922][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.11.49:922][722]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:11:49)
+[2019.03.13-18.11.49:922][722]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.11.49:980][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058655s)
+[2019.03.13-18.11.49:981][722]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.11.49:981][722]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2019.03.13-18.11.49:981][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.059629s)
+[2019.03.13-18.11.50:037][722]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.11.50:132][722]LogInit: FAudioDevice initialized.
+[2019.03.13-18.11.50:179][722]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.11.50:222][722]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.11.50
+[2019.03.13-18.11.50:223][722]LogWorld: Bringing up level for play took: 0.043118
+[2019.03.13-18.11.50:238][722]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.11.50:238][722]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.697
+[2019.03.13-18.11.50:238][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.05:263][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.05:263][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.12.05:324][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.12.05:324][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.05:373][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.12.05:461][612]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.03.13-18.12.06:934][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.12.11:806][970]LogEditorActor: Deleted Actor: Emitter
+[2019.03.13-18.12.11:848][970]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.03.13-18.12.13:764][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.12.13:800][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.13:801][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.12.13:801][ 80]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:12:13)
+[2019.03.13-18.12.13:801][ 80]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.12.13:863][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062317s)
+[2019.03.13-18.12.13:864][ 80]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.12.13:864][ 80]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2019.03.13-18.12.13:864][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063411s)
+[2019.03.13-18.12.13:913][ 80]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.12.14:001][ 80]LogInit: FAudioDevice initialized.
+[2019.03.13-18.12.14:041][ 80]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.12.14:086][ 80]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.12.14
+[2019.03.13-18.12.14:088][ 80]LogWorld: Bringing up level for play took: 0.045185
+[2019.03.13-18.12.14:103][ 80]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.12.14:103][ 80]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.561
+[2019.03.13-18.12.14:103][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.22:848][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.22:848][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.12.22:910][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.12.22:910][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.12.22:959][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.12.23:046][593]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.03.13-18.12.25:190][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.12.25:287][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.13-18.12.26:294][720]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap0ADCAC874DE63173DF60068A3CA02CDD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.03.13-18.12.26:339][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset" SILENT=true
+[2019.03.13-18.12.26:414][720]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_BuiltDataF702EC394220B8E1BA7BAFA24EAA1F9F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset'
+[2019.03.13-18.13.02:917][871]LogBlueprint: Error: [Compiler ] Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.02:918][871]BlueprintLog: New page: Collapse to Function
+[2019.03.13-18.13.02:918][871]BlueprintLog: Error: Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.02:937][871]LogBlueprint: Warning: [Compiler ] [4120.11] Compile of  failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] ()
+[2019.03.13-18.13.16:672][687]LogBlueprint: Error: [Compiler ] Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.16:672][687]BlueprintLog: New page: Collapse to Function
+[2019.03.13-18.13.16:672][687]BlueprintLog: Error: Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.16:682][687]LogBlueprint: Warning: [Compiler ] [4133.85] Compile of  failed. 1 Fatal Issue(s) 0 Warning(s) [in 6 ms] ()
+[2019.03.13-18.13.23:134][ 71]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.13.23:141][ 71]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.13.35:132][786]LogBlueprint: Error: [Compiler ] Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.35:132][786]BlueprintLog: New page: Collapse to Function
+[2019.03.13-18.13.35:132][786]BlueprintLog: Error: Assign On System Finished  cannot be placed in function graph
+[2019.03.13-18.13.35:140][786]LogBlueprint: Warning: [Compiler ] [4152.31] Compile of  failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] ()
+[2019.03.13-18.13.54:276][920]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.13.54:283][920]LogSlate: Window 'Message Log' being destroyed
+[2019.03.13-18.15.01:508][339]BlueprintLog: New page: Collapse to Function
+[2019.03.13-18.15.06:640][641]LogEditorTransaction: Undo Move Node
+[2019.03.13-18.15.06:779][641]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-18.15.07:513][681]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2019.03.13-18.15.07:661][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-18.15.41:533][692]BlueprintLog: New page: Compile BP_MicrowaveAnimation
+[2019.03.13-18.15.41:846][692]LogBlueprint: Warning: [Compiler BP_MicrowaveAnimation] Could not find a variable named "Mesh" in 'BP_MicrowaveAnimation_C'.
+Make sure 'BP_MicrowaveAnimation_C' has been compiled for  Get Mesh
+[2019.03.13-18.15.41:859][692]LogBlueprint: Warning: [Compiler BP_MicrowaveAnimation] Could not find a variable named "Mesh" in 'BP_MicrowaveAnimation_C'.
+Make sure 'BP_MicrowaveAnimation_C' has been compiled for  Get Mesh
+[2019.03.13-18.15.41:891][692]LogBlueprint: Error: [Compiler BP_MicrowaveAnimation] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2019.03.13-18.15.41:892][692]LogBlueprint: Error: [Compiler BP_MicrowaveAnimation] The property associated with  Mesh  could not be found in '/Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation_C'
+[2019.03.13-18.15.42:099][692]LogBlueprint: Warning: [Compiler BP_MicrowaveAnimation] [4279.27] Compile of BP_MicrowaveAnimation failed. 2 Fatal Issue(s) 2 Warning(s) [in 565 ms] (/Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation)
+[2019.03.13-18.16.26:488][304]BlueprintLog: New page: Compile BP_MicrowaveAnimation
+[2019.03.13-18.16.26:518][304]LogBlueprint: Error: [Compiler BP_MicrowaveAnimation] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.03.13-18.16.26:723][304]LogBlueprint: Warning: [Compiler BP_MicrowaveAnimation] [4323.89] Compile of BP_MicrowaveAnimation failed. 1 Fatal Issue(s) 0 Warning(s) [in 235 ms] (/Game/Characters/Microwave/BP_MicrowaveAnimation.BP_MicrowaveAnimation)
+[2019.03.13-18.16.36:379][862]BlueprintLog: New page: Compile BP_MicrowaveAnimation
+[2019.03.13-18.16.36:739][862]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_MicrowaveAnimationB84B964145F6BBCDA93F669C45EEC56E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Characters/Microwave/BP_MicrowaveAnimation.uasset'
+[2019.03.13-18.16.47:104][473]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.16.47:145][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.16.47:146][473]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.13-18.16.47:152][473]LogPlayLevel: [PlayLevel] Compiling BP_AI_Microwave before play...
+[2019.03.13-18.16.47:412][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.16.47:455][473]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveB7A981B64B1A173F56BF3994826B4841.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.16.47:500][473]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2019.03.13-18.16.47:500][473]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:16:47)
+[2019.03.13-18.16.47:500][473]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.16.47:556][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055224s)
+[2019.03.13-18.16.47:557][473]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.16.47:557][473]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.03.13-18.16.47:557][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.056291s)
+[2019.03.13-18.16.47:598][473]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.16.47:686][473]LogInit: FAudioDevice initialized.
+[2019.03.13-18.16.47:719][473]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.16.47:760][473]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.16.47
+[2019.03.13-18.16.47:762][473]LogWorld: Bringing up level for play took: 0.042009
+[2019.03.13-18.16.47:777][473]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.16.47:777][473]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.235
+[2019.03.13-18.16.47:777][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.16.55:089][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.16.55:090][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.16.55:138][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.16.55:138][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.16.55:179][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.16.55:257][901]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.03.13-18.17.30:928][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.17.31:230][273]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Chris/Particles/P_Explosion.P_Explosion
+[2019.03.13-18.17.33:179][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Particles/P_Explosion" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Particles/P_Explosion.uasset" SILENT=true
+[2019.03.13-18.17.33:219][336]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/P_Explosion8826F0BD47FEAAF3AC31E887D4C526F3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Particles/P_Explosion.uasset'
+[2019.03.13-18.17.35:972][463]LogSlate: Window 'P_Explosion' being destroyed
+[2019.03.13-18.17.35:991][463]LogCascade: Quitting Cascade. FXSystem=0x000001F8BD1A5B20
+[2019.03.13-18.18.26:550][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.20.07:678][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.20.07:723][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.07:723][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.20.07:723][227]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:20:07)
+[2019.03.13-18.20.07:723][227]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.20.07:784][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060603s)
+[2019.03.13-18.20.07:785][227]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.20.07:785][227]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2019.03.13-18.20.07:786][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.062244s)
+[2019.03.13-18.20.07:839][227]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.20.07:933][227]LogInit: FAudioDevice initialized.
+[2019.03.13-18.20.07:967][227]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.20.08:012][227]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.20.08
+[2019.03.13-18.20.08:013][227]LogWorld: Bringing up level for play took: 0.044856
+[2019.03.13-18.20.08:029][227]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.20.08:329][227]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.787
+[2019.03.13-18.20.08:329][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.13:698][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.13:698][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.20.13:757][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.20.13:757][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.13:802][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.20.13:900][540]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.03.13-18.20.15:471][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.20.15:537][633]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.20.15:563][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.15:563][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.20.15:564][633]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:20:15)
+[2019.03.13-18.20.15:564][633]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.20.15:623][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059580s)
+[2019.03.13-18.20.15:624][633]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.20.15:625][633]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2019.03.13-18.20.15:625][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.060974s)
+[2019.03.13-18.20.15:674][633]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.20.15:762][633]LogInit: FAudioDevice initialized.
+[2019.03.13-18.20.15:797][633]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.20.15:836][633]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.20.15
+[2019.03.13-18.20.15:838][633]LogWorld: Bringing up level for play took: 0.039878
+[2019.03.13-18.20.15:853][633]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.20.15:853][633]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.312
+[2019.03.13-18.20.15:853][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.39:982][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.39:982][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.20.40:041][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.20.40:041][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.40:098][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.20.40:191][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.03.13-18.20.46:415][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.20.56:363][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.20.56:430][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.20.56:453][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.20.56:454][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.20.56:454][974]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:20:56)
+[2019.03.13-18.20.56:454][974]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.20.56:516][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061887s)
+[2019.03.13-18.20.56:517][974]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.20.56:517][974]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2019.03.13-18.20.56:517][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.062903s)
+[2019.03.13-18.20.56:569][974]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.20.56:664][974]LogInit: FAudioDevice initialized.
+[2019.03.13-18.20.56:701][974]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.20.56:746][974]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.20.56
+[2019.03.13-18.20.56:748][974]LogWorld: Bringing up level for play took: 0.046587
+[2019.03.13-18.20.56:762][974]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.20.56:763][974]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 1.222
+[2019.03.13-18.20.56:763][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.21.27:786][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.21.27:787][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.21.27:846][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.21.27:846][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.21.27:900][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.21.27:981][786]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.03.13-18.21.33:335][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.22.04:726][962]LogSlate: Took 0.009480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.13-18.22.48:838][470]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.13-18.22.52:866][681]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.13-18.22.52:871][681]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.13-18.23.12:549][834]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.23.13:021][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.23.13:105][834]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_CharacterD0E953D74E083D95DECB5B91717A85AC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.23.13:153][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.23.13:201][834]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveA7A6AC504D82F03D9659D6B36E088919.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.23.13:250][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Toaster" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Toaster.uasset" SILENT=true
+[2019.03.13-18.23.13:283][834]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_ToasterACE9E6994A06497A1B6895BE49B07639.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Toaster.uasset'
+[2019.03.13-18.23.49:814][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.23.49:890][930]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_CharacterE7BE01C344F225AD98671982D318594A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.24.27:418][147]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.24.27:862][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.24.27:945][147]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character7BC5153041B724C57488C6A559816ED3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.24.31:268][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.24.31:315][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.24.31:315][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.24.31:315][338]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:24:31)
+[2019.03.13-18.24.31:315][338]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.24.31:374][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058418s)
+[2019.03.13-18.24.31:375][338]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.24.31:375][338]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2019.03.13-18.24.31:375][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.059485s)
+[2019.03.13-18.24.31:423][338]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.24.31:519][338]LogInit: FAudioDevice initialized.
+[2019.03.13-18.24.31:562][338]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.24.31:608][338]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.24.31
+[2019.03.13-18.24.31:609][338]LogWorld: Bringing up level for play took: 0.044982
+[2019.03.13-18.24.31:624][338]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.24.31:624][338]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.083
+[2019.03.13-18.24.31:625][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.24.52:484][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.24.52:485][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.24.52:543][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.24.52:544][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.24.52:594][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.24.52:674][438]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.03.13-18.25.00:080][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.25.32:091][642]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.25.32:456][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.25.32:511][642]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveA628F8BE47A1F533E7AFA1AC65B8345A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.25.34:069][731]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.25.34:117][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.25.34:117][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.25.34:117][731]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:25:34)
+[2019.03.13-18.25.34:117][731]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.25.34:179][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062116s)
+[2019.03.13-18.25.34:180][731]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.25.34:180][731]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2019.03.13-18.25.34:181][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063373s)
+[2019.03.13-18.25.34:233][731]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.25.34:330][731]LogInit: FAudioDevice initialized.
+[2019.03.13-18.25.34:363][731]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.25.34:407][731]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.25.34
+[2019.03.13-18.25.34:408][731]LogWorld: Bringing up level for play took: 0.044038
+[2019.03.13-18.25.34:423][731]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.25.34:423][731]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.882
+[2019.03.13-18.25.34:424][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.25.55:601][944]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.25.55:601][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.25.55:659][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.25.55:659][944]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.25.55:704][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.25.55:785][945]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.03.13-18.25.56:828][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.26.18:982][321]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.26.19:345][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.26.19:391][321]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave1518120F408E24AC51B0B18451902932.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.26.32:827][107]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.26.33:170][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.26.33:220][107]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave7D5E0B8847807D00B09E5FA4C6DB6F47.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.26.45:820][845]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.26.46:267][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.26.46:354][845]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character0C9BB8354B81773B653D169A0636C367.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.26.48:269][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.26.48:316][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.26.48:316][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.26.48:316][953]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:26:48)
+[2019.03.13-18.26.48:316][953]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.26.48:373][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056833s)
+[2019.03.13-18.26.48:374][953]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.26.48:374][953]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2019.03.13-18.26.48:374][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.057762s)
+[2019.03.13-18.26.48:430][953]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.26.48:519][953]LogInit: FAudioDevice initialized.
+[2019.03.13-18.26.48:556][953]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.26.48:602][953]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.26.48
+[2019.03.13-18.26.48:603][953]LogWorld: Bringing up level for play took: 0.045960
+[2019.03.13-18.26.48:618][953]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.26.48:618][953]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 1.076
+[2019.03.13-18.26.48:618][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.27.07:131][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.27.07:132][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.27.07:190][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.27.07:190][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.27.07:248][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.27.07:339][971]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.03.13-18.27.09:348][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.28.26:086][659]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.28.26:438][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.28.26:491][659]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveDFFD8FF64A252BCD002A44A508CAB9AE.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.30.23:046][ 85]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_Auto3D2AE194546B4E7BA4CC427B1D133773A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Kim/Maps/SpaceMap_Auto3.umap'
+[2019.03.13-18.30.23:049][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 1.159
+[2019.03.13-18.30.23:049][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.159
+[2019.03.13-18.30.23:052][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/AI/BP_AI_Microwave] ([1] browsable assets)...
+[2019.03.13-18.30.23:092][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chris/AI/BP_AI_Microwave.BP_AI_Microwave]
+[2019.03.13-18.30.23:092][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/AI/BP_AI_Microwave]
+[2019.03.13-18.30.23:142][ 85]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave_Auto31FAE83324BA763B746992794EAEB384C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/AI/BP_AI_Microwave_Auto3.uasset'
+[2019.03.13-18.30.23:145][ 85]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.03.13-18.31.43:720][290]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.31.44:063][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.31.44:116][290]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave828FD28945C7E906F8A8748051ABC32E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.31.45:750][385]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.31.45:802][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.31.45:802][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.31.45:802][385]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:31:45)
+[2019.03.13-18.31.45:802][385]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.31.45:861][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059559s)
+[2019.03.13-18.31.45:862][385]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.31.45:862][385]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2019.03.13-18.31.45:862][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.060925s)
+[2019.03.13-18.31.45:912][385]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.31.46:005][385]LogInit: FAudioDevice initialized.
+[2019.03.13-18.31.46:047][385]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.31.46:090][385]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.31.46
+[2019.03.13-18.31.46:091][385]LogWorld: Bringing up level for play took: 0.043400
+[2019.03.13-18.31.46:111][385]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.31.46:111][385]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.57
+[2019.03.13-18.31.46:112][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.32.12:902][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-18.32.53:102][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.32.53:102][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.32.53:169][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.32.53:169][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.32.53:222][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.32.53:270][503]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.03.13-18.33.55:932][728]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.33.56:298][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.33.56:352][728]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave8F5A1C504CD43D22946872815A535A0B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.33.57:836][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.33.57:879][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.33.57:879][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.33.57:879][812]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:33:57)
+[2019.03.13-18.33.57:879][812]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.33.57:948][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068171s)
+[2019.03.13-18.33.57:948][812]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.33.57:949][812]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2019.03.13-18.33.57:949][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.069614s)
+[2019.03.13-18.33.57:994][812]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.33.58:096][812]LogInit: FAudioDevice initialized.
+[2019.03.13-18.33.58:129][812]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.33.58:174][812]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.33.58
+[2019.03.13-18.33.58:175][812]LogWorld: Bringing up level for play took: 0.045347
+[2019.03.13-18.33.58:191][812]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.33.58:192][812]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.651
+[2019.03.13-18.33.58:193][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.34.15:605][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.34.15:606][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.34.15:670][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.34.15:670][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.34.15:717][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.34.15:795][824]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.03.13-18.34.28:269][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.40.34:280][529]LogEditorTransaction: Undo Delete current selection
+[2019.03.13-18.40.34:401][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-18.40.35:002][562]LogEditorTransaction: Undo Delete current selection
+[2019.03.13-18.40.35:131][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-18.40.36:502][643]LogEditorTransaction: Undo Delete current selection
+[2019.03.13-18.40.36:635][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.13-18.40.40:974][899]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.40.41:342][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.40.41:396][899]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveD13B4E3A430766BA1F28A499AD83A224.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.40.43:321][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.40.43:367][ 10]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveA0C17B9A4744D5AA15809CA21DDF9D1C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.41.14:082][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.13-18.41.15:146][837]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapAE2082D347CE884873EB44960DD32BF5.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.03.13-18.41.15:193][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset" SILENT=true
+[2019.03.13-18.41.15:257][837]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_BuiltData7FCA595F48F2143954720F892E384EC0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset'
+[2019.03.13-18.42.40:472][388]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.42.40:829][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.42.40:879][388]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_MicrowaveD079622C4499986F91F2359478E94BA2.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.42.42:650][490]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.42.42:700][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.42.42:700][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.42.42:700][490]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:42:42)
+[2019.03.13-18.42.42:701][490]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.42.42:762][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062185s)
+[2019.03.13-18.42.42:763][490]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.42.42:763][490]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2019.03.13-18.42.42:763][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063752s)
+[2019.03.13-18.42.42:819][490]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.42.42:918][490]LogInit: FAudioDevice initialized.
+[2019.03.13-18.42.42:952][490]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.42.42:999][490]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.42.42
+[2019.03.13-18.42.43:001][490]LogWorld: Bringing up level for play took: 0.046873
+[2019.03.13-18.42.43:016][490]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.42.43:016][490]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.525
+[2019.03.13-18.42.43:016][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.11:015][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.11:016][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.43.11:075][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.43.11:077][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.11:123][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.43.11:205][  7]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.03.13-18.43.13:081][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.17:281][362]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Chris/Particles/P_Explosion.P_Explosion
+[2019.03.13-18.43.21:002][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.23:684][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.26:823][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.30:123][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.32:697][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.43.34:290][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Particles/P_Explosion" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Particles/P_Explosion.uasset" SILENT=true
+[2019.03.13-18.43.34:349][ 85]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/P_Explosion52E0F485478354767AD2DE876F98C6D3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Particles/P_Explosion.uasset'
+[2019.03.13-18.43.36:007][153]LogSlate: Window 'P_Explosion' being destroyed
+[2019.03.13-18.43.36:030][153]LogCascade: Quitting Cascade. FXSystem=0x000001F8DF7AA2A0
+[2019.03.13-18.43.37:006][195]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.43.37:056][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.37:056][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.43.37:056][195]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:43:37)
+[2019.03.13-18.43.37:057][195]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.43.37:119][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062198s)
+[2019.03.13-18.43.37:120][195]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.43.37:120][195]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2019.03.13-18.43.37:120][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.063379s)
+[2019.03.13-18.43.37:171][195]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.43.37:267][195]LogInit: FAudioDevice initialized.
+[2019.03.13-18.43.37:308][195]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.43.37:351][195]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.43.37
+[2019.03.13-18.43.37:352][195]LogWorld: Bringing up level for play took: 0.043065
+[2019.03.13-18.43.37:367][195]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.43.37:367][195]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.174
+[2019.03.13-18.43.37:367][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.56:531][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.56:532][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.43.56:595][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.43.56:595][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.43.56:641][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.43.56:731][287]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.03.13-18.43.59:313][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.46.44:334][592]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.46.44:835][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.46.44:922][592]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character5C37A83444A7EF59E4E5658DCC78F643.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.46.44:973][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.46.45:026][592]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave6C6874F34A1010E38FE10D8C14481C50.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.46.46:958][700]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-18.46.47:004][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.46.47:004][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-18.46.47:004][700]PIE: New page: PIE session: SpaceMap (13 Mar 2019 18:46:47)
+[2019.03.13-18.46.47:004][700]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-18.46.47:066][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061235s)
+[2019.03.13-18.46.47:067][700]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-18.46.47:067][700]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2019.03.13-18.46.47:067][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.062640s)
+[2019.03.13-18.46.47:122][700]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-18.46.47:217][700]LogInit: FAudioDevice initialized.
+[2019.03.13-18.46.47:255][700]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-18.46.47:302][700]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-18.46.47
+[2019.03.13-18.46.47:303][700]LogWorld: Bringing up level for play took: 0.046806
+[2019.03.13-18.46.47:317][700]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-18.46.47:318][700]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap -0.224
+[2019.03.13-18.46.47:318][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.47.34:031][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.47.34:031][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.47.34:094][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-18.47.34:094][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-18.47.34:144][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-18.47.34:232][467]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.03.13-18.47.35:444][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-18.47.51:411][418]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.13-18.47.54:980][613]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.13-18.47.54:989][613]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.13-18.48.51:113][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.48.51:202][895]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character4E58E05D43802A13618DC3BB4648A84B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.48.52:738][985]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.48.52:833][985]LogBlueprint: Error: [Compiler BP_AI_Character] In use pin  Fire Particle  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.03.13-18.48.52:839][985]LogBlueprint: Error: [Compiler BP_AI_Microwave] In use pin  Fire Particle  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.03.13-18.48.52:851][985]LogClass: Warning: Type mismatch in FireParticle of BP_AI_Character_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.03.13-18.48.52:854][985]LogClass: Warning: Type mismatch in FireParticle of BP_AI_Microwave_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.03.13-18.48.52:856][985]LogClass: Warning: Type mismatch in FireParticle of BP_AI_Toaster_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.03.13-18.48.52:857][985]LogBlueprint: Warning: [Compiler BP_AI_Microwave] [6270.03] Compile of BP_AI_Microwave failed. 1 Fatal Issue(s) 0 Warning(s) [in 100 ms] (/Game/Chris/AI/BP_AI_Microwave.BP_AI_Microwave)
+[2019.03.13-18.48.53:221][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Toaster" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Toaster.uasset" SILENT=true
+[2019.03.13-18.48.53:279][985]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Toaster3779E3E747B87D70A49ECEAC3661E77C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Toaster.uasset'
+[2019.03.13-18.48.53:290][985]LogBlueprint: Warning: [Compiler BP_AI_Character] [6270.46] Compile of BP_AI_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 551 ms] (/Game/Chris/AI/BP_AI_Character.BP_AI_Character)
+[2019.03.13-18.49.31:813][253]BlueprintLog: New page: Compile BP_AI_Character
+[2019.03.13-18.49.31:885][253]LogBlueprint: Error: [Compiler BP_AI_Microwave] In use pin  Fire Particle  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.03.13-18.49.31:901][253]LogBlueprint: Warning: [Compiler BP_AI_Microwave] [6309.07] Compile of BP_AI_Microwave failed. 1 Fatal Issue(s) 0 Warning(s) [in 67 ms] (/Game/Chris/AI/BP_AI_Microwave.BP_AI_Microwave)
+[2019.03.13-18.49.32:271][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.49.32:361][253]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character607A91D740A051ED7C03E5BE5634D3BC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.49.32:849][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-18.49.32:928][275]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character7198D74941854C6B84E6A895C9500B2A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-18.50.39:294][ 42]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-18.50.39:613][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-18.50.39:660][ 42]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave01376FFD47B6BFF8D8F9C7A40570B7D7.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-18.50.43:332][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.13-18.50.44:263][257]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap92BAC3AE48BCB9E1AC21D1A6F633BB3A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.03.13-18.50.44:306][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset" SILENT=true
+[2019.03.13-18.50.44:329][257]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_BuiltDataF244EDBE4D7918890EE24B90BDC87BC3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset'
+[2019.03.13-19.00.40:374][984]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-19.00.43:505][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 0.038
+[2019.03.13-19.41.51:849][612]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-19.43.27:243][678]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-19.43.27:297][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-19.43.27:297][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-19.43.27:298][678]PIE: New page: PIE session: SpaceMap (13 Mar 2019 19:43:27)
+[2019.03.13-19.43.27:298][678]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.03.13-19.43.27:362][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064163s)
+[2019.03.13-19.43.27:364][678]LogAIModule: Creating AISystem for world SpaceMap
+[2019.03.13-19.43.27:365][678]LogPlayLevel: PIE: World Init took: (0.002096s)
+[2019.03.13-19.43.27:365][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.066469s)
+[2019.03.13-19.43.27:415][678]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-19.43.27:512][678]LogInit: FAudioDevice initialized.
+[2019.03.13-19.43.27:550][678]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.03.13-19.43.27:595][678]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.03.13-19.43.27
+[2019.03.13-19.43.27:597][678]LogWorld: Bringing up level for play took: 0.045761
+[2019.03.13-19.43.27:612][678]ProjectSpace: FPSCharacter : Initialized
+[2019.03.13-19.43.27:612][678]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 0.07
+[2019.03.13-19.43.27:612][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-19.43.46:638][712]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.053707 > MaxSimulationTimeStep (0.050) for '/Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap:PersistentLevel.BP_Projectile_C_9.SphereComponent'
+[2019.03.13-19.43.53:944][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-19.43.53:945][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-19.43.54:003][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-19.43.54:003][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.03.13-19.43.54:053][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-19.43.54:184][134]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.03.13-19.43.56:664][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-19.44.35:235][582]BlueprintLog: New page: Compile BP_AI_Microwave
+[2019.03.13-19.44.35:608][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-19.44.35:670][582]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave5026019448C71711F6524E8F501DE5EA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-19.44.36:414][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Microwave" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset" SILENT=true
+[2019.03.13-19.44.36:464][621]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Microwave1DF303C8499AC5CB76D810B5ADB8339D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Microwave.uasset'
+[2019.03.13-19.44.55:340][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Character" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset" SILENT=true
+[2019.03.13-19.44.55:422][746]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Character8E17624242777EF32B4B928876EABE34.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Character.uasset'
+[2019.03.13-19.45.07:753][410]LogUObjectArray: Warning: Empty slot
+[2019.03.13-19.45.07:753][410]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.13-19.45.10:510][410]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.756 s
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: 
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: Stack: 
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcef9381d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcef94809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffced19bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcec1f769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcec1b0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcf0bc7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcf0e14393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcf0c22d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcf0bf8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffcf0beb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd267edc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd267e0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd267f01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd267dca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd495a6d41 USER32.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd495a6713 USER32.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd267f1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ff6b1825546 UE4Editor.exe!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ff6b183596c UE4Editor.exe!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ff6b18359ea UE4Editor.exe!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ff6b18448da UE4Editor.exe!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ff6b184659a UE4Editor.exe!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd49fc3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: [Callstack] 0x00007ffd4a173691 ntdll.dll!UnknownFunction []
+[2019.03.13-19.45.10:510][410]LogOutputDevice: Error: 
+[2019.03.13-19.45.10:515][410]LogStats:                SubmitErrorReport -  0.000 s

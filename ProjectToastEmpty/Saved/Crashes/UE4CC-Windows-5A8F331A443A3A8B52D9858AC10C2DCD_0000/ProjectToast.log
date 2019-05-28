@@ -1,0 +1,1087 @@
+﻿Log file open, 05/01/19 15:27:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectToast
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289908
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.479s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:083][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:090][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:090][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-14.27.22:090][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-14.27.22:090][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:090][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.01-14.27.22:090][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:090][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-14.27.22:090][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-14.27.22:091][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-14.27.22:092][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-14.27.22:092][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-14.27.22:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.01-14.27.22:270][  0]LogHAL: Display: Platform has ~ 8 GB [8445181952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.01-14.27.22:270][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.01-14.27.22:270][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-14.27.22:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.01-14.27.22:271][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.01-14.27.22:271][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Config/Windows/Engine.ini]
+[2019.05.01-14.27.22:271][  0]LogInit: Computer: DESKTOP-NP50MTH
+[2019.05.01-14.27.22:272][  0]LogInit: User: batte
+[2019.05.01-14.27.22:272][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.01-14.27.22:272][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2019.05.01-14.27.22:272][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.01-14.27.22:272][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.01-14.27.22:272][  0]LogMemory: Process Physical Memory: 105.34 MB used, 105.34 MB peak
+[2019.05.01-14.27.22:272][  0]LogMemory: Process Virtual Memory: 87.73 MB used, 87.73 MB peak
+[2019.05.01-14.27.22:272][  0]LogMemory: Physical Memory: 4785.63 MB used,  3268.32 MB free, 8053.95 MB total
+[2019.05.01-14.27.22:272][  0]LogMemory: Virtual Memory: 4634.43 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.01-14.27.22:295][  0]LogInit: Using OS detected language (en-US).
+[2019.05.01-14.27.22:295][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.01-14.27.22:297][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.01-14.27.22:683][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2019.05.01-14.27.22:684][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.01-14.27.22:724][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.01-14.27.22:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.01-14.27.22:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.01-14.27.22:983][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.01-14.27.23:075][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.01-14.27.23:075][  0]LogD3D11RHI:       4021/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.01-14.27.23:092][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.01-14.27.23:092][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.01-14.27.23:095][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.01-14.27.23:095][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.01-14.27.23:095][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.01-14.27.23:106][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.01-14.27.23:106][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.01-14.27.23:106][  0]LogWindows: EnumDisplayDevices:
+[2019.05.01-14.27.23:106][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.01-14.27.23:106][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.05.01-14.27.23:107][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.01-14.27.23:107][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.01-14.27.23:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.01-14.27.23:107][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.01-14.27.23:107][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.01-14.27.23:107][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.05.01-14.27.23:160][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.01-14.27.23:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.01-14.27.23:578][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.01-14.27.23:592][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.01-14.27.23:605][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.01-14.27.23:618][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.01-14.27.23:632][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.01-14.27.23:645][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.01-14.27.23:658][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.01-14.27.23:670][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.01-14.27.23:676][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-14.27.23:752][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.01-14.27.23:812][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-14.27.23:812][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-14.27.23:836][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-14.27.23:836][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-14.27.23:849][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.01-14.27.23:861][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.01-14.27.23:873][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.01-14.27.23:888][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.01-14.27.23:932][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-14.27.23:932][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-14.27.23:932][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.01-14.27.23:986][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Intermediate/Shaders/WorkingDirectory/17692/).
+[2019.05.01-14.27.23:986][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/batte/AppData/Local/Temp/UnrealShaderWorkingDir/2AC62895447A0A10301E5A906E6D54C0/'.
+[2019.05.01-14.27.23:988][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.01-14.27.23:988][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.01-14.27.23:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.01-14.27.24:552][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-14.27.24:626][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.01-14.27.24:642][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.01-14.27.24:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-14.27.24:642][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.01-14.27.24:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/batte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.01-14.27.24:654][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.01-14.27.24:654][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.01-14.27.24:678][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.01-14.27.24:680][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.01-14.27.24:680][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.01-14.27.24:782][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2019.05.01-14.27.25:097][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-14.27.25:169][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.01-14.27.25:172][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.01-14.27.25:172][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.01-14.27.25:172][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.01-14.27.25:172][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.01-14.27.25:272][  0]LogNetVersion: ProjectToast 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2449957701)
+[2019.05.01-14.27.26:711][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.850528 seconds
+[2019.05.01-14.27.26:719][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.01-14.27.26:719][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.01-14.27.26:719][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.01-14.27.28:057][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.01-14.27.28:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.01-14.27.29:197][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.05.01-14.27.29:197][  0]LogLinker: Warning: Can't find file '/Game/Textures/UI/crosshair'
+[2019.05.01-14.27.29:197][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/Textures/UI/crosshair.crosshair'
+[2019.05.01-14.27.29:197][  0]Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.05.01-14.27.29:197][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2019.05.01-14.27.29:197][  0]LogUObjectBase: Warning: Error: CDO Constructor (ToastHUD): Failed to find /Game/Textures/UI/crosshair
+
+[2019.05.01-14.27.29:230][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.01-14.27.33:508][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.01-14.27.33:510][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.01-14.27.33:624][  0]SourceControl: Source control is disabled
+[2019.05.01-14.27.33:624][  0]SourceControl: Source control is disabled
+[2019.05.01-14.27.33:626][  0]SourceControl: Source control is disabled
+[2019.05.01-14.27.33:627][  0]SourceControl: Source control is disabled
+[2019.05.01-14.27.33:810][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.01-14.27.33:895][  0]LogOcInput: OculusInput pre-init called
+[2019.05.01-14.27.34:076][  0]LogEngine: Initializing Engine...
+[2019.05.01-14.27.34:077][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.01-14.27.34:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-14.27.34:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-14.27.34:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-14.27.34:079][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-14.27.34:516][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.01-14.27.34:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-14.27.34:589][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-14.27.34:711][  0]LogInit: FAudioDevice initialized.
+[2019.05.01-14.27.34:711][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.01-14.27.34:862][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/batte/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-14.27.34:874][  0]LogInit: Texture streaming: Enabled
+[2019.05.01-14.27.34:902][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.01-14.27.34:961][  0]LogInit: Transaction tracking system initialized
+[2019.05.01-14.27.34:986][  0]BlueprintLog: New page: Editor Load
+[2019.05.01-14.27.35:091][  0]LocalizationService: Localization service is disabled
+[2019.05.01-14.27.36:116][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/ as it will conflict with another watching ../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/.
+[2019.05.01-14.27.36:231][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.01-14.27.36:231][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.01-14.27.36:231][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.01-14.27.36:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-14.27.36:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-14.27.36:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-14.27.36:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-14.27.36:419][  0]SourceControl: Source control is disabled
+[2019.05.01-14.27.36:420][  0]Cmd: MAP LOAD FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-14.27.36:420][  0]LightingResults: New page: Lighting Build
+[2019.05.01-14.27.36:423][  0]MapCheck: New page: Map Check
+[2019.05.01-14.27.36:423][  0]LightingResults: New page: Lighting Build
+[2019.05.01-14.27.37:092][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/' took 0.49s
+[2019.05.01-14.28.00:013][  0]LogAIModule: Creating AISystem for world SpaceMap
+[2019.05.01-14.28.00:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-14.28.00:751][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-14.28.00:751][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.05.01-14.28.00:751][  0]LogFileHelpers: Loading map 'SpaceMap' took 24.332
+[2019.05.01-14.28.04:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.28.04:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.28.04:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.28.04:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.28.04:579][  0]LogCollectionManager: Loaded 0 collections in 0.002199 seconds
+[2019.05.01-14.28.04:954][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Collections/' took 0.01s
+[2019.05.01-14.28.04:954][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Developers/batte/Collections/' took 0.01s
+[2019.05.01-14.28.04:954][  0]LogFileCache: Scanning file cache for directory 'D:/Program Files/GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Collections/' took 0.01s
+[2019.05.01-14.28.04:954][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.01-14.28.04:989][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2667 classes and 626 folders.
+[2019.05.01-14.28.05:136][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.01-14.28.05:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.05:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.06:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.06:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.06:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.06:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-14.28.07:813][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.01-14.28.08:473][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.01-14.28.08:476][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.01-14.28.08:590][  0]LogSlate: Took 0.011489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.01-14.28.09:467][  0]LogRenderer: Reallocating scene render targets to support 984x588 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-14.28.10:260][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.01-14.28.10:261][  0]LogLoad: (Engine Initialization) Total time: 52.60 seconds
+[2019.05.01-14.28.10:261][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.01-14.28.10:368][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.01-14.28.10:525][  0]LogSlate: Took 0.010861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-14.28.11:497][  9]LogAssetRegistry: Asset discovery search completed in 46.7375 seconds
+[2019.05.01-14.28.11:499][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.01-14.28.11:499][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.05.01-14.28.22:794][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.29.36:917][616]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-14.29.36:991][616]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.29.37:297][616]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.05.01-14.29.38:726][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-14.29.38:957][616]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.05.01-14.29.40:676][616]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-14.29.48:365][616]LogSlate: Took 0.018875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.01-14.29.48:753][616]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.05.01-14.29.48:940][616]LogRenderer: Reallocating scene render targets to support 1144x888 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-14.29.55:750][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.30.23:877][543]LogSlate: Window 'SM_Phone' being destroyed
+[2019.05.01-14.30.47:276][803]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/AV_Machine_BMap28C7553247B635AD14EBE9A05CC8CACA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/AvengingMachine/AV_Machine_BMap.uasset'
+[2019.05.01-14.30.47:437][803]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/AV_Machine_UV59017F194E975F8D0088BCB03DF9BC79.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/AvengingMachine/AV_Machine_UV.uasset'
+[2019.05.01-14.30.48:335][803]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_AvengingMachine6934965B4DDD11A9D68348A50A1EE68F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/MI_AvengingMachine.uasset'
+[2019.05.01-14.30.48:381][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/M_TexBump" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_TexBump.uasset" SILENT=true
+[2019.05.01-14.30.48:416][803]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_TexBump080C9BBB44E79529081238BFDBCCD1DA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_TexBump.uasset'
+[2019.05.01-14.30.57:652][312]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/LapChop_Texture8BA423AC4A760252E0CDC79FFCEB09FB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/LapChop/LapChop_Texture.uasset'
+[2019.05.01-14.30.57:692][312]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/LapChop_BMapF2CF8F864CEA5EE59FA0C2B5C4F4D650.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/LapChop/LapChop_BMap.uasset'
+[2019.05.01-14.30.58:098][312]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_LapChop706AE39F45EE62A8D640088F9565246E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/MI_LapChop.uasset'
+[2019.05.01-14.31.08:515][898]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/HooverBot_Bump452C5E4F4DCDC5576BD78B9AD3846259.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/HooverBot/HooverBot_Bump.uasset'
+[2019.05.01-14.31.08:564][898]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/HooverBot_DiffuseB34D0C614C422B8611AC58BA0BC55267.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/HooverBot/HooverBot_Diffuse.uasset'
+[2019.05.01-14.31.08:604][898]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/HooverBot_Emmisive7374950547C5F746E3C8A4A8FBF2827A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Textures/Characters/HooverBot/HooverBot_Emmisive.uasset'
+[2019.05.01-14.31.09:063][898]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_HooverBotD5BED73644EDF882AFF9CFB7E96C9088.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/MI_HooverBot.uasset'
+[2019.05.01-14.31.12:864][  5]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\batte\Downloads\phonescreenban.png)
+[2019.05.01-14.31.12:864][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.12:871][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.12:986][  5]LogTexture: Display: Building textures: phonescreenban (AutoDXT, 2048X2048)
+[2019.05.01-14.31.13:389][  5]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\batte\Downloads\phonescreencall9.png)
+[2019.05.01-14.31.13:390][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.13:390][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.13:464][  5]LogTexture: Display: Building textures: phonescreencall9 (AutoDXT, 2048X2048)
+[2019.05.01-14.31.13:715][  5]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\batte\Downloads\phonescreencrack.png)
+[2019.05.01-14.31.13:716][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.13:716][  5]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2019.05.01-14.31.13:791][  5]LogTexture: Display: Building textures: phonescreencrack (AutoDXT, 2048X2048)
+[2019.05.01-14.31.38:800][325]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_AvengingMachineD5B5455E454AA03C0A5B8D84D8E3D718.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_AvengingMachine.uasset'
+[2019.05.01-14.31.39:098][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_AvengingMachine" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_AvengingMachine.uasset" SILENT=true
+[2019.05.01-14.31.39:218][325]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_AvengingMachineBE82F94A40B62B3AD87C9EA4C101FDE3.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_AvengingMachine.uasset'
+[2019.05.01-14.31.39:543][325]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_AvengingMachineF9A07DA041F98F9C5AAF78A8A6C334AD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/AvengingMachine/SM_AvengingMachine.uasset'
+[2019.05.01-14.32.18:057][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_FPSCharacterAF4636354AB61DC9E4DF27B4BC3DFA20.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_FPSCharacter.uasset'
+[2019.05.01-14.32.18:069][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_FPSCharacter260371FA4C14ECA5B8FC90AF124ED74B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/MI_FPSCharacter.uasset'
+[2019.05.01-14.32.18:120][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_HooverBot60AE7B3E4FCEAEA6BE85A0B7D37453EC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_HooverBot.uasset'
+[2019.05.01-14.32.18:132][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_HooverBotEAF6444544AABB2C9F92D9A4EB69234E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/MI_HooverBot.uasset'
+[2019.05.01-14.32.18:184][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_LapChopDA44986747F715F368611FB91DA1ACCE.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_LapChop.uasset'
+[2019.05.01-14.32.18:243][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_MicrowaveBaseColor8BE7E75F444474186AE3A4B1A5445536.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_MicrowaveBaseColor.uasset'
+[2019.05.01-14.32.18:305][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_MicrowaveDoorColorDCACE7F841018AE413C16C81CD3E580C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_MicrowaveDoorColor.uasset'
+[2019.05.01-14.32.18:336][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_MicrowaveSecondaryD27DC85240C44E9075D6C4A4B4D6A838.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_MicrowaveSecondary.uasset'
+[2019.05.01-14.32.18:369][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_SodaCan512B52D54900287A2797BD9DB3DCD046.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_SodaCan.uasset'
+[2019.05.01-14.32.18:399][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_UniKettlePrimary52F6D51C468D32D78074479E28C6C212.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_UniKettlePrimary.uasset'
+[2019.05.01-14.32.18:429][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_UniKettleSecondary625FFE2C4F8AC07E375E4AA81986A2EA.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_UniKettleSecondary.uasset'
+[2019.05.01-14.32.18:459][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_UniKettleTrinary4BF89B654FB7C1ADF453BBA7F3034EDC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_UniKettleTrinary.uasset'
+[2019.05.01-14.32.19:433][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_LapChop" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_LapChop.uasset" SILENT=true
+[2019.05.01-14.32.19:469][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_LapChop78ABD7C3430F9C1A4730C69F0A530114.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_LapChop.uasset'
+[2019.05.01-14.32.19:510][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/LapChop/SM_LapChop" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/LapChop/SM_LapChop.uasset" SILENT=true
+[2019.05.01-14.32.19:593][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_LapChopC6A75B054829D5F4F7070784EC7E0D1D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/LapChop/SM_LapChop.uasset'
+[2019.05.01-14.32.20:049][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Microwave823713BF4C43CE77E632D5A8542F5C99.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Microwave/SM_Microwave.uasset'
+[2019.05.01-14.32.20:212][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_UniKettle_Wheel036DD2A84CF02BEC864383886992996C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/UniKettle/SM_UniKettle_Wheel.uasset'
+[2019.05.01-14.32.20:271][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Props/BP_SodaCanProjectile" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/BP_SodaCanProjectile.uasset" SILENT=true
+[2019.05.01-14.32.20:333][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_SodaCanProjectile32987C7A489B4EB2829A0698A1E3E3F4.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/BP_SodaCanProjectile.uasset'
+[2019.05.01-14.32.20:470][538]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_UniKettle7AECC6E14B8674A5DD0FDAA2329F2616.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/UniKettle/SM_UniKettle.uasset'
+[2019.05.01-14.32.39:377][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_Boots9AE3D7DA4C92CB85EE567D8B43C72722.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_Boots.uasset'
+[2019.05.01-14.32.39:429][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_CrateThree6B6ED02949332A8123A3D89B76EE0D8D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_CrateThree.uasset'
+[2019.05.01-14.32.39:482][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_CrateTwoF96F07CE42FC4569D74FACAF30508E36.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_CrateTwo.uasset'
+[2019.05.01-14.32.39:535][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_CryoPod00D7AFA44FA7F6C75D4A698196531E6B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_CryoPod.uasset'
+[2019.05.01-14.32.39:586][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_FuelBarrel3027C573471B9F59DAB2ECB6734B0A4B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_FuelBarrel.uasset'
+[2019.05.01-14.32.39:698][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_FurnitureLight4017FC3C44E568569CBD68A752FA4AF9.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_FurnitureLight.uasset'
+[2019.05.01-14.32.39:747][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_Helmet9CCE9C1642C5F4179B2293A630483889.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_Helmet.uasset'
+[2019.05.01-14.32.39:813][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_YellowGlassD8AE6CE24D250832CECBFC89B727B3D1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_YellowGlass.uasset'
+[2019.05.01-14.32.39:864][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_MonitorScreenA1C86D6F497ABC7EB04F89B211C72179.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_MonitorScreen.uasset'
+[2019.05.01-14.32.39:916][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_MonitorBase9670FEE746CDEDC6084455BAC3EA1B93.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_MonitorBase.uasset'
+[2019.05.01-14.32.39:966][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_HelmetSidesBC1AFCE2417BD59CD1A96CBD85222813.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Props/MI_HelmetSides.uasset'
+[2019.05.01-14.32.41:328][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_LeftBootEDC3F0AA4F62977C6E2E30AACBDD5E35.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Clothing/SM_LeftBoot.uasset'
+[2019.05.01-14.32.41:482][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_RightBoot7CE3A86241D59B240D37DAA9BC7C5CBE.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Clothing/SM_RightBoot.uasset'
+[2019.05.01-14.32.41:538][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Crate_Three7E33CE39401A3C1CA9C649A83DC1BAFD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Containers/Crate_Three.uasset'
+[2019.05.01-14.32.41:590][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Crate_TwoA48F62C6421508436034F586B5DC7549.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Containers/Crate_Two.uasset'
+[2019.05.01-14.32.41:645][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Props/CryoPod" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/CryoPod.uasset" SILENT=true
+[2019.05.01-14.32.41:689][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/CryoPodCC860D274481B6EB3138BBB0039FEC03.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/CryoPod.uasset'
+[2019.05.01-14.32.41:747][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Cryo_BracketE04C7D4648EA32987E459094E669BA59.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/CryoPod/SM_Cryo_Bracket.uasset'
+[2019.05.01-14.32.41:801][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Cryo_Pod728A2D09467D36DDB2EF769E9A34DB93.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/CryoPod/SM_Cryo_Pod.uasset'
+[2019.05.01-14.32.41:940][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Cryo_Pod_Door410C5DCB4C9E70A854F4349B5865203D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/CryoPod/SM_Cryo_Pod_Door.uasset'
+[2019.05.01-14.32.42:027][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Cryo_WallMount1F88C0674C0E35F174A8179B9E5D9639.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/CryoPod/SM_Cryo_WallMount.uasset'
+[2019.05.01-14.32.42:082][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Props/BP_FuelBarrel" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/BP_FuelBarrel.uasset" SILENT=true
+[2019.05.01-14.32.42:100][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_FuelBarrelDD4CCA8F40FF88A2AFEF999E964AABCC.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/BP_FuelBarrel.uasset'
+[2019.05.01-14.32.42:163][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_FuelBarrel_Barrel4B18B3014014F4E2C7CCCE994D2D1299.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/FuelBarrel/SM_FuelBarrel_Barrel.uasset'
+[2019.05.01-14.32.42:217][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_FuelBarrel_LidF836C3E94A94C8E96985938877A9F7D0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/FuelBarrel/SM_FuelBarrel_Lid.uasset'
+[2019.05.01-14.32.42:299][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Chair_Body6BAE390542312AF4567603A4CAD17523.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Desk_Junk/SM_Chair_Body.uasset'
+[2019.05.01-14.32.42:334][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Chair_RingC5B829694656969F119953A9479CB8A7.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Desk_Junk/SM_Chair_Ring.uasset'
+[2019.05.01-14.32.42:369][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Table22E0CA844AF6789AFBA588BF2102A54D.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Desk_Junk/SM_Table.uasset'
+[2019.05.01-14.32.42:429][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Helmet_MainE67D0EF94C9ED558943FB29FEFDBD870.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Clothing/SM_Helmet_Main.uasset'
+[2019.05.01-14.32.42:498][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_EmergencyLight27A31FCB4E26F6A2F2D923A14084AD16.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Props/Lights/BP_EmergencyLight.uasset'
+[2019.05.01-14.32.42:534][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_MonitorCFD127A0470B29F06BD135A086660152.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Desk_Junk/SM_Monitor.uasset'
+[2019.05.01-14.32.42:574][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Monitor_BaseA5F2AB064FD330ABBE355E9496A86952.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Desk_Junk/SM_Monitor_Base.uasset'
+[2019.05.01-14.32.42:694][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Helmet_Side_L55A2E42B4FD81FA64F532B9DBC823B10.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Clothing/SM_Helmet_Side_L.uasset'
+[2019.05.01-14.32.42:795][505]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Helmet_Side_RDE379495457A9CF69D93E5801D4EB1B0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Static_Meshes/Props/Clothing/SM_Helmet_Side_R.uasset'
+[2019.05.01-14.32.57:577][344]LogEditorViewport: Clicking on Actor (LMB): BP_AI_Fridge_C (BP_AI_Fridge)
+[2019.05.01-14.32.59:613][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-14.33.04:502][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.33.05:571][715]LogEditorActor: Deleted Actor: BP_AI_Fridge_C
+[2019.05.01-14.33.05:651][715]LogEditorActor: Deleted 1 Actors (0.145 secs)
+[2019.05.01-14.33.08:847][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-14.33.10:106][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.33.11:257][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-14.33.12:846][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_AI_Phone_C (BP_AI_Phone)
+[2019.05.01-14.33.13:257][112]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-14.33.14:872][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-14.33.30:518][126]LogEditorViewport: Clicking on Actor (LMB): BP_AI_Phone_C (BP_AI_Phone)
+[2019.05.01-14.33.35:629][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.33.51:743][353]LogAssetEditorManager: Opening Asset editor for Material /Game/Chris/Materials/M_FPSCharacter.M_FPSCharacter
+[2019.05.01-14.33.51:794][353]LogMaterial: Display: Missing cached shader map for material M_FPSCharacter, compiling. 
+[2019.05.01-14.33.52:835][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.01-14.33.52:841][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.01-14.33.52:848][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.01-14.33.52:855][353]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-14.33.52:855][353]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-14.33.52:855][353]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-14.33.52:855][353]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.33.52:855][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.01-14.33.52:874][353]LogMaterial: Display: Missing cached shader map for material M_FPSCharacter, compiling. 
+[2019.05.01-14.33.52:945][353]LogMaterial: Display: Missing cached shader map for material M_FPSCharacter, compiling. 
+[2019.05.01-14.33.53:017][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.01-14.33.53:024][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.01-14.33.53:032][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.01-14.33.53:039][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.01-14.33.53:175][353]LogSlate: Took 0.009715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.01-14.33.54:836][358]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-14.33.54:871][359]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-14.33.54:923][360]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-14.33.54:932][360]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-14.33.55:207][371]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-14.33.55:274][375]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-14.33.55:291][376]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-14.33.55:353][379]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-14.33.55:511][385]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-14.33.55:578][389]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-14.33.55:578][389]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-14.33.55:610][391]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-14.33.55:799][402]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-14.33.56:069][415]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-14.33.56:366][432]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-14.33.56:472][438]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-14.33.56:605][446]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-14.33.56:811][458]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-14.33.56:919][464]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-14.33.57:306][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-14.33.57:359][489]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-14.33.57:522][499]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-14.33.57:618][504]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-14.33.57:753][512]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-14.33.58:076][530]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-14.33.58:122][531]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-14.33.58:122][531]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-14.33.58:313][542]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-14.33.58:501][553]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: Texture samplers: 5/16
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.05.01-14.33.59:314][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.01-14.34.41:496][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/M_TexGlow" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_TexGlow.uasset" SILENT=true
+[2019.05.01-14.34.41:509][ 28]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_TexGlow8BA2B7D0482D8F64929197BFAB7730FD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/M_TexGlow.uasset'
+[2019.05.01-14.34.41:760][ 28]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_FPSCharacterDFD1109F4BA28352F9B606AB6024AD15.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_FPSCharacter.uasset'
+[2019.05.01-14.35.33:044][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.35.44:404][555]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Chris/Materials/MI_PhoneScreenRinging.MI_PhoneScreenRinging
+[2019.05.01-14.35.44:852][556]LogRenderer: Reallocating scene render targets to support 1144x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-14.35.53:286][999]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_PhoneScreenRinging, compiling. 
+[2019.05.01-14.35.53:670][999]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.35.53:700][999]TextureStreamingBuild: Display: Compiling optional shaders took 0.441 seconds.
+[2019.05.01-14.35.53:776][999]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenRingingB714022C49E63684C41A2B8AE878D546.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenRinging.uasset'
+[2019.05.01-14.36.04:369][576]LogAssetEditorManager: Opening Asset editor for Material /Game/Chris/Materials/M_Hologram.M_Hologram
+[2019.05.01-14.36.04:376][576]LogMaterial: Display: Missing cached shader map for material M_Hologram, compiling. 
+[2019.05.01-14.36.04:649][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_1, compiling. 
+[2019.05.01-14.36.04:655][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.01-14.36.04:662][576]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-14.36.04:662][576]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.36.04:662][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.05.01-14.36.04:671][576]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-14.36.04:672][576]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.36.04:672][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.05.01-14.36.04:687][576]LogMaterial: Display: Missing cached shader map for material M_Hologram, compiling. 
+[2019.05.01-14.36.04:775][576]LogMaterial: Display: Missing cached shader map for material M_Hologram, compiling. 
+[2019.05.01-14.36.04:875][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_1, compiling. 
+[2019.05.01-14.36.04:892][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.01-14.36.04:901][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.05.01-14.36.04:911][576]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.05.01-14.36.05:028][576]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.05.01-14.36.05:256][577]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.05.01-14.36.05:256][577]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.05.01-14.36.05:256][577]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.05.01-14.36.05:256][577]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.01-14.36.05:353][580]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.01-14.36.05:371][580]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.05.01-14.36.05:413][581]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.05.01-14.36.05:425][581]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.05.01-14.36.05:646][591]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.05.01-14.36.06:485][628]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.05.01-14.36.06:512][629]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.05.01-14.36.06:572][633]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.05.01-14.36.07:152][663]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.05.01-14.36.07:455][678]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.01-14.36.07:524][682]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.01-14.36.07:779][696]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.05.01-14.36.08:186][713]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.05.01-14.36.08:316][719]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.05.01-14.36.08:466][725]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.05.01-14.36.08:769][740]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.05.01-14.36.09:422][773]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.05.01-14.36.09:495][777]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.01-14.36.09:689][787]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.05.01-14.36.10:093][808]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.01-14.36.10:426][825]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.01-14.36.10:654][837]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.01-14.36.10:890][849]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.01-14.36.11:074][859]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.01-14.36.11:692][885]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.05.01-14.36.11:757][888]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.01-14.36.12:062][902]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.05.01-14.36.12:143][906]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.01-14.36.12:389][918]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.05.01-14.36.12:414][919]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.01-14.36.12:677][930]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.01-14.36.12:937][940]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.01-14.36.12:977][942]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.01-14.36.13:785][973]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.01-14.36.14:104][987]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.01-14.36.14:125][988]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.01-14.36.14:794][  6]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.01-14.36.14:956][ 11]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-14.36.15:033][ 14]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-14.36.15:406][ 27]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-14.36.15:868][ 49]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-14.36.15:885][ 50]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-14.36.16:061][ 59]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-14.36.16:785][ 93]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-14.36.17:258][108]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-14.36.17:447][112]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-14.36.17:593][115]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-14.36.17:976][129]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-14.36.18:781][170]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-14.36.18:873][175]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-14.36.19:123][189]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-14.36.19:693][218]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-14.36.20:274][244]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-14.36.20:588][258]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-14.36.20:880][260]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-14.36.20:880][260]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-14.36.20:880][260]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-14.36.20:880][260]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-14.36.20:899][260]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-14.36.25:395][260]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.36.25:395][260]LogSkeletalMesh: Built Skeletal Mesh [4.50s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.36.25:396][260]LogMaterial: Warning: Material /Game/Chris/Materials/M_Tex.M_Tex needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.01-14.36.25:437][260]LogMaterial: Display: Missing cached shader map for material M_Tex, compiling. 
+[2019.05.01-14.36.25:534][260]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.01-14.36.25:534][260]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.01-14.36.25:534][260]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-14.36.25:534][260]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-14.36.29:001][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-14.36.30:192][470]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-14.36.33:689][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.36.33:808][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.36.34:207][656]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Phone45C44FB84DF15A7FFBB621AF420F7E98.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.36.50:645][542]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenRingingC2EF6C76436347676E4B81B8CBD6B59E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenRinging.uasset'
+[2019.05.01-14.36.54:105][735]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenRinging2A37FBD34B1F87065782E4A85A7EA1EB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_PhoneScreenRinging.uasset'
+[2019.05.01-14.36.54:461][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.36.54:555][735]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Phone0083C0DE4AC102A1E9951B9193F6A37E.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.37.10:062][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/MI_PhoneScreenBlock" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenBlock.uasset" SILENT=true
+[2019.05.01-14.37.10:073][620]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenBlockE3AFF85244A86F077E1474B8B0F12BFB.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenBlock.uasset'
+[2019.05.01-14.37.11:354][668]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Chris/Materials/MI_PhoneScreenBlock.MI_PhoneScreenBlock
+[2019.05.01-14.37.18:550][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Materials/MI_PhoneScreenBlock" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenBlock.uasset" SILENT=true
+[2019.05.01-14.37.18:581][ 79]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_PhoneScreenBlock, compiling. 
+[2019.05.01-14.37.18:917][ 79]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.37.18:919][ 79]TextureStreamingBuild: Display: Compiling optional shaders took 0.343 seconds.
+[2019.05.01-14.37.18:957][ 79]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenBlock9FEA8A6340F463CE645BC9B9CF8A5077.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenBlock.uasset'
+[2019.05.01-14.37.35:465][ 14]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Chris/Materials/MI_PhoneScreenCracked.MI_PhoneScreenCracked
+[2019.05.01-14.37.45:117][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.37.45:280][579]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_PhoneScreenCracked, compiling. 
+[2019.05.01-14.37.45:605][579]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-14.37.45:607][579]TextureStreamingBuild: Display: Compiling optional shaders took 0.331 seconds.
+[2019.05.01-14.37.45:642][579]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenCracked5CBDB0F343415D91F6B3B1996CCE23F6.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/MI_PhoneScreenCracked.uasset'
+[2019.05.01-14.37.55:126][115]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenCrackedFEC81E0543C997A8AF49EA9BFF19508F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_PhoneScreenCracked.uasset'
+[2019.05.01-14.37.55:155][115]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreenBlock0CD15149497BFDD1DAB283B9B3E94C48.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_PhoneScreenBlock.uasset'
+[2019.05.01-14.38.01:331][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.38.09:954][911]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.38.13:532][911]LogSkeletalMesh: Built Skeletal Mesh [3.58s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.38.24:794][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.38.33:744][ 88]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.38.37:226][ 88]LogSkeletalMesh: Built Skeletal Mesh [3.49s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.38.42:279][344]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.38.45:786][344]LogSkeletalMesh: Built Skeletal Mesh [3.51s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.38.51:576][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.39.01:511][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.39.05:006][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.39.13:210][951]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.39.16:723][951]LogSkeletalMesh: Built Skeletal Mesh [3.51s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.39.25:422][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.39.32:286][846]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.39.35:847][846]LogSkeletalMesh: Built Skeletal Mesh [3.57s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.39.42:734][218]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.39.46:633][218]LogSkeletalMesh: Built Skeletal Mesh [3.90s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.39.52:036][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.39.58:475][888]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.40.02:145][888]LogSkeletalMesh: Built Skeletal Mesh [3.67s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.40.10:440][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.40.35:663][856]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.40.39:328][856]LogSkeletalMesh: Built Skeletal Mesh [3.67s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.40.39:328][856]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.01-14.40.39:351][856]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2019.05.01-14.40.39:511][856]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.01-14.40.39:511][856]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.01-14.40.39:511][856]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.01-14.40.39:511][856]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-14.40.44:795][ 92]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-14.40.45:893][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.40.46:046][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.40.46:193][147]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_PhoneA24413C7409178FD76A30D9CDA747825.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.40.46:354][151]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-14.40.49:940][325]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-14.41.12:414][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.41.12:518][560]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Phone32A7085B40D7C932E39089BF9C7297B0.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.41.41:464][850]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.01-14.41.55:807][558]LogEditorViewport: Clicking on Actor (LMB): BP_Large_Room_Square_C (Weapons Room)
+[2019.05.01-14.42.02:946][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.42.09:744][373]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.42.13:266][373]LogSkeletalMesh: Built Skeletal Mesh [3.53s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.42.20:079][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-14.42.23:321][938]LogSkeletalMesh: Building Skeletal Mesh SM_Phone...
+[2019.05.01-14.42.26:852][938]LogSkeletalMesh: Built Skeletal Mesh [3.54s] /Game/Chris/Characters/Phone/SM_Phone.SM_Phone
+[2019.05.01-14.42.33:537][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.42.33:656][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.42.33:756][317]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_PhoneE932EE4B45FEE952F5A27EB10304AA00.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.42.34:070][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.42.41:035][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.42.45:438][991]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Phone.BP_AI_Phone
+[2019.05.01-14.42.46:588][991]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 117 classes and 0 folders.
+[2019.05.01-14.42.50:690][ 90]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Phone.BP_AI_Phone
+[2019.05.01-14.43.12:921][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Chris/AI/BP_AI_Character.BP_AI_Character
+[2019.05.01-14.44.02:685][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_Auto1BA0500484A8A7F8DF56B248410B14424.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Kim/Maps/SpaceMap_Auto1.umap'
+[2019.05.01-14.44.02:730][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Kim/Maps/SpaceMap' took 1.561
+[2019.05.01-14.44.02:730][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.561
+[2019.05.01-14.44.02:741][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/AI/BP_AI_HooverBot] ([1] browsable assets)...
+[2019.05.01-14.44.02:783][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chris/AI/BP_AI_HooverBot.BP_AI_HooverBot]
+[2019.05.01-14.44.02:783][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/AI/BP_AI_HooverBot]
+[2019.05.01-14.44.02:822][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_HooverBot_Auto159444C584F703C47E9C612A9369CBC63.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/AI/BP_AI_HooverBot_Auto1.uasset'
+[2019.05.01-14.44.02:823][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Textures/Characters/Phone/phonescreencrack] ([1] browsable assets)...
+[2019.05.01-14.44.02:829][199]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Chris/Textures/Characters/Phone/phonescreencrack.phonescreencrack]
+[2019.05.01-14.44.02:829][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Textures/Characters/Phone/phonescreencrack]
+[2019.05.01-14.44.02:840][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/phonescreencrack_Auto15B61E55C43C5E5EEB934BCA059BB8E11.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Textures/Characters/Phone/phonescreencrack_Auto1.uasset'
+[2019.05.01-14.44.02:841][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Textures/Characters/Phone/phonescreencall9] ([1] browsable assets)...
+[2019.05.01-14.44.02:847][199]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Chris/Textures/Characters/Phone/phonescreencall9.phonescreencall9]
+[2019.05.01-14.44.02:847][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Textures/Characters/Phone/phonescreencall9]
+[2019.05.01-14.44.02:860][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/phonescreencall9_Auto137F96B274F1657CB41FBE6980E07468F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Textures/Characters/Phone/phonescreencall9_Auto1.uasset'
+[2019.05.01-14.44.02:860][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Textures/Characters/Phone/phonescreenban] ([1] browsable assets)...
+[2019.05.01-14.44.02:866][199]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Chris/Textures/Characters/Phone/phonescreenban.phonescreenban]
+[2019.05.01-14.44.02:866][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Textures/Characters/Phone/phonescreenban]
+[2019.05.01-14.44.02:879][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/phonescreenban_Auto1C4BB1C0C4D6CFC1ACA2D37A90F7A491C.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Textures/Characters/Phone/phonescreenban_Auto1.uasset'
+[2019.05.01-14.44.02:880][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chris/Materials/M_Tex] ([1] browsable assets)...
+[2019.05.01-14.44.02:915][199]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Chris/Materials/M_Tex.M_Tex]
+[2019.05.01-14.44.02:915][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chris/Materials/M_Tex]
+[2019.05.01-14.44.02:936][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_Tex_Auto11609F8B445C8B3F45C439EA0A8154889.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/Chris/Materials/M_Tex_Auto1.uasset'
+[2019.05.01-14.44.02:938][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Rock_Basalt] ([1] browsable assets)...
+[2019.05.01-14.44.02:973][199]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt]
+[2019.05.01-14.44.02:973][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Rock_Basalt]
+[2019.05.01-14.44.03:001][199]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/M_Rock_Basalt_Auto19CD766C74DBB431E72E38D80F2BD0C97.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Autosaves/Game/StarterContent/Materials/M_Rock_Basalt_Auto1.uasset'
+[2019.05.01-14.44.03:009][199]LogFileHelpers: Auto-saving content packages took 0.269
+[2019.05.01-14.45.21:353][886]LogRenderer: Reallocating scene render targets to support 1276x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-14.45.47:962][471]BlueprintLog: New page: Compile BP_AI_Phone
+[2019.05.01-14.45.48:506][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset" SILENT=true
+[2019.05.01-14.45.48:529][471]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Phone8A90370D44C4B0EDEE3CC5A2CA64FC4A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset'
+[2019.05.01-14.46.46:043][820]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Chris/Characters/Phone/BP_PhoneAnimation.BP_PhoneAnimation
+[2019.05.01-14.46.46:162][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-14.46.46:516][820]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-14.46.47:181][820]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-14.47.25:406][ 33]BlueprintLog: New page: Compile BP_PhoneAnimation
+[2019.05.01-14.47.25:852][ 33]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_PhoneAnimation0012C5174B99CEDA6DD4A58119730C4A.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/BP_PhoneAnimation.uasset'
+[2019.05.01-14.47.38:452][769]BlueprintLog: New page: Compile BP_PhoneAnimation
+[2019.05.01-14.47.38:852][769]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_PhoneAnimationECA7DF654E59B6D1C6878B84F7B9F630.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/BP_PhoneAnimation.uasset'
+[2019.05.01-14.47.46:127][185]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Phone/Phone_Attack_Anim.Phone_Attack_Anim
+[2019.05.01-14.47.46:206][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-14.47.46:276][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-14.47.47:138][185]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-14.49.16:021][415]BlueprintLog: New page: Compile BP_AI_Phone
+[2019.05.01-14.49.16:405][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset" SILENT=true
+[2019.05.01-14.49.16:435][415]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_PhoneCC32140A4F4A4D54EA475EA933543F32.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset'
+[2019.05.01-14.49.16:852][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset" SILENT=true
+[2019.05.01-14.49.16:875][436]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Phone51A11E3647DDED3C26FB22A842302E56.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset'
+[2019.05.01-14.49.44:101][ 25]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Chris/Characters/Phone/Phone_Attack_Anim.Phone_Attack_Anim
+[2019.05.01-14.49.44:120][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-14.49.44:159][ 25]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-14.49.44:645][ 25]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-14.49.47:756][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.49.49:866][318]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.01-14.50.00:244][912]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/Phone_Attack_Anim2D99D7B24794C56A943C9F88131FEEBE.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/Phone_Attack_Anim.uasset'
+[2019.05.01-14.52.24:906][397]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/MI_PhoneScreen35B8D6C54B9BEA4DEC6D0B9B1939D9F9.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Materials/Instances/Characters/MI_PhoneScreen.uasset'
+[2019.05.01-14.52.25:505][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/Characters/Phone/SM_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset" SILENT=true
+[2019.05.01-14.52.25:603][397]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SM_Phone624D2E074C77C39618746EAC2E4C927B.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/SM_Phone.uasset'
+[2019.05.01-14.52.25:648][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_Phone" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset" SILENT=true
+[2019.05.01-14.52.25:677][397]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_Phone12F5ABE7422171423EA2CD99191B316F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_Phone.uasset'
+[2019.05.01-14.52.29:631][518]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.01-14.52.32:987][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-14.52.33:950][691]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMapC96C1A50473F3D3CD0BA93941A3C94E1.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap.umap'
+[2019.05.01-14.52.34:105][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kim/Maps/SpaceMap_BuiltData" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset" SILENT=true
+[2019.05.01-14.52.34:141][691]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/SpaceMap_BuiltData6491CA9E4F796EB5BDB32092BCD42F17.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Kim/Maps/SpaceMap_BuiltData.uasset'
+[2019.05.01-14.52.40:876][ 68]BlueprintLog: New page: Compile BP_PhoneAnimation
+[2019.05.01-14.52.41:322][ 68]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_PhoneAnimationAF4B0F1C480459332F54A29607B7F7AD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/BP_PhoneAnimation.uasset'
+[2019.05.01-14.53.02:840][314]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Chris/Materials/Instances/Characters/MI_PhoneScreen.MI_PhoneScreen
+[2019.05.01-14.53.17:926][194]BlueprintLog: New page: Compile BP_PhoneAnimation
+[2019.05.01-14.53.18:363][194]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_PhoneAnimation4CDE060949C39185AFE71290802F7F7F.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/Characters/Phone/BP_PhoneAnimation.uasset'
+[2019.05.01-14.53.20:530][311]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-14.53.20:631][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.05.01-14.53.20:654][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.01-14.53.20:663][311]LogPlayLevel: [PlayLevel] Compiling BP_SodaCanProjectile before play...
+[2019.05.01-14.53.20:906][311]LogPlayLevel: [PlayLevel] Compiling BP_AI_HooverBot before play...
+[2019.05.01-14.53.21:196][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chris/AI/BP_AI_HooverBot" FILE="../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_HooverBot.uasset" SILENT=true
+[2019.05.01-14.53.21:236][311]LogSavePackage: Moving '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Saved/BP_AI_HooverBot4705C49E4FF3BED12D18FDA8A544D6AD.tmp' to '../../../../../GitKraken/Uni-Project Toast/ProjectToastEmpty/Content/Chris/AI/BP_AI_HooverBot.uasset'
+[2019.05.01-14.53.21:257][311]LogPlayLevel: [PlayLevel] Compiling BP_AI_Phone before play...
+[2019.05.01-14.53.21:510][311]LogPlayLevel: [PlayLevel] Compiling CryoPod before play...
+[2019.05.01-14.53.21:795][311]LogPlayLevel: [PlayLevel] Compiling BP_AI_AvengingMachine before play...
+[2019.05.01-14.53.22:013][311]LogPlayLevel: [PlayLevel] Compiling BP_FuelBarrel before play...
+[2019.05.01-14.53.22:213][311]LogPlayLevel: [PlayLevel] Compiling BP_EmergencyLight before play...
+[2019.05.01-14.53.22:454][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 1800 ms (7 blueprints)
+[2019.05.01-14.53.22:583][311]PIE: New page: PIE session: SpaceMap (1 May 2019 16:53:22)
+[2019.05.01-14.53.22:721][311]LogPlayLevel: Creating play world package: /Game/Kim/Maps/UEDPIE_0_SpaceMap
+[2019.05.01-14.53.22:832][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111420s)
+[2019.05.01-14.53.22:833][311]LogAIModule: Creating AISystem for world SpaceMap
+[2019.05.01-14.53.22:851][311]LogPlayLevel: PIE: World Init took: (0.018754s)
+[2019.05.01-14.53.22:851][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kim/Maps/SpaceMap.SpaceMap to /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap (0.130591s)
+[2019.05.01-14.53.22:949][311]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-14.53.23:077][311]LogInit: FAudioDevice initialized.
+[2019.05.01-14.53.23:158][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.53.23:255][311]LogLoad: Game class is 'BP_ProjectToastGameModeBase_C'
+[2019.05.01-14.53.23:323][311]LogWorld: Bringing World /Game/Kim/Maps/UEDPIE_0_SpaceMap.SpaceMap up for play (max tick rate 60) at 2019.05.01-15.53.23
+[2019.05.01-14.53.23:710][311]LogWorld: Bringing up level for play took: 0.453608
+[2019.05.01-14.53.23:922][311]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.01-14.53.24:054][311]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.05.01-14.53.24:520][311]ProjectSpace: FPSCharacter : Initialized
+[2019.05.01-14.53.24:541][311]PIE: Play in editor start time for /Game/Kim/Maps/UEDPIE_0_SpaceMap 3.577
+[2019.05.01-14.53.24:548][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.05.01-14.53.25:031][311]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-14.53.26:019][341]LogEQS: Warning: Query FindHidingSpot_SingleResult over execution time warning. Total Execution Time: 31.82 ms
+  generator[0]: 31.82 ms (items:160) (EnvQueryGenerator_SimpleGrid_0)
+[2019.05.01-14.53.26:063][343]LogEQS: Warning: Finished query FindHidingSpot_SingleResult over execution time warning. Total Execution Time: 43.51 ms
+  generator[0]: 31.82 ms (items:160) (EnvQueryGenerator_SimpleGrid_0)
+    test[0]: 10.86 ms (items:160) (EnvQueryTest_Distance_0)
+    test[1]: 0.03 ms (items:160) (EnvQueryTest_Distance_1)
+    test[2]: 0.25 ms (items:160) (EnvQueryTest_Trace_1)
+    test[3]: 0.08 ms (items:83) (EnvQueryTest_Trace_2)
+    test[4]: 0.07 ms (items:78) (EnvQueryTest_Dot_0)
+[2019.05.01-14.53.34:876][848]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.01-14.53.35:756][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-14.53.35:877][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-14.53.35:891][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.05.01-14.53.35:933][904]LogSlate: Window 'ProjectToast Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.01-14.53.36:032][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-14.53.36:033][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap' with GeneratedClass '/Game/Kim/Maps/SpaceMap.SpaceMap_C' with ClassGeneratedBy '/Game/Kim/Maps/SpaceMap.SpaceMap:PersistentLevel.SpaceMap'
+[2019.05.01-14.53.36:261][905]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.01-14.53.44:627][398]LogUObjectArray: Warning: Empty slot
+[2019.05.01-14.53.44:653][398]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.01-14.53.47:582][398]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.919 s
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: 
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: Stack: 
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc27b481d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc27b5809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc3666bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc2701769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc26fd0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc37347c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc37594393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc373a2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc3739ee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc3739e483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ff7414a7094 UE4Editor.exe!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ff7414b596c UE4Editor.exe!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ff7414b59ea UE4Editor.exe!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ff7414c48da UE4Editor.exe!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ff7414c659a UE4Editor.exe!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc825d4034 KERNEL32.DLL!UnknownFunction []
+[2019.05.01-14.53.47:591][398]LogOutputDevice: Error: [Callstack] 0x00007ffc849a3691 ntdll.dll!UnknownFunction []
+[2019.05.01-14.53.47:592][398]LogOutputDevice: Error: 
+[2019.05.01-14.53.47:600][398]LogStats:                SubmitErrorReport -  0.000 s
